@@ -1,0 +1,31 @@
+{
+  "name": "Linerstencil",
+  "slug": "linerstencil",
+  "copyright": "Copyright © Max Infeld",
+  "designer": "Max Infeld",
+  "foundry": "Xerographer Fonts",
+  "category": "Fancy",
+  "subcategory": "Various",
+  "files": [
+    {
+      "file": "liner stencil bold.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "liner stencil thin.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "liner stencil.ttf",
+      "format": "ttf"
+    }
+  ],
+  "notices": [],
+  "catalog": "https://fonts.grok.me/font/linerstencil",
+  "dafont": "https://www.dafont.com/linerstencil.font",
+  "licensing": {
+    "personal": "Donationware",
+    "commercial": "Contact maxinfeld@gmail.com — US$95 per typeface, or US$65,000 for the entire catalog, one licensee.",
+    "contact": "maxinfeld@gmail.com"
+  }
+}

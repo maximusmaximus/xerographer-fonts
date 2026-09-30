@@ -1,0 +1,55 @@
+{
+  "name": "Abraxeous",
+  "slug": "abraxeous",
+  "copyright": "Copyright © Max Infeld",
+  "designer": "Max Infeld",
+  "foundry": "Xerographer Fonts",
+  "category": "Fancy",
+  "subcategory": "Retro",
+  "files": [
+    {
+      "file": "Abraxeous.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "AbraxeousBlack.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "AbraxeousBold.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "AbraxeousBoldHollow.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "AbraxeousExtraThin.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "AbraxeousExtraThinItalic.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "AbraxeousItalic.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "AbraxeousNarrow.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "AbraxeousThin.ttf",
+      "format": "ttf"
+    }
+  ],
+  "notices": [],
+  "catalog": "https://fonts.grok.me/font/abraxeous",
+  "dafont": "https://www.dafont.com/abraxeous.font",
+  "licensing": {
+    "personal": "Donationware",
+    "commercial": "Contact maxinfeld@gmail.com — US$95 per typeface, or US$65,000 for the entire catalog, one licensee.",
+    "contact": "maxinfeld@gmail.com"
+  }
+}

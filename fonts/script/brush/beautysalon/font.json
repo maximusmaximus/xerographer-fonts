@@ -1,0 +1,23 @@
+{
+  "name": "Beauty Salon",
+  "slug": "beautysalon",
+  "copyright": "Copyright © Max Infeld",
+  "designer": "Max Infeld",
+  "foundry": "Xerographer Fonts",
+  "category": "Script",
+  "subcategory": "Brush",
+  "files": [
+    {
+      "file": "BeautySalon.ttf",
+      "format": "ttf"
+    }
+  ],
+  "notices": [],
+  "catalog": "https://fonts.grok.me/font/beautysalon",
+  "dafont": "https://www.dafont.com/beautysalon.font",
+  "licensing": {
+    "personal": "Donationware",
+    "commercial": "Contact maxinfeld@gmail.com — US$95 per typeface, or US$65,000 for the entire catalog, one licensee.",
+    "contact": "maxinfeld@gmail.com"
+  }
+}

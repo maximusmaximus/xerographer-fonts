@@ -1,0 +1,23 @@
+{
+  "name": "Derp Icons",
+  "slug": "derpicons",
+  "copyright": "Copyright © Max Infeld",
+  "designer": "Max Infeld",
+  "foundry": "Xerographer Fonts",
+  "category": "Dingbats",
+  "subcategory": "Various",
+  "files": [
+    {
+      "file": "DerpIcons.ttf",
+      "format": "ttf"
+    }
+  ],
+  "notices": [],
+  "catalog": "https://fonts.grok.me/font/derpicons",
+  "dafont": "https://www.dafont.com/derpicons.font",
+  "licensing": {
+    "personal": "Donationware",
+    "commercial": "Contact maxinfeld@gmail.com — US$95 per typeface, or US$65,000 for the entire catalog, one licensee.",
+    "contact": "maxinfeld@gmail.com"
+  }
+}

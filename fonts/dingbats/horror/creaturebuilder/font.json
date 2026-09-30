@@ -1,0 +1,37 @@
+{
+  "name": "Creature Builder",
+  "slug": "creaturebuilder",
+  "copyright": "Copyright © Max Infeld",
+  "designer": "Max Infeld",
+  "foundry": "Xerographer Fonts",
+  "category": "Dingbats",
+  "subcategory": "Horror",
+  "files": [
+    {
+      "file": "CreatureBuilderEars.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "CreatureBuilderEyes.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "CreatureBuilderMouths.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "CreatureBuilderNose.ttf",
+      "format": "ttf"
+    }
+  ],
+  "notices": [
+    "CreatureBuilderContest.txt"
+  ],
+  "catalog": "https://fonts.grok.me/font/creaturebuilder",
+  "dafont": "https://www.dafont.com/creaturebuilder.font",
+  "licensing": {
+    "personal": "Donationware",
+    "commercial": "Contact maxinfeld@gmail.com — US$95 per typeface, or US$65,000 for the entire catalog, one licensee.",
+    "contact": "maxinfeld@gmail.com"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Banquetier",
+  "slug": "banquetier",
+  "copyright": "Copyright © Max Infeld",
+  "designer": "Max Infeld",
+  "foundry": "Xerographer Fonts",
+  "category": "Fancy",
+  "subcategory": "Retro",
+  "files": [
+    {
+      "file": "Banquetier-Black.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "Banquetier-Italic.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "Banquetier.ttf",
+      "format": "ttf"
+    }
+  ],
+  "notices": [],
+  "catalog": "https://fonts.grok.me/font/banquetier",
+  "dafont": "https://www.dafont.com/banquetier.font",
+  "licensing": {
+    "personal": "Donationware",
+    "commercial": "Contact maxinfeld@gmail.com — US$95 per typeface, or US$65,000 for the entire catalog, one licensee.",
+    "contact": "maxinfeld@gmail.com"
+  }
+}

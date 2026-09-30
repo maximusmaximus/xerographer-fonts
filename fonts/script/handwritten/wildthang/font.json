@@ -1,0 +1,23 @@
+{
+  "name": "Wild Thang",
+  "slug": "wildthang",
+  "copyright": "Copyright © Max Infeld",
+  "designer": "Max Infeld",
+  "foundry": "Xerographer Fonts",
+  "category": "Script",
+  "subcategory": "Handwritten",
+  "files": [
+    {
+      "file": "WildThang.ttf",
+      "format": "ttf"
+    }
+  ],
+  "notices": [],
+  "catalog": "https://fonts.grok.me/font/wildthang",
+  "dafont": "https://www.dafont.com/wildthang.font",
+  "licensing": {
+    "personal": "Donationware",
+    "commercial": "Contact maxinfeld@gmail.com — US$95 per typeface, or US$65,000 for the entire catalog, one licensee.",
+    "contact": "maxinfeld@gmail.com"
+  }
+}

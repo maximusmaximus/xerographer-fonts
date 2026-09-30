@@ -1,0 +1,49 @@
+{
+  "name": "Beast Mode Suite",
+  "slug": "beastmode-suite",
+  "copyright": "Copyright © Max Infeld",
+  "designer": "Max Infeld",
+  "foundry": "Xerographer Fonts",
+  "category": "Fancy",
+  "subcategory": "Groovy",
+  "files": [
+    {
+      "file": "BeastMode-Bold.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "BeastMode-BoldItalic.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "BeastMode-Disco.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "BeastMode-Doubleline.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "BeastMode-Inverted.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "BeastMode-Solid.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "BeastMode.ttf",
+      "format": "ttf"
+    }
+  ],
+  "notices": [
+    "read me for licensing and info.txt"
+  ],
+  "catalog": "https://fonts.grok.me/font/beastmode-suite",
+  "dafont": "https://www.dafont.com/beastmode-suite.font",
+  "licensing": {
+    "personal": "Donationware",
+    "commercial": "Contact maxinfeld@gmail.com — US$95 per typeface, or US$65,000 for the entire catalog, one licensee.",
+    "contact": "maxinfeld@gmail.com"
+  }
+}

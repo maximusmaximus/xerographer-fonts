@@ -1,0 +1,69 @@
+{
+  "name": "Epicenter",
+  "slug": "epicenter",
+  "copyright": "Copyright © Max Infeld",
+  "designer": "Max Infeld",
+  "foundry": "Xerographer Fonts",
+  "category": "Techno",
+  "subcategory": "Sci-fi",
+  "files": [
+    {
+      "file": "Epicenter-Black.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "Epicenter-BlackItalic.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "Epicenter-Bold.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "Epicenter-BoldSkinny.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "Epicenter-BoldThin.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "Epicenter-Disco.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "Epicenter-DiscoItalic.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "Epicenter-Italic.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "Epicenter-Thin.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "Epicenter-ThinItalic.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "Epicenter-TwoStroke.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "Epicenter.ttf",
+      "format": "ttf"
+    }
+  ],
+  "notices": [
+    "read me for licensing and info.txt"
+  ],
+  "catalog": "https://fonts.grok.me/font/epicenter",
+  "dafont": "https://www.dafont.com/epicenter.font",
+  "licensing": {
+    "personal": "Donationware",
+    "commercial": "Contact maxinfeld@gmail.com — US$95 per typeface, or US$65,000 for the entire catalog, one licensee.",
+    "contact": "maxinfeld@gmail.com"
+  }
+}

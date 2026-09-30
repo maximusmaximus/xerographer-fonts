@@ -1,0 +1,23 @@
+{
+  "name": "Quick Fade",
+  "slug": "quick-fade",
+  "copyright": "Copyright © Max Infeld",
+  "designer": "Max Infeld",
+  "foundry": "Xerographer Fonts",
+  "category": "Fancy",
+  "subcategory": "Distorted",
+  "files": [
+    {
+      "file": "QuickFade.ttf",
+      "format": "ttf"
+    }
+  ],
+  "notices": [],
+  "catalog": "https://fonts.grok.me/font/quick-fade",
+  "dafont": "https://www.dafont.com/quick-fade.font",
+  "licensing": {
+    "personal": "Donationware",
+    "commercial": "Contact maxinfeld@gmail.com — US$95 per typeface, or US$65,000 for the entire catalog, one licensee.",
+    "contact": "maxinfeld@gmail.com"
+  }
+}

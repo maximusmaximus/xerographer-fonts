@@ -1,0 +1,23 @@
+{
+  "name": "Awesome Play",
+  "slug": "awesomeplay",
+  "copyright": "Copyright © Max Infeld",
+  "designer": "Max Infeld",
+  "foundry": "Xerographer Fonts",
+  "category": "Fancy",
+  "subcategory": "Cartoon",
+  "files": [
+    {
+      "file": "AwesomePlay.ttf",
+      "format": "ttf"
+    }
+  ],
+  "notices": [],
+  "catalog": "https://fonts.grok.me/font/awesomeplay",
+  "dafont": "https://www.dafont.com/awesomeplay.font",
+  "licensing": {
+    "personal": "Donationware",
+    "commercial": "Contact maxinfeld@gmail.com — US$95 per typeface, or US$65,000 for the entire catalog, one licensee.",
+    "contact": "maxinfeld@gmail.com"
+  }
+}

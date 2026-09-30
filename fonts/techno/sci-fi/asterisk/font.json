@@ -1,0 +1,53 @@
+{
+  "name": "Asterisk",
+  "slug": "asterisk",
+  "copyright": "Copyright © Max Infeld",
+  "designer": "Max Infeld",
+  "foundry": "Xerographer Fonts",
+  "category": "Techno",
+  "subcategory": "Sci-fi",
+  "files": [
+    {
+      "file": "Asterisk-Bold.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "Asterisk-DoubleLine.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "Asterisk-FineLine.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "Asterisk-HollowBold.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "Asterisk-Lines.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "Asterisk-Plain.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "Asterisk-Rounded.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "Asterisk-ThinLaser.ttf",
+      "format": "ttf"
+    }
+  ],
+  "notices": [
+    "Asterisk ReadMe.txt"
+  ],
+  "catalog": "https://fonts.grok.me/font/asterisk",
+  "dafont": "https://www.dafont.com/asterisk.font",
+  "licensing": {
+    "personal": "Donationware",
+    "commercial": "Contact maxinfeld@gmail.com — US$95 per typeface, or US$65,000 for the entire catalog, one licensee.",
+    "contact": "maxinfeld@gmail.com"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Intaglio Plains",
+  "slug": "intaglioplains",
+  "copyright": "Copyright © Max Infeld",
+  "designer": "Max Infeld",
+  "foundry": "Xerographer Fonts",
+  "category": "Script",
+  "subcategory": "Graffiti",
+  "files": [
+    {
+      "file": "IntaglioPlains.ttf",
+      "format": "ttf"
+    }
+  ],
+  "notices": [],
+  "catalog": "https://fonts.grok.me/font/intaglioplains",
+  "dafont": "https://www.dafont.com/intaglioplains.font",
+  "licensing": {
+    "personal": "Donationware",
+    "commercial": "Contact maxinfeld@gmail.com — US$95 per typeface, or US$65,000 for the entire catalog, one licensee.",
+    "contact": "maxinfeld@gmail.com"
+  }
+}

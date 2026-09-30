@@ -1,0 +1,23 @@
+{
+  "name": "Freeky Typewriter",
+  "slug": "freekytypewriter",
+  "copyright": "Copyright © Max Infeld",
+  "designer": "Max Infeld",
+  "foundry": "Xerographer Fonts",
+  "category": "Fancy",
+  "subcategory": "Typewriter",
+  "files": [
+    {
+      "file": "FreekyTypewriter.ttf",
+      "format": "ttf"
+    }
+  ],
+  "notices": [],
+  "catalog": "https://fonts.grok.me/font/freekytypewriter",
+  "dafont": "https://www.dafont.com/freekytypewriter.font",
+  "licensing": {
+    "personal": "Donationware",
+    "commercial": "Contact maxinfeld@gmail.com — US$95 per typeface, or US$65,000 for the entire catalog, one licensee.",
+    "contact": "maxinfeld@gmail.com"
+  }
+}

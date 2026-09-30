@@ -1,0 +1,27 @@
+{
+  "name": "Real Prizes",
+  "slug": "realprizes",
+  "copyright": "Copyright © Max Infeld",
+  "designer": "Max Infeld",
+  "foundry": "Xerographer Fonts",
+  "category": "Script",
+  "subcategory": "Various",
+  "files": [
+    {
+      "file": "RealPrizes-Italic.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "RealPrizes-VeryItalic.ttf",
+      "format": "ttf"
+    }
+  ],
+  "notices": [],
+  "catalog": "https://fonts.grok.me/font/realprizes",
+  "dafont": "https://www.dafont.com/realprizes.font",
+  "licensing": {
+    "personal": "Donationware",
+    "commercial": "Contact maxinfeld@gmail.com — US$95 per typeface, or US$65,000 for the entire catalog, one licensee.",
+    "contact": "maxinfeld@gmail.com"
+  }
+}

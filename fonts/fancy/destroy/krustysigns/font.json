@@ -1,0 +1,23 @@
+{
+  "name": "Krusty Signs",
+  "slug": "krustysigns",
+  "copyright": "Copyright © Max Infeld",
+  "designer": "Max Infeld",
+  "foundry": "Xerographer Fonts",
+  "category": "Fancy",
+  "subcategory": "Destroy",
+  "files": [
+    {
+      "file": "KrustySigns.ttf",
+      "format": "ttf"
+    }
+  ],
+  "notices": [],
+  "catalog": "https://fonts.grok.me/font/krustysigns",
+  "dafont": "https://www.dafont.com/krustysigns.font",
+  "licensing": {
+    "personal": "Donationware",
+    "commercial": "Contact maxinfeld@gmail.com — US$95 per typeface, or US$65,000 for the entire catalog, one licensee.",
+    "contact": "maxinfeld@gmail.com"
+  }
+}

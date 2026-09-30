@@ -1,0 +1,39 @@
+{
+  "name": "Martienso",
+  "slug": "martienso",
+  "copyright": "Copyright © Max Infeld",
+  "designer": "Max Infeld",
+  "foundry": "Xerographer Fonts",
+  "category": "Techno",
+  "subcategory": "Various",
+  "files": [
+    {
+      "file": "Martienso-Bold.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "Martienso-Heavy.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "Martienso-Medium.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "Martienso-Thin.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "Martienso.ttf",
+      "format": "ttf"
+    }
+  ],
+  "notices": [],
+  "catalog": "https://fonts.grok.me/font/martienso",
+  "dafont": "https://www.dafont.com/martienso.font",
+  "licensing": {
+    "personal": "Donationware",
+    "commercial": "Contact maxinfeld@gmail.com — US$95 per typeface, or US$65,000 for the entire catalog, one licensee.",
+    "contact": "maxinfeld@gmail.com"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Xelita",
+  "slug": "xelita",
+  "copyright": "Copyright © Max Infeld",
+  "designer": "Max Infeld",
+  "foundry": "Xerographer Fonts",
+  "category": "Basic",
+  "subcategory": "Various",
+  "files": [
+    {
+      "file": "Xelita.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "XelitaBold.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "XelitaItalic.ttf",
+      "format": "ttf"
+    }
+  ],
+  "notices": [],
+  "catalog": "https://fonts.grok.me/font/xelita",
+  "dafont": "https://www.dafont.com/xelita.font",
+  "licensing": {
+    "personal": "Donationware",
+    "commercial": "Contact maxinfeld@gmail.com — US$95 per typeface, or US$65,000 for the entire catalog, one licensee.",
+    "contact": "maxinfeld@gmail.com"
+  }
+}

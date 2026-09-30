@@ -1,0 +1,43 @@
+{
+  "name": "Ephemerian",
+  "slug": "ephemerian",
+  "copyright": "Copyright © Max Infeld",
+  "designer": "Max Infeld",
+  "foundry": "Xerographer Fonts",
+  "category": "Fancy",
+  "subcategory": "Retro",
+  "files": [
+    {
+      "file": "Ephemerian.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "EphemerianBold.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "EphemerianBoldItalic.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "EphemerianItalic.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "EphemerianThin.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "EphemerianThinItalic.ttf",
+      "format": "ttf"
+    }
+  ],
+  "notices": [],
+  "catalog": "https://fonts.grok.me/font/ephemerian",
+  "dafont": "https://www.dafont.com/ephemerian.font",
+  "licensing": {
+    "personal": "Donationware",
+    "commercial": "Contact maxinfeld@gmail.com — US$95 per typeface, or US$65,000 for the entire catalog, one licensee.",
+    "contact": "maxinfeld@gmail.com"
+  }
+}

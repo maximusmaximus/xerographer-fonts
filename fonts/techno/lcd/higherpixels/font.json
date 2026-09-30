@@ -1,0 +1,23 @@
+{
+  "name": "Higher Pixels",
+  "slug": "higherpixels",
+  "copyright": "Copyright © Max Infeld",
+  "designer": "Max Infeld",
+  "foundry": "Xerographer Fonts",
+  "category": "Techno",
+  "subcategory": "LCD",
+  "files": [
+    {
+      "file": "HigherPixels.ttf",
+      "format": "ttf"
+    }
+  ],
+  "notices": [],
+  "catalog": "https://fonts.grok.me/font/higherpixels",
+  "dafont": "https://www.dafont.com/higherpixels.font",
+  "licensing": {
+    "personal": "Donationware",
+    "commercial": "Contact maxinfeld@gmail.com — US$95 per typeface, or US$65,000 for the entire catalog, one licensee.",
+    "contact": "maxinfeld@gmail.com"
+  }
+}

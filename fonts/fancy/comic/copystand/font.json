@@ -1,0 +1,27 @@
+{
+  "name": "CopyStand",
+  "slug": "copystand",
+  "copyright": "Copyright © Max Infeld",
+  "designer": "Max Infeld",
+  "foundry": "Xerographer Fonts",
+  "category": "Fancy",
+  "subcategory": "Comic",
+  "files": [
+    {
+      "file": "CopyStand hollow.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "CopyStand.ttf",
+      "format": "ttf"
+    }
+  ],
+  "notices": [],
+  "catalog": "https://fonts.grok.me/font/copystand",
+  "dafont": "https://www.dafont.com/copystand.font",
+  "licensing": {
+    "personal": "Donationware",
+    "commercial": "Contact maxinfeld@gmail.com — US$95 per typeface, or US$65,000 for the entire catalog, one licensee.",
+    "contact": "maxinfeld@gmail.com"
+  }
+}

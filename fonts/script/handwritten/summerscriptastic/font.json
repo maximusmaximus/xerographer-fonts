@@ -1,0 +1,23 @@
+{
+  "name": "Summer Scriptastic",
+  "slug": "summerscriptastic",
+  "copyright": "Copyright © Max Infeld",
+  "designer": "Max Infeld",
+  "foundry": "Xerographer Fonts",
+  "category": "Script",
+  "subcategory": "Handwritten",
+  "files": [
+    {
+      "file": "SummerScriptastic.ttf",
+      "format": "ttf"
+    }
+  ],
+  "notices": [],
+  "catalog": "https://fonts.grok.me/font/summerscriptastic",
+  "dafont": "https://www.dafont.com/summerscriptastic.font",
+  "licensing": {
+    "personal": "Donationware",
+    "commercial": "Contact maxinfeld@gmail.com — US$95 per typeface, or US$65,000 for the entire catalog, one licensee.",
+    "contact": "maxinfeld@gmail.com"
+  }
+}

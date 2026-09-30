@@ -1,0 +1,23 @@
+{
+  "name": "Monster Energy",
+  "slug": "monsterenergy",
+  "copyright": "Copyright © Max Infeld",
+  "designer": "Max Infeld",
+  "foundry": "Xerographer Fonts",
+  "category": "Fancy",
+  "subcategory": "Horror",
+  "files": [
+    {
+      "file": "MonsterEnergy.ttf",
+      "format": "ttf"
+    }
+  ],
+  "notices": [],
+  "catalog": "https://fonts.grok.me/font/monsterenergy",
+  "dafont": "https://www.dafont.com/monsterenergy.font",
+  "licensing": {
+    "personal": "Donationware",
+    "commercial": "Contact maxinfeld@gmail.com — US$95 per typeface, or US$65,000 for the entire catalog, one licensee.",
+    "contact": "maxinfeld@gmail.com"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Mastum",
+  "slug": "mastum",
+  "copyright": "Copyright © Max Infeld",
+  "designer": "Max Infeld",
+  "foundry": "Xerographer Fonts",
+  "category": "Fancy",
+  "subcategory": "Various",
+  "files": [
+    {
+      "file": "Mastum.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "MastumBold.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "MastumBoldItalic.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "MastumHollow.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "MastumItalic.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "MastumThin.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "MastumThinItalic.ttf",
+      "format": "ttf"
+    }
+  ],
+  "notices": [],
+  "catalog": "https://fonts.grok.me/font/mastum",
+  "dafont": "https://www.dafont.com/mastum.font",
+  "licensing": {
+    "personal": "Donationware",
+    "commercial": "Contact maxinfeld@gmail.com — US$95 per typeface, or US$65,000 for the entire catalog, one licensee.",
+    "contact": "maxinfeld@gmail.com"
+  }
+}

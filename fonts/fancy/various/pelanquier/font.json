@@ -1,0 +1,43 @@
+{
+  "name": "Pelanquier",
+  "slug": "pelanquier",
+  "copyright": "Copyright © Max Infeld",
+  "designer": "Max Infeld",
+  "foundry": "Xerographer Fonts",
+  "category": "Fancy",
+  "subcategory": "Various",
+  "files": [
+    {
+      "file": "Pelanquier.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "PelanquierBlack.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "PelanquierBold.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "PelanquierHollow.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "PelanquierItalic.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "PelanquierThin.ttf",
+      "format": "ttf"
+    }
+  ],
+  "notices": [],
+  "catalog": "https://fonts.grok.me/font/pelanquier",
+  "dafont": "https://www.dafont.com/pelanquier.font",
+  "licensing": {
+    "personal": "Donationware",
+    "commercial": "Contact maxinfeld@gmail.com — US$95 per typeface, or US$65,000 for the entire catalog, one licensee.",
+    "contact": "maxinfeld@gmail.com"
+  }
+}

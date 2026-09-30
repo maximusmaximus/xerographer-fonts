@@ -1,0 +1,23 @@
+{
+  "name": "High Rating",
+  "slug": "highrating",
+  "copyright": "Copyright © Max Infeld",
+  "designer": "Max Infeld",
+  "foundry": "Xerographer Fonts",
+  "category": "Techno",
+  "subcategory": "Various",
+  "files": [
+    {
+      "file": "HighRating.ttf",
+      "format": "ttf"
+    }
+  ],
+  "notices": [],
+  "catalog": "https://fonts.grok.me/font/highrating",
+  "dafont": "https://www.dafont.com/highrating.font",
+  "licensing": {
+    "personal": "Donationware",
+    "commercial": "Contact maxinfeld@gmail.com — US$95 per typeface, or US$65,000 for the entire catalog, one licensee.",
+    "contact": "maxinfeld@gmail.com"
+  }
+}

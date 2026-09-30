@@ -1,0 +1,33 @@
+{
+  "name": "Cracked",
+  "slug": "cracked",
+  "copyright": "Copyright © Max Infeld",
+  "designer": "Max Infeld",
+  "foundry": "Xerographer Fonts",
+  "category": "Fancy",
+  "subcategory": "Distorted",
+  "files": [
+    {
+      "file": "Cracked-Narrow.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "Cracked-NarrowItalic.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "Cracked-Wide.ttf",
+      "format": "ttf"
+    }
+  ],
+  "notices": [
+    "read me for licensing and info.txt"
+  ],
+  "catalog": "https://fonts.grok.me/font/cracked",
+  "dafont": "https://www.dafont.com/cracked.font",
+  "licensing": {
+    "personal": "Donationware",
+    "commercial": "Contact maxinfeld@gmail.com — US$95 per typeface, or US$65,000 for the entire catalog, one licensee.",
+    "contact": "maxinfeld@gmail.com"
+  }
+}

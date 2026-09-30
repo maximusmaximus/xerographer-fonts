@@ -1,0 +1,51 @@
+{
+  "name": "Fonderian",
+  "slug": "fonderian",
+  "copyright": "Copyright © Max Infeld",
+  "designer": "Max Infeld",
+  "foundry": "Xerographer Fonts",
+  "category": "Techno",
+  "subcategory": "Various",
+  "files": [
+    {
+      "file": "Fonderian-Black.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "Fonderian-BlackStencil.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "Fonderian-Bold.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "Fonderian-Fineline.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "Fonderian-Hollow.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "Fonderian-Italic.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "Fonderian-Skinny.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "Fonderian.ttf",
+      "format": "ttf"
+    }
+  ],
+  "notices": [],
+  "catalog": "https://fonts.grok.me/font/fonderian",
+  "dafont": "https://www.dafont.com/fonderian.font",
+  "licensing": {
+    "personal": "Donationware",
+    "commercial": "Contact maxinfeld@gmail.com — US$95 per typeface, or US$65,000 for the entire catalog, one licensee.",
+    "contact": "maxinfeld@gmail.com"
+  }
+}

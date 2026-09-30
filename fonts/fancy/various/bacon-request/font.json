@@ -1,0 +1,43 @@
+{
+  "name": "Bacon Request",
+  "slug": "bacon-request",
+  "copyright": "Copyright © Max Infeld",
+  "designer": "Max Infeld",
+  "foundry": "Xerographer Fonts",
+  "category": "Fancy",
+  "subcategory": "Various",
+  "files": [
+    {
+      "file": "BaconRequest-Bold.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "BaconRequest-BoldItalic.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "BaconRequest-Expanded.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "BaconRequest-Italic.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "BaconRequest-Regular.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "BaconRequest-Thin.ttf",
+      "format": "ttf"
+    }
+  ],
+  "notices": [],
+  "catalog": "https://fonts.grok.me/font/bacon-request",
+  "dafont": "https://www.dafont.com/bacon-request.font",
+  "licensing": {
+    "personal": "Donationware",
+    "commercial": "Contact maxinfeld@gmail.com — US$95 per typeface, or US$65,000 for the entire catalog, one licensee.",
+    "contact": "maxinfeld@gmail.com"
+  }
+}

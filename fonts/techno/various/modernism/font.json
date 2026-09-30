@@ -1,0 +1,49 @@
+{
+  "name": "Modernism",
+  "slug": "modernism",
+  "copyright": "Copyright © Max Infeld",
+  "designer": "Max Infeld",
+  "foundry": "Xerographer Fonts",
+  "category": "Techno",
+  "subcategory": "Various",
+  "files": [
+    {
+      "file": "Modernism-Bold.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "Modernism-Disco.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "Modernism-Narrow.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "Modernism-RoundedBold.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "Modernism-Short.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "Modernism-Stoke.ttf",
+      "format": "ttf"
+    },
+    {
+      "file": "Modernism.ttf",
+      "format": "ttf"
+    }
+  ],
+  "notices": [
+    "read me for licensing and info.txt"
+  ],
+  "catalog": "https://fonts.grok.me/font/modernism",
+  "dafont": "https://www.dafont.com/modernism.font",
+  "licensing": {
+    "personal": "Donationware",
+    "commercial": "Contact maxinfeld@gmail.com — US$95 per typeface, or US$65,000 for the entire catalog, one licensee.",
+    "contact": "maxinfeld@gmail.com"
+  }
+}

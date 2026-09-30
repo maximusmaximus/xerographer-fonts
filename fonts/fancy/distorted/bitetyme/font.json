@@ -1,0 +1,23 @@
+{
+  "name": "Bite Tyme",
+  "slug": "bitetyme",
+  "copyright": "Copyright © Max Infeld",
+  "designer": "Max Infeld",
+  "foundry": "Xerographer Fonts",
+  "category": "Fancy",
+  "subcategory": "Distorted",
+  "files": [
+    {
+      "file": "BiteTyme.ttf",
+      "format": "ttf"
+    }
+  ],
+  "notices": [],
+  "catalog": "https://fonts.grok.me/font/bitetyme",
+  "dafont": "https://www.dafont.com/bitetyme.font",
+  "licensing": {
+    "personal": "Donationware",
+    "commercial": "Contact maxinfeld@gmail.com — US$95 per typeface, or US$65,000 for the entire catalog, one licensee.",
+    "contact": "maxinfeld@gmail.com"
+  }
+}

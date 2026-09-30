@@ -1,0 +1,23 @@
+{
+  "name": "Hipster Factory",
+  "slug": "hipsterfactory",
+  "copyright": "Copyright © Max Infeld",
+  "designer": "Max Infeld",
+  "foundry": "Xerographer Fonts",
+  "category": "Script",
+  "subcategory": "Various",
+  "files": [
+    {
+      "file": "HipsterFactory.ttf",
+      "format": "ttf"
+    }
+  ],
+  "notices": [],
+  "catalog": "https://fonts.grok.me/font/hipsterfactory",
+  "dafont": "https://www.dafont.com/hipsterfactory.font",
+  "licensing": {
+    "personal": "Donationware",
+    "commercial": "Contact maxinfeld@gmail.com — US$95 per typeface, or US$65,000 for the entire catalog, one licensee.",
+    "contact": "maxinfeld@gmail.com"
+  }
+}
