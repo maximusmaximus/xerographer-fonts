@@ -1,3 +1,4 @@
 _failures.json
 *.zip
 .DS_Store
+web/

@@ -23,8 +23,18 @@
   "coverage": {
     "latin1": "100%",
     "punctuation": "100%",
-    "glyphs": 210,
+    "glyphs": 217,
     "updated": "2026-10-13",
-    "note": "Pilot batch 2: full Latin-1 plus common punctuation/currency synthesized from existing glyphs. Designer review recommended."
+    "note": "Pilot batch 2: full Latin-1 plus common punctuation/currency synthesized from existing glyphs. Designer review recommended.",
+    "version": "1.11",
+    "opentype": {
+      "mark": true,
+      "mkmk": true,
+      "kern": "auto class kerning",
+      "kernPairs": 4,
+      "legacyKernTable": true,
+      "updated": "2026-10-14",
+      "note": "v1.11: GPOS mark/mkmk anchors derived from the accented glyph placements, combining marks U+0300–U+0328 added, conservative auto class kerning (accented letters inherit their base's class), flat legacy kern table kept for DaFont/GD previews."
+    }
   }
 }
