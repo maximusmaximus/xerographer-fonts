@@ -21,7 +21,8 @@
       "fontspace": 924199,
       "webfontfree": 466709,
       "listed": 45591518
-    }
+    },
+    "facesWithAccents": 101
   },
   "sources": [
     {
@@ -90,7 +91,18 @@
         "TrainStation.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/trainstation",
-      "path": "fonts/basic/sans-serif/trainstation"
+      "path": "fonts/basic/sans-serif/trainstation",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 317,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Amplitudes",
@@ -111,7 +123,18 @@
         "AmplitudesStretched.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/amplitudes",
-      "path": "fonts/basic/various/amplitudes"
+      "path": "fonts/basic/various/amplitudes",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 334,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Pony Maker",
@@ -122,7 +145,18 @@
         "PonyMaker.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/ponymaker",
-      "path": "fonts/basic/various/ponymaker"
+      "path": "fonts/basic/various/ponymaker",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 317,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Quagent",
@@ -134,7 +168,18 @@
         "Quagent-Regular.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/quagent",
-      "path": "fonts/basic/various/quagent"
+      "path": "fonts/basic/various/quagent",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 334,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Serifvetika",
@@ -145,7 +190,18 @@
         "Serifvetica.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/serifvetika",
-      "path": "fonts/basic/various/serifvetika"
+      "path": "fonts/basic/various/serifvetika",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 314,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Xelita",
@@ -158,7 +214,17 @@
         "XelitaItalic.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/xelita",
-      "path": "fonts/basic/various/xelita"
+      "path": "fonts/basic/various/xelita",
+      "coverage": {
+        "latin1": 75,
+        "latinExtendedA": 100,
+        "glyphs": 319,
+        "languages": [
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-13"
+      }
     },
     {
       "name": "World Beings",
@@ -835,7 +901,18 @@
         "ExtraSprinkles.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/extrasprinkles",
-      "path": "fonts/fancy/cartoon/extrasprinkles"
+      "path": "fonts/fancy/cartoon/extrasprinkles",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 316,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Fair House",
@@ -1485,7 +1562,18 @@
         "PhatRave.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/phatrave",
-      "path": "fonts/fancy/cartoon/phatrave"
+      "path": "fonts/fancy/cartoon/phatrave",
+      "coverage": {
+        "latin1": 92.7,
+        "latinExtendedA": 100,
+        "glyphs": 297,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Plain Handline",
@@ -1651,7 +1739,18 @@
         "SchoolNotes.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/schoolnotes",
-      "path": "fonts/fancy/cartoon/schoolnotes"
+      "path": "fonts/fancy/cartoon/schoolnotes",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 315,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Schwifty",
@@ -1860,7 +1959,18 @@
         "StripeFun.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/stripefun",
-      "path": "fonts/fancy/cartoon/stripefun"
+      "path": "fonts/fancy/cartoon/stripefun",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 315,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Stripefest",
@@ -1882,7 +1992,18 @@
         "strungout.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/strungout",
-      "path": "fonts/fancy/cartoon/strungout"
+      "path": "fonts/fancy/cartoon/strungout",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 316,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "SuperDrag",
@@ -1904,7 +2025,18 @@
         "TastySundae.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/tastysundae",
-      "path": "fonts/fancy/cartoon/tastysundae"
+      "path": "fonts/fancy/cartoon/tastysundae",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 316,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Tech Haus",
@@ -1939,7 +2071,18 @@
         "threed.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/threed",
-      "path": "fonts/fancy/cartoon/threed"
+      "path": "fonts/fancy/cartoon/threed",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 314,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Thrift Store",
@@ -2161,7 +2304,18 @@
         "ComicShadow.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/comicshadow",
-      "path": "fonts/fancy/comic/comicshadow"
+      "path": "fonts/fancy/comic/comicshadow",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 315,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Comic Tans",
@@ -2206,7 +2360,18 @@
         "FantasticParty.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/fantasticparty",
-      "path": "fonts/fancy/comic/fantasticparty"
+      "path": "fonts/fancy/comic/fantasticparty",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 317,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Feed The Bears",
@@ -2239,7 +2404,18 @@
         "FunSized.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/funsized",
-      "path": "fonts/fancy/comic/funsized"
+      "path": "fonts/fancy/comic/funsized",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 318,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Funny Zebra",
@@ -2272,7 +2448,18 @@
         "JuicyRags.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/juicyrags",
-      "path": "fonts/fancy/comic/juicyrags"
+      "path": "fonts/fancy/comic/juicyrags",
+      "coverage": {
+        "latin1": 97.9,
+        "latinExtendedA": 100,
+        "glyphs": 335,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-13"
+      }
     },
     {
       "name": "Mad Caps",
@@ -2416,7 +2603,18 @@
         "SwirlInsertion.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/swirlinsertion",
-      "path": "fonts/fancy/curly/swirlinsertion"
+      "path": "fonts/fancy/curly/swirlinsertion",
+      "coverage": {
+        "latin1": 92.7,
+        "latinExtendedA": 100,
+        "glyphs": 297,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Wine Tasting",
@@ -2438,7 +2636,18 @@
         "AlienFur.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/alienfur",
-      "path": "fonts/fancy/decorative/alienfur"
+      "path": "fonts/fancy/decorative/alienfur",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 314,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Autumn Two",
@@ -2658,7 +2867,18 @@
         "CircleCaps.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/circlecaps",
-      "path": "fonts/fancy/decorative/circlecaps"
+      "path": "fonts/fancy/decorative/circlecaps",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 314,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Circuit City",
@@ -2790,7 +3010,18 @@
         "DatBox.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/datbox",
-      "path": "fonts/fancy/decorative/datbox"
+      "path": "fonts/fancy/decorative/datbox",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 316,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Delicious Applepie",
@@ -2889,7 +3120,18 @@
         "electrical.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/electrical",
-      "path": "fonts/fancy/decorative/electrical"
+      "path": "fonts/fancy/decorative/electrical",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 314,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Electrical Neue",
@@ -3164,7 +3406,18 @@
         "Marijuana.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/marijuana",
-      "path": "fonts/fancy/decorative/marijuana"
+      "path": "fonts/fancy/decorative/marijuana",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 98.4,
+        "glyphs": 315,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Mega Bone",
@@ -3703,7 +3956,18 @@
         "Hatch.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/hatch",
-      "path": "fonts/fancy/destroy/hatch"
+      "path": "fonts/fancy/destroy/hatch",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 317,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Hecka Grunge",
@@ -3725,7 +3989,18 @@
         "HighStyle.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/highstyle",
-      "path": "fonts/fancy/destroy/highstyle"
+      "path": "fonts/fancy/destroy/highstyle",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 317,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Ink Special",
@@ -3879,7 +4154,18 @@
         "PaintScratch.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/paintscratch",
-      "path": "fonts/fancy/destroy/paintscratch"
+      "path": "fonts/fancy/destroy/paintscratch",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 314,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Peroxide",
@@ -4176,7 +4462,18 @@
         "BanlieueDisco.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/banlieuedisco",
-      "path": "fonts/fancy/distorted/banlieuedisco"
+      "path": "fonts/fancy/distorted/banlieuedisco",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 317,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Basic Scratch",
@@ -4187,7 +4484,18 @@
         "BasicScratch.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/basicscratch",
-      "path": "fonts/fancy/distorted/basicscratch"
+      "path": "fonts/fancy/distorted/basicscratch",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 317,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Big Party",
@@ -4231,7 +4539,18 @@
         "black spiral.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/black-spiral",
-      "path": "fonts/fancy/distorted/black-spiral"
+      "path": "fonts/fancy/distorted/black-spiral",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 314,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Break Time",
@@ -4321,7 +4640,18 @@
         "Cracked-Wide.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/cracked",
-      "path": "fonts/fancy/distorted/cracked"
+      "path": "fonts/fancy/distorted/cracked",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 334,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Crypto Prices",
@@ -4497,7 +4827,18 @@
         "LowerResolution.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/lowerresolution",
-      "path": "fonts/fancy/distorted/lowerresolution"
+      "path": "fonts/fancy/distorted/lowerresolution",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 317,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Marble Wasteland",
@@ -4552,7 +4893,18 @@
         "MetalBlockTango.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/metalblocktango",
-      "path": "fonts/fancy/distorted/metalblocktango"
+      "path": "fonts/fancy/distorted/metalblocktango",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 303,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Metal Block Ultra",
@@ -4563,7 +4915,18 @@
         "MetalBlockUltra.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/metalblockultra",
-      "path": "fonts/fancy/distorted/metalblockultra"
+      "path": "fonts/fancy/distorted/metalblockultra",
+      "coverage": {
+        "latin1": 92.7,
+        "latinExtendedA": 100,
+        "glyphs": 299,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Mind Storm",
@@ -4860,7 +5223,18 @@
         "UrbanLabels.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/urbanlabels",
-      "path": "fonts/fancy/distorted/urbanlabels"
+      "path": "fonts/fancy/distorted/urbanlabels",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 316,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Urban Poster",
@@ -4992,7 +5366,18 @@
         "BlkLite.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/blklite",
-      "path": "fonts/fancy/eroded/blklite"
+      "path": "fonts/fancy/eroded/blklite",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 335,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Blueberry Waffle",
@@ -5267,7 +5652,18 @@
         "Crackvetica.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/crackvetica",
-      "path": "fonts/fancy/eroded/crackvetica"
+      "path": "fonts/fancy/eroded/crackvetica",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 314,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Dance Away",
@@ -5443,7 +5839,17 @@
         "Falconers.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/falconers",
-      "path": "fonts/fancy/eroded/falconers"
+      "path": "fonts/fancy/eroded/falconers",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": null,
+        "glyphs": 210,
+        "languages": [
+          "Latin-1"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-13"
+      }
     },
     {
       "name": "Fall Harvest",
@@ -5564,7 +5970,18 @@
         "FuturemoonV2.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/futuremoon",
-      "path": "fonts/fancy/eroded/futuremoon"
+      "path": "fonts/fancy/eroded/futuremoon",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 314,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Gaslighter",
@@ -5773,7 +6190,18 @@
         "hollavetica.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/hollavetica",
-      "path": "fonts/fancy/eroded/hollavetica"
+      "path": "fonts/fancy/eroded/hollavetica",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 324,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Hotrocks",
@@ -6169,7 +6597,18 @@
         "PiratesBay.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/piratesbay",
-      "path": "fonts/fancy/eroded/piratesbay"
+      "path": "fonts/fancy/eroded/piratesbay",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 318,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Post News",
@@ -6235,7 +6674,18 @@
         "RaceFlow.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/racingflow",
-      "path": "fonts/fancy/eroded/racingflow"
+      "path": "fonts/fancy/eroded/racingflow",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 317,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Racing Numbers",
@@ -6246,7 +6696,18 @@
         "RacingNumbers.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/racingnumbers",
-      "path": "fonts/fancy/eroded/racingnumbers"
+      "path": "fonts/fancy/eroded/racingnumbers",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 317,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Ready Start",
@@ -6268,7 +6729,18 @@
         "RealFast.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/realfast",
-      "path": "fonts/fancy/eroded/realfast"
+      "path": "fonts/fancy/eroded/realfast",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 317,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Real Trap",
@@ -6642,7 +7114,18 @@
         "SummerFestival.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/summerfestival",
-      "path": "fonts/fancy/eroded/summerfestival"
+      "path": "fonts/fancy/eroded/summerfestival",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 329,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Super Fade",
@@ -6873,7 +7356,18 @@
         "HotSweat.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/hotsweat",
-      "path": "fonts/fancy/fire-ice/hotsweat"
+      "path": "fonts/fancy/fire-ice/hotsweat",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 330,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Snow Frosting",
@@ -6895,7 +7389,18 @@
         "SummerFire.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/summerfire",
-      "path": "fonts/fancy/fire-ice/summerfire"
+      "path": "fonts/fancy/fire-ice/summerfire",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 317,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Winter Crops",
@@ -6928,7 +7433,18 @@
         "WinterIce.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/winterice",
-      "path": "fonts/fancy/fire-ice/winterice"
+      "path": "fonts/fancy/fire-ice/winterice",
+      "coverage": {
+        "latin1": 92.7,
+        "latinExtendedA": 100,
+        "glyphs": 297,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Alternative Nineties",
@@ -6956,7 +7472,18 @@
         "BeastMode.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/beastmode-suite",
-      "path": "fonts/fancy/groovy/beastmode-suite"
+      "path": "fonts/fancy/groovy/beastmode-suite",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 334,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Disco Midnight",
@@ -6978,7 +7505,18 @@
         "DiscoNight.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/disconight",
-      "path": "fonts/fancy/groovy/disconight"
+      "path": "fonts/fancy/groovy/disconight",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 315,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "DiscoRush",
@@ -7000,7 +7538,18 @@
         "NeonDisco.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/neondisco",
-      "path": "fonts/fancy/groovy/neondisco"
+      "path": "fonts/fancy/groovy/neondisco",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 317,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Nuevo Disco",
@@ -7011,7 +7560,18 @@
         "NuevoDisco.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/nuevodisco",
-      "path": "fonts/fancy/groovy/nuevodisco"
+      "path": "fonts/fancy/groovy/nuevodisco",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 326,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Sunrise Disco",
@@ -7044,7 +7604,18 @@
         "WickedSeventies.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/wickedseventies",
-      "path": "fonts/fancy/groovy/wickedseventies"
+      "path": "fonts/fancy/groovy/wickedseventies",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 317,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Barnyard Massacre",
@@ -7077,7 +7648,18 @@
         "BlackWidow.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/blackwidow",
-      "path": "fonts/fancy/horror/blackwidow"
+      "path": "fonts/fancy/horror/blackwidow",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 314,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "BlockWood",
@@ -7528,7 +8110,18 @@
         "MetalShow.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/metalshow",
-      "path": "fonts/fancy/horror/metalshow"
+      "path": "fonts/fancy/horror/metalshow",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 317,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Micro Brew",
@@ -7992,7 +8585,18 @@
         "ZeroCollege.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/zerocollege",
-      "path": "fonts/fancy/old-school/zerocollege"
+      "path": "fonts/fancy/old-school/zerocollege",
+      "coverage": {
+        "latin1": 92.7,
+        "latinExtendedA": 100,
+        "glyphs": 300,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Abraxeous",
@@ -8035,7 +8639,18 @@
         "BroadwayEvent.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/broadwayevent",
-      "path": "fonts/fancy/retro/broadwayevent"
+      "path": "fonts/fancy/retro/broadwayevent",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 365,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Cryptographic",
@@ -8265,7 +8880,18 @@
         "VisualMagnets.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/visualmagnets",
-      "path": "fonts/fancy/stencil-army/visualmagnets"
+      "path": "fonts/fancy/stencil-army/visualmagnets",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 317,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Double Studio",
@@ -8320,7 +8946,18 @@
         "IndieRock.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/indierock",
-      "path": "fonts/fancy/typewriter/indierock"
+      "path": "fonts/fancy/typewriter/indierock",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 314,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Light Fingers",
@@ -9992,7 +10629,18 @@
         "rockster.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/rockster",
-      "path": "fonts/fancy/various/rockster"
+      "path": "fonts/fancy/various/rockster",
+      "coverage": {
+        "latin1": 92.7,
+        "latinExtendedA": 100,
+        "glyphs": 297,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Rollingdeep",
@@ -10849,7 +11497,18 @@
         "WesternRacing.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/westernracing",
-      "path": "fonts/fancy/western/westernracing"
+      "path": "fonts/fancy/western/westernracing",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 317,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Wicked Cockney",
@@ -10904,7 +11563,18 @@
         "TacoFiesta.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/tacofiesta",
-      "path": "fonts/foreign-look/mexican/tacofiesta"
+      "path": "fonts/foreign-look/mexican/tacofiesta",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 328,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Metal Chakra",
@@ -10960,7 +11630,17 @@
         "MetalShred.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/metalshred",
-      "path": "fonts/gothic/various/metalshred"
+      "path": "fonts/gothic/various/metalshred",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": null,
+        "glyphs": 173,
+        "languages": [
+          "Latin-1"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-13"
+      }
     },
     {
       "name": "Thug Love DT",
@@ -11004,7 +11684,18 @@
         "SnowFlakes.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/snowflakes",
-      "path": "fonts/holiday/christmas/snowflakes"
+      "path": "fonts/holiday/christmas/snowflakes",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 317,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Xmas Lite",
@@ -11158,7 +11849,18 @@
         "BasicSharpie.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/basicsharpie",
-      "path": "fonts/script/brush/basicsharpie"
+      "path": "fonts/script/brush/basicsharpie",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 317,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Beauty Salon",
@@ -11477,7 +12179,18 @@
         "traphouse.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/traphouse",
-      "path": "fonts/script/brush/traphouse"
+      "path": "fonts/script/brush/traphouse",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 317,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Turn Up",
@@ -11554,7 +12267,18 @@
         "ZombieChecklistV4.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/zombie-checklist",
-      "path": "fonts/script/brush/zombie-checklist"
+      "path": "fonts/script/brush/zombie-checklist",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 331,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Zombie Treats",
@@ -11565,7 +12289,18 @@
         "ZombieTreats.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/zombietreats",
-      "path": "fonts/script/brush/zombietreats"
+      "path": "fonts/script/brush/zombietreats",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 316,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "California Delights",
@@ -11620,7 +12355,18 @@
         "NuevoYork.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/nuevoyork",
-      "path": "fonts/script/calligraphy/nuevoyork"
+      "path": "fonts/script/calligraphy/nuevoyork",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 336,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Young Ranger",
@@ -11631,7 +12377,18 @@
         "YoungRanger.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/youngranger",
-      "path": "fonts/script/calligraphy/youngranger"
+      "path": "fonts/script/calligraphy/youngranger",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 316,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Animal Cracker",
@@ -11686,7 +12443,18 @@
         "FreshTrack.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/freshtrack",
-      "path": "fonts/script/graffiti/freshtrack"
+      "path": "fonts/script/graffiti/freshtrack",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 317,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Gansta Walk",
@@ -11994,7 +12762,18 @@
         "CaliforniaHarvest.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/californiaharvest",
-      "path": "fonts/script/handwritten/californiaharvest"
+      "path": "fonts/script/handwritten/californiaharvest",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 317,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Candy Delish",
@@ -12159,7 +12938,18 @@
         "EventShark.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/eventshark",
-      "path": "fonts/script/handwritten/eventshark"
+      "path": "fonts/script/handwritten/eventshark",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 317,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Extra Zero",
@@ -13227,7 +14017,18 @@
         "AngryNerds.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/angrynerds",
-      "path": "fonts/script/trash/angrynerds"
+      "path": "fonts/script/trash/angrynerds",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 315,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Basket Fries",
@@ -13249,7 +14050,18 @@
         "BrushGrunge.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/brushgrunge",
-      "path": "fonts/script/trash/brushgrunge"
+      "path": "fonts/script/trash/brushgrunge",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 314,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Charcoal Script",
@@ -13887,7 +14699,17 @@
         "Spackler.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/spackler",
-      "path": "fonts/script/trash/spackler"
+      "path": "fonts/script/trash/spackler",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": null,
+        "glyphs": 211,
+        "languages": [
+          "Latin-1"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-13"
+      }
     },
     {
       "name": "Splasher",
@@ -14152,7 +14974,18 @@
         "ChronicDelivery.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/chronicdelivery",
-      "path": "fonts/script/various/chronicdelivery"
+      "path": "fonts/script/various/chronicdelivery",
+      "coverage": {
+        "latin1": 92.7,
+        "latinExtendedA": 100,
+        "glyphs": 299,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Chronical Script",
@@ -14251,7 +15084,18 @@
         "drunk tattoo.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/drunk-tattoo",
-      "path": "fonts/script/various/drunk-tattoo"
+      "path": "fonts/script/various/drunk-tattoo",
+      "coverage": {
+        "latin1": 92.7,
+        "latinExtendedA": 100,
+        "glyphs": 296,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Easy People",
@@ -15037,7 +15881,18 @@
         "CirclePixels.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/circlepixels",
-      "path": "fonts/techno/lcd/circlepixels"
+      "path": "fonts/techno/lcd/circlepixels",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 318,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Higher Pixels",
@@ -15048,7 +15903,18 @@
         "HigherPixels.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/higherpixels",
-      "path": "fonts/techno/lcd/higherpixels"
+      "path": "fonts/techno/lcd/higherpixels",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 318,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Mega Bits",
@@ -15059,7 +15925,18 @@
         "MegaBits.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/megabits",
-      "path": "fonts/techno/lcd/megabits"
+      "path": "fonts/techno/lcd/megabits",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 317,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Asterisk",
@@ -15077,7 +15954,18 @@
         "Asterisk-ThinLaser.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/asterisk",
-      "path": "fonts/techno/sci-fi/asterisk"
+      "path": "fonts/techno/sci-fi/asterisk",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 335,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Astronmica",
@@ -15092,7 +15980,18 @@
         "AstronmicaItalic.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/astronmica",
-      "path": "fonts/techno/sci-fi/astronmica"
+      "path": "fonts/techno/sci-fi/astronmica",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 337,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Epicenter",
@@ -15114,7 +16013,18 @@
         "Epicenter.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/epicenter",
-      "path": "fonts/techno/sci-fi/epicenter"
+      "path": "fonts/techno/sci-fi/epicenter",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 334,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Miswak",
@@ -15125,7 +16035,17 @@
         "Miswak.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/miswak",
-      "path": "fonts/techno/sci-fi/miswak"
+      "path": "fonts/techno/sci-fi/miswak",
+      "coverage": {
+        "latin1": 75,
+        "latinExtendedA": 100,
+        "glyphs": 319,
+        "languages": [
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-13"
+      }
     },
     {
       "name": "Robotic Revolution",
@@ -15136,7 +16056,18 @@
         "RoboticRevolution.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/roboticrevolution",
-      "path": "fonts/techno/sci-fi/roboticrevolution"
+      "path": "fonts/techno/sci-fi/roboticrevolution",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 330,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Simulacre",
@@ -15147,7 +16078,18 @@
         "Simulacre.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/simulacre",
-      "path": "fonts/techno/sci-fi/simulacre"
+      "path": "fonts/techno/sci-fi/simulacre",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 331,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "AnotherLine",
@@ -15158,7 +16100,18 @@
         "AnotherLine.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/anotherline",
-      "path": "fonts/techno/square/anotherline"
+      "path": "fonts/techno/square/anotherline",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 314,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Bent Out",
@@ -15169,7 +16122,18 @@
         "BentOut.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/bentout",
-      "path": "fonts/techno/various/bentout"
+      "path": "fonts/techno/various/bentout",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 314,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "BioMetric",
@@ -15184,7 +16148,18 @@
         "BioMetric-Thin.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/biometric",
-      "path": "fonts/techno/various/biometric"
+      "path": "fonts/techno/various/biometric",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 334,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Couper Blaque",
@@ -15195,7 +16170,18 @@
         "CouperBlaque.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/couperblaque",
-      "path": "fonts/techno/various/couperblaque"
+      "path": "fonts/techno/various/couperblaque",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 337,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Designer Pixels",
@@ -15206,7 +16192,18 @@
         "DesignerPixels.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/designerpixels",
-      "path": "fonts/techno/various/designerpixels"
+      "path": "fonts/techno/various/designerpixels",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 318,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Electro House",
@@ -15217,7 +16214,18 @@
         "electrohouse.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/electrohouse",
-      "path": "fonts/techno/various/electrohouse"
+      "path": "fonts/techno/various/electrohouse",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 317,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Fonderian",
@@ -15235,7 +16243,18 @@
         "Fonderian.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/fonderian",
-      "path": "fonts/techno/various/fonderian"
+      "path": "fonts/techno/various/fonderian",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 332,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "High Rating",
@@ -15261,7 +16280,18 @@
         "Martienso.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/martienso",
-      "path": "fonts/techno/various/martienso"
+      "path": "fonts/techno/various/martienso",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 331,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Modernism",
@@ -15278,7 +16308,18 @@
         "Modernism.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/modernism",
-      "path": "fonts/techno/various/modernism"
+      "path": "fonts/techno/various/modernism",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 334,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Qrurl",
@@ -15300,7 +16341,18 @@
         "RobotShadow.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/robotshadow",
-      "path": "fonts/techno/various/robotshadow"
+      "path": "fonts/techno/various/robotshadow",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 287,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Robustly Brewing",
@@ -15311,7 +16363,18 @@
         "RobustlyBrewing.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/robustlybrewing",
-      "path": "fonts/techno/various/robustlybrewing"
+      "path": "fonts/techno/various/robustlybrewing",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 331,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Solarium",
@@ -15322,7 +16385,18 @@
         "Solarium.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/solarium",
-      "path": "fonts/techno/various/solarium"
+      "path": "fonts/techno/various/solarium",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 316,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Squanch",
@@ -15333,7 +16407,18 @@
         "Squanch.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/squanch",
-      "path": "fonts/techno/various/squanch"
+      "path": "fonts/techno/various/squanch",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 331,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Tracksion",
@@ -15344,7 +16429,18 @@
         "Tracksion.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/tracksion",
-      "path": "fonts/techno/various/tracksion"
+      "path": "fonts/techno/various/tracksion",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 317,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     },
     {
       "name": "Wonder Age",
@@ -15355,7 +16451,18 @@
         "WonderAge.ttf"
       ],
       "catalog": "https://fonts.grok.me/font/wonderage",
-      "path": "fonts/techno/various/wonderage"
+      "path": "fonts/techno/various/wonderage",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 331,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-10-14"
+      }
     }
   ]
 }
