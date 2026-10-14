@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "HeavyLoading.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "HeavyLoading.woff2"
     }
   ],
   "notices": [],

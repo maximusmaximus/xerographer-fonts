@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "EpicSlash.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "EpicSlash.woff2"
     }
   ],
   "notices": [],

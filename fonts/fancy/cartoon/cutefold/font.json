@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "CuteFold.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "CuteFold.woff2"
     }
   ],
   "notices": [],

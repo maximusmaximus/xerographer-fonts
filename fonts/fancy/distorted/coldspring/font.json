@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "ColdSpring.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ColdSpring.woff2"
     }
   ],
   "notices": [],

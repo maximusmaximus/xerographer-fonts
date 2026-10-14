@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "FlavoredCrayons.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "FlavoredCrayons.woff2"
     }
   ],
   "notices": [],

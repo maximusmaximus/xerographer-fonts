@@ -9,11 +9,13 @@
   "files": [
     {
       "file": "TakenBlack.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "TakenBlack.woff2"
     },
     {
       "file": "TakenBlackItalic.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "TakenBlackItalic.woff2"
     }
   ],
   "notices": [],

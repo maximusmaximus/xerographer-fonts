@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "CompanyProblem.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "CompanyProblem.woff2"
     }
   ],
   "notices": [],

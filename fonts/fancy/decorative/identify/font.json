@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "identify.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "identify.woff2"
     }
   ],
   "notices": [],

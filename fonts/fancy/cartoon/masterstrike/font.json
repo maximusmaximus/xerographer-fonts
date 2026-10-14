@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "MasterStrike.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "MasterStrike.woff2"
     }
   ],
   "notices": [],

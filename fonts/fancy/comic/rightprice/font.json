@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "RightPrice.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "RightPrice.woff2"
     }
   ],
   "notices": [],

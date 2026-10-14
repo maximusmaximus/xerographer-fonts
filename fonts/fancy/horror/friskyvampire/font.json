@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "FriskyVampire.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "FriskyVampire.woff2"
     }
   ],
   "notices": [],

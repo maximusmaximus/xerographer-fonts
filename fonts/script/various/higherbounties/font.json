@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "HigherBounties.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "HigherBounties.woff2"
     }
   ],
   "notices": [],

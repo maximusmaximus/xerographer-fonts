@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "FreshTwist.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "FreshTwist.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "CanadaMist.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "CanadaMist.woff2"
     }
   ],
   "notices": [],

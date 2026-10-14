@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "FreakyManor.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "FreakyManor.woff2"
     }
   ],
   "notices": [],

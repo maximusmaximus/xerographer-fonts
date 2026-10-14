@@ -9,11 +9,13 @@
   "files": [
     {
       "file": "dingleberry solid.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "dingleberry solid.woff2"
     },
     {
       "file": "dingleberry.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "dingleberry.woff2"
     }
   ],
   "notices": [],

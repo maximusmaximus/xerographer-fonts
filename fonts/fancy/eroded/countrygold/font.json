@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "CountryGold.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "CountryGold.woff2"
     }
   ],
   "notices": [],

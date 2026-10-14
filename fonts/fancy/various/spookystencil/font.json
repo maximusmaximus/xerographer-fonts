@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "SpookyStencil.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "SpookyStencil.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "FarmBarns.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "FarmBarns.woff2"
     }
   ],
   "notices": [],

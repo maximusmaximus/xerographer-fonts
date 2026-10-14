@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "TrashFort.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "TrashFort.woff2"
     }
   ],
   "notices": [],

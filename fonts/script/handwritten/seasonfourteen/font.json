@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "SeasonFourteen.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "SeasonFourteen.woff2"
     }
   ],
   "notices": [],

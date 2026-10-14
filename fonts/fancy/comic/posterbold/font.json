@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "PosterBold.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "PosterBold.woff2"
     }
   ],
   "notices": [],

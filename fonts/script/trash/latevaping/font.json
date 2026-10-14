@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "LateVaping.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "LateVaping.woff2"
     }
   ],
   "notices": [],

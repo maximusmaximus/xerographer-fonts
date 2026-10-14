@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "CanOpener.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "CanOpener.woff2"
     }
   ],
   "notices": [],

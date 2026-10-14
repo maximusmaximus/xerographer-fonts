@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "RightPlace.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "RightPlace.woff2"
     }
   ],
   "notices": [],

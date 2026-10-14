@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "JusticeWanted.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "JusticeWanted.woff2"
     }
   ],
   "notices": [],

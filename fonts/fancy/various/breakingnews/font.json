@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "BreakingNews.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "BreakingNews.woff2"
     }
   ],
   "notices": [],

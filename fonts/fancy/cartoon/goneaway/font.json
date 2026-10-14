@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "GoneAway.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "GoneAway.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Corpsey.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Corpsey.woff2"
     }
   ],
   "notices": [],

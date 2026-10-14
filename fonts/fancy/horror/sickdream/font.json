@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "SickDream.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "SickDream.woff2"
     }
   ],
   "notices": [],

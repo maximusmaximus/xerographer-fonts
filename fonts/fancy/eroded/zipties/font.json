@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Zipties.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Zipties.woff2"
     }
   ],
   "notices": [],

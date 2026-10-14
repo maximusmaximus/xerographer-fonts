@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "DiamondLux.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "DiamondLux.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "LightBreak.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "LightBreak.woff2"
     }
   ],
   "notices": [],

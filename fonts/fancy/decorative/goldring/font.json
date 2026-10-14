@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "GoldRing.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "GoldRing.woff2"
     }
   ],
   "notices": [],

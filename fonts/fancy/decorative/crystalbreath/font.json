@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "CrystalBreath.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "CrystalBreath.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "RapidSloths.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "RapidSloths.woff2"
     }
   ],
   "notices": [],

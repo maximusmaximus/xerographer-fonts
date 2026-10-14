@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "AmazingSunshine.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "AmazingSunshine.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "StarRising.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "StarRising.woff2"
     }
   ],
   "notices": [],

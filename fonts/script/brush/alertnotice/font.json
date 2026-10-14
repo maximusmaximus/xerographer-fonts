@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "AlertNotice.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "AlertNotice.woff2"
     }
   ],
   "notices": [],

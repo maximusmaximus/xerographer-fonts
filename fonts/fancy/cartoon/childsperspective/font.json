@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "ChildsPerspective.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ChildsPerspective.woff2"
     }
   ],
   "notices": [],

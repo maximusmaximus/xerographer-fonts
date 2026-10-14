@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "SummerBlacktop.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "SummerBlacktop.woff2"
     }
   ],
   "notices": [],

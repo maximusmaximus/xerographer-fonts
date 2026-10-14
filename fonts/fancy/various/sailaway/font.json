@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "SailAway.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "SailAway.woff2"
     }
   ],
   "notices": [],

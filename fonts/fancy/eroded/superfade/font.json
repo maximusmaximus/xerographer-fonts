@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "SuperFade.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "SuperFade.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "washer.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "washer.woff2"
     }
   ],
   "notices": [],

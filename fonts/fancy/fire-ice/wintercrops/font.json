@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "WinterCrops.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "WinterCrops.woff2"
     }
   ],
   "notices": [],

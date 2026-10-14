@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "ComicTans.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ComicTans.woff2"
     }
   ],
   "notices": [],

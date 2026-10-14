@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "MajorScare.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "MajorScare.woff2"
     }
   ],
   "notices": [],

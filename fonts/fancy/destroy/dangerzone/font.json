@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "DangerZOne.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "DangerZOne.woff2"
     }
   ],
   "notices": [],

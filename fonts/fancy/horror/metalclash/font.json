@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "MetalClash.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "MetalClash.woff2"
     }
   ],
   "notices": [],

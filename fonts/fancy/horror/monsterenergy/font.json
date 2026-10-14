@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "MonsterEnergy.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "MonsterEnergy.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "PlayAlong.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "PlayAlong.woff2"
     }
   ],
   "notices": [],

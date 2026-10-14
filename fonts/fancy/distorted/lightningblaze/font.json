@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "LightningBlaze.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "LightningBlaze.woff2"
     }
   ],
   "notices": [],

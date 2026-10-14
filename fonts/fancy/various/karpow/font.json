@@ -9,19 +9,23 @@
   "files": [
     {
       "file": "Karpow.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Karpow.woff2"
     },
     {
       "file": "KarpowBold.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "KarpowBold.woff2"
     },
     {
       "file": "KarpowThin.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "KarpowThin.woff2"
     },
     {
       "file": "KarpowThinItalic.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "KarpowThinItalic.woff2"
     }
   ],
   "notices": [],

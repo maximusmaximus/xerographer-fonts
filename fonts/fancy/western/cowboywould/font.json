@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "CowboyWould.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "CowboyWould.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "SwiftBreak.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "SwiftBreak.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "PosterScriptB.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "PosterScriptB.woff2"
     }
   ],
   "notices": [],

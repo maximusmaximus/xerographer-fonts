@@ -9,11 +9,13 @@
   "files": [
     {
       "file": "DraftQuick.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "DraftQuick.woff2"
     },
     {
       "file": "DraftQuickV2-filled.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "DraftQuickV2-filled.woff2"
     }
   ],
   "notices": [],

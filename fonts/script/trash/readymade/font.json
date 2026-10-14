@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "ReadyMade.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ReadyMade.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "TrainYard.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "TrainYard.woff2"
     }
   ],
   "notices": [],

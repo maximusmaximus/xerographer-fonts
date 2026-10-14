@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "HawtFriend.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "HawtFriend.woff2"
     }
   ],
   "notices": [],

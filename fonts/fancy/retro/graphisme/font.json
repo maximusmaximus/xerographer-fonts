@@ -9,23 +9,28 @@
   "files": [
     {
       "file": "Graphisme-Bold.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Graphisme-Bold.woff2"
     },
     {
       "file": "Graphisme-Hollow.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Graphisme-Hollow.woff2"
     },
     {
       "file": "Graphisme-Italic.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Graphisme-Italic.woff2"
     },
     {
       "file": "Graphisme-Thin.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Graphisme-Thin.woff2"
     },
     {
       "file": "Graphisme.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Graphisme.woff2"
     }
   ],
   "notices": [],

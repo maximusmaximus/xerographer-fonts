@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "PixelDrip.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "PixelDrip.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "BoulderScare.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "BoulderScare.woff2"
     }
   ],
   "notices": [],

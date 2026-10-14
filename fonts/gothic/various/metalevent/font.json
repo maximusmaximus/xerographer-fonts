@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "MetalEvent.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "MetalEvent.woff2"
     }
   ],
   "notices": [],

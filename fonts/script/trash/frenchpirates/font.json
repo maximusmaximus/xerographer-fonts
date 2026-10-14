@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "FrenchPirates.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "FrenchPirates.woff2"
     }
   ],
   "notices": [],

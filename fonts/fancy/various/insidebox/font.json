@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "InsideBox.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "InsideBox.woff2"
     }
   ],
   "notices": [],

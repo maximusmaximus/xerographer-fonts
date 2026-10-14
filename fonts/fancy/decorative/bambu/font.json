@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "bambu.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "bambu.woff2"
     }
   ],
   "notices": [],

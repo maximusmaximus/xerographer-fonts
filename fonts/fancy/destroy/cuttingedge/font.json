@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "CuttingEdge.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "CuttingEdge.woff2"
     }
   ],
   "notices": [],

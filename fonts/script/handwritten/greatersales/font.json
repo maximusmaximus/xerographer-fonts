@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "GreaterSales.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "GreaterSales.woff2"
     }
   ],
   "notices": [],

@@ -9,11 +9,13 @@
   "files": [
     {
       "file": "secretsauce.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "secretsauce.woff2"
     },
     {
       "file": "secretsaucelight.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "secretsaucelight.woff2"
     }
   ],
   "notices": [],

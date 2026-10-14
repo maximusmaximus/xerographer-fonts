@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "DropKickMB.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "DropKickMB.woff2"
     }
   ],
   "notices": [],

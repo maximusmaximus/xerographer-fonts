@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Space.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Space.woff2"
     }
   ],
   "notices": [],

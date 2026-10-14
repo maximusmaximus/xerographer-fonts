@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Hounds.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Hounds.woff2"
     }
   ],
   "notices": [],

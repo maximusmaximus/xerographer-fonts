@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "BLOCKCHAIN.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "BLOCKCHAIN.woff2"
     }
   ],
   "notices": [],

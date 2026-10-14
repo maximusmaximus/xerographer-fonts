@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "TightBox.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "TightBox.woff2"
     }
   ],
   "notices": [],

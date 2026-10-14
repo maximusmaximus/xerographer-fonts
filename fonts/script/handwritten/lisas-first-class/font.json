@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "LisasFirstClass.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "LisasFirstClass.woff2"
     }
   ],
   "notices": [],

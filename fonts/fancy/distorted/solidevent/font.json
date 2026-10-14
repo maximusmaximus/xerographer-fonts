@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "SolidEvent.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "SolidEvent.woff2"
     }
   ],
   "notices": [],

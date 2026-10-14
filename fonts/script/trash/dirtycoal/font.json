@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "DirtyCoal.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "DirtyCoal.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "OvenBread.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "OvenBread.woff2"
     }
   ],
   "notices": [],

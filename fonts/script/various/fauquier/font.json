@@ -9,15 +9,18 @@
   "files": [
     {
       "file": "Fauquier.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Fauquier.woff2"
     },
     {
       "file": "FauquierItalic.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "FauquierItalic.woff2"
     },
     {
       "file": "FauquierVeryItalic.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "FauquierVeryItalic.woff2"
     }
   ],
   "notices": [],

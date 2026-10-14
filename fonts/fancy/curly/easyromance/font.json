@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "EasyRomance.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "EasyRomance.woff2"
     }
   ],
   "notices": [],

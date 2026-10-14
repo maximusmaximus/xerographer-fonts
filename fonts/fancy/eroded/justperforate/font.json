@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "JustPerforate.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "JustPerforate.woff2"
     }
   ],
   "notices": [],

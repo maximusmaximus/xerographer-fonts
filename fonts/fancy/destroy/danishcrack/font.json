@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "DanishCrack.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "DanishCrack.woff2"
     }
   ],
   "notices": [],

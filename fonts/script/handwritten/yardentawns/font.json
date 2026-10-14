@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "YardenTawns.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "YardenTawns.woff2"
     }
   ],
   "notices": [],

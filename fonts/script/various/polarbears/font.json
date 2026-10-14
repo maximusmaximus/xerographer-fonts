@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "PolarBears.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "PolarBears.woff2"
     }
   ],
   "notices": [],

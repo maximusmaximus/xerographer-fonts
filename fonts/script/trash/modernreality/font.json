@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "ModernReality.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ModernReality.woff2"
     }
   ],
   "notices": [],

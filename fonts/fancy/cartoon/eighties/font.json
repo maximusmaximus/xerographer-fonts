@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "eighties.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "eighties.woff2"
     }
   ],
   "notices": [],

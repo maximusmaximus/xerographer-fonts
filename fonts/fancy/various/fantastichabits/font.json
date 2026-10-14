@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "FantasticHabits.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "FantasticHabits.woff2"
     }
   ],
   "notices": [],

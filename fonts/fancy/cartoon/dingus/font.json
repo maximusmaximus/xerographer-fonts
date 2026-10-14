@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "dingus.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "dingus.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "ShreddingHarder.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ShreddingHarder.woff2"
     }
   ],
   "notices": [],

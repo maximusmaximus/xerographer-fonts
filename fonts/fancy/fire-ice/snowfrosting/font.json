@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "SnowFrosting.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "SnowFrosting.woff2"
     }
   ],
   "notices": [],

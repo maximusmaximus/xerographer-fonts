@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "BrightHeadline.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "BrightHeadline.woff2"
     }
   ],
   "notices": [],

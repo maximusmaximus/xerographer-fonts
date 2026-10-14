@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Substrate.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Substrate.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "ParisLabel.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ParisLabel.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "HighRating.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "HighRating.woff2"
     }
   ],
   "notices": [],

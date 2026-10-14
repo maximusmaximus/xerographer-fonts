@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "ThinkPlan.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ThinkPlan.woff2"
     }
   ],
   "notices": [],

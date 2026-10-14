@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "SingleLine.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "SingleLine.woff2"
     }
   ],
   "notices": [],

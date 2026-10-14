@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "StandardHeader.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "StandardHeader.woff2"
     }
   ],
   "notices": [],

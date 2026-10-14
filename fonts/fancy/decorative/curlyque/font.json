@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "CurlyQue.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "CurlyQue.woff2"
     }
   ],
   "notices": [],

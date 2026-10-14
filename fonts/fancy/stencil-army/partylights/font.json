@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "PartyLights.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "PartyLights.woff2"
     }
   ],
   "notices": [],

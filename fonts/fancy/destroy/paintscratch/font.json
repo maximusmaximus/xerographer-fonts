@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "PaintScratch.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "PaintScratch.woff2"
     }
   ],
   "notices": [],

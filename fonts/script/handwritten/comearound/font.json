@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "ComeAround.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ComeAround.woff2"
     }
   ],
   "notices": [],

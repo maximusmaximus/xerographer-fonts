@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "DeliciousOutline.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "DeliciousOutline.woff2"
     }
   ],
   "notices": [],

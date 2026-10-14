@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "ReaganaldScript.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ReaganaldScript.woff2"
     }
   ],
   "notices": [],

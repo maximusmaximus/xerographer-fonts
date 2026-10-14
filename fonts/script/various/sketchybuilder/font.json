@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "SketchyBuilder.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "SketchyBuilder.woff2"
     }
   ],
   "notices": [],

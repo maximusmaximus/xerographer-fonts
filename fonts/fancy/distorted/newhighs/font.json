@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "NewHighs.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "NewHighs.woff2"
     }
   ],
   "notices": [],

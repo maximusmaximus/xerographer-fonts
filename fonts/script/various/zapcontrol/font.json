@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "ZapControl.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ZapControl.woff2"
     }
   ],
   "notices": [],

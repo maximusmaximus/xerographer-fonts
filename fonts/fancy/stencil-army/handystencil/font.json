@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "HandyStencil.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "HandyStencil.woff2"
     }
   ],
   "notices": [],

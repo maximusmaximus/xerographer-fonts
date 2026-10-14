@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "TigerTails.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "TigerTails.woff2"
     }
   ],
   "notices": [],

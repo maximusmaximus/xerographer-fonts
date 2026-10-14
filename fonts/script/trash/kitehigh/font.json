@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "KiteHigh.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "KiteHigh.woff2"
     }
   ],
   "notices": [],

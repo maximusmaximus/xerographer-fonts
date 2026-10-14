@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "ReasonableSpeculation.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ReasonableSpeculation.woff2"
     }
   ],
   "notices": [],

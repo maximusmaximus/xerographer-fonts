@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "HeartBeat.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "HeartBeat.woff2"
     }
   ],
   "notices": [],

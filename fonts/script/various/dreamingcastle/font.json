@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "DreamingCastle.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "DreamingCastle.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "RockingLines.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "RockingLines.woff2"
     }
   ],
   "notices": [],

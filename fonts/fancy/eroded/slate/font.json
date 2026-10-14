@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Slate.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Slate.woff2"
     }
   ],
   "notices": [],

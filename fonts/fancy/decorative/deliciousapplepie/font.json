@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "DeliciousApplepie.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "DeliciousApplepie.woff2"
     }
   ],
   "notices": [],

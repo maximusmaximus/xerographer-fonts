@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "DigitalRiver.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "DigitalRiver.woff2"
     }
   ],
   "notices": [],

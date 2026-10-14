@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "MuchFunky.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "MuchFunky.woff2"
     }
   ],
   "notices": [],

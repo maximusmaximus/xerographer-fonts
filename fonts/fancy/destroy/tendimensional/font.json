@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "TenDimensional.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "TenDimensional.woff2"
     }
   ],
   "notices": [],

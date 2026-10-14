@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "BigSpit.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "BigSpit.woff2"
     }
   ],
   "notices": [],

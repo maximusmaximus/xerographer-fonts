@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "DeliciousFrosting.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "DeliciousFrosting.woff2"
     }
   ],
   "notices": [],

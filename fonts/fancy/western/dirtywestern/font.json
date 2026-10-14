@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "DirtyWestern.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "DirtyWestern.woff2"
     }
   ],
   "notices": [],

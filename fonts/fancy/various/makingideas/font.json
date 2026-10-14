@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "MakingIdeas.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "MakingIdeas.woff2"
     }
   ],
   "notices": [],

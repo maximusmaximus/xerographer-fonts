@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "NuevoTrenta.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "NuevoTrenta.woff2"
     }
   ],
   "notices": [],

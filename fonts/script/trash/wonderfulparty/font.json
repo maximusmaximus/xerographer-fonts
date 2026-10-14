@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "WonderfulParty.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "WonderfulParty.woff2"
     }
   ],
   "notices": [],

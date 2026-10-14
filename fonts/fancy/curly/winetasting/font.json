@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "WineTasting.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "WineTasting.woff2"
     }
   ],
   "notices": [],

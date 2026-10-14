@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "DarkPapers.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "DarkPapers.woff2"
     }
   ],
   "notices": [],

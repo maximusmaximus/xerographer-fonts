@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "bantum caps.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "bantum caps.woff2"
     }
   ],
   "notices": [],

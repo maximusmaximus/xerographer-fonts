@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "BeautySalon.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "BeautySalon.woff2"
     }
   ],
   "notices": [],

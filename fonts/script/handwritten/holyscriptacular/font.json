@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "HolyScriptacular.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "HolyScriptacular.woff2"
     }
   ],
   "notices": [],

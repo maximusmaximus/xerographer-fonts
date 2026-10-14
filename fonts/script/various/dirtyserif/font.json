@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "dirtyserif.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "dirtyserif.woff2"
     }
   ],
   "notices": [],

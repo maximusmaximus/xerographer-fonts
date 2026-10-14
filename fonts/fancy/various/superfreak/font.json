@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "SuperFreak.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "SuperFreak.woff2"
     }
   ],
   "notices": [],

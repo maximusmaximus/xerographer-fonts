@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "SpringHarder.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "SpringHarder.woff2"
     }
   ],
   "notices": [],

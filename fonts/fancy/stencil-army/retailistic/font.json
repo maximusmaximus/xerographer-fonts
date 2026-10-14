@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Retailistic.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Retailistic.woff2"
     }
   ],
   "notices": [],

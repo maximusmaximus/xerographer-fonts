@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "AlienSweater.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "AlienSweater.woff2"
     }
   ],
   "notices": [],

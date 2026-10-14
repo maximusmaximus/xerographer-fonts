@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "GraphMaster.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "GraphMaster.woff2"
     }
   ],
   "notices": [],

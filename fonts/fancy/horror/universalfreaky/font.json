@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "UniversalFreaky.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "UniversalFreaky.woff2"
     }
   ],
   "notices": [],

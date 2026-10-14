@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "SpringAway.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "SpringAway.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "BreakTime.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "BreakTime.woff2"
     }
   ],
   "notices": [],

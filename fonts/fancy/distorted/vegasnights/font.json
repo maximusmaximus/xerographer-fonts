@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "VegasNights.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "VegasNights.woff2"
     }
   ],
   "notices": [],

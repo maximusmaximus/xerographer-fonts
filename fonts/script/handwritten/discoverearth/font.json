@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "DiscoverEarth.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "DiscoverEarth.woff2"
     }
   ],
   "notices": [],

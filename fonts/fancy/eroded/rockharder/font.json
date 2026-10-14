@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "RockHarder.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "RockHarder.woff2"
     }
   ],
   "notices": [],

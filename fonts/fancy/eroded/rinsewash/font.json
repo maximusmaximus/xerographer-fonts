@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "RinseWash.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "RinseWash.woff2"
     }
   ],
   "notices": [],

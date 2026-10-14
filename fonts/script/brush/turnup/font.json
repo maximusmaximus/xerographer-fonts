@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "TurnUp.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "TurnUp.woff2"
     }
   ],
   "notices": [],

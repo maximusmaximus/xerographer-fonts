@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "PathCheck.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "PathCheck.woff2"
     }
   ],
   "notices": [],

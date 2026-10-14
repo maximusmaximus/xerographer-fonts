@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "stickchop.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "stickchop.woff2"
     }
   ],
   "notices": [],

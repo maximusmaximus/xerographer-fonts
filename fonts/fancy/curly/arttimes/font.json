@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "ArtTimes.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ArtTimes.woff2"
     }
   ],
   "notices": [],

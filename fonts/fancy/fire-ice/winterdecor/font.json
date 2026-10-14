@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "WinterDecor.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "WinterDecor.woff2"
     }
   ],
   "notices": [],

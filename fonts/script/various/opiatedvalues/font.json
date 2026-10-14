@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "OpiatedValues.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "OpiatedValues.woff2"
     }
   ],
   "notices": [],

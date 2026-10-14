@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "TropicDisco.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "TropicDisco.woff2"
     }
   ],
   "notices": [],

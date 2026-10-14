@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "MegaDose.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "MegaDose.woff2"
     }
   ],
   "notices": [],

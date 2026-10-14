@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "FreshSticks.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "FreshSticks.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "QuickRodeo.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "QuickRodeo.woff2"
     }
   ],
   "notices": [],

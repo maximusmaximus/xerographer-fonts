@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "FourthDimension.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "FourthDimension.woff2"
     }
   ],
   "notices": [],

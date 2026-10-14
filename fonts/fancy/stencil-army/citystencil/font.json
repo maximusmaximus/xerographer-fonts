@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "CityStencil.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "CityStencil.woff2"
     }
   ],
   "notices": [],

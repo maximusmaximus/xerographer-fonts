@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "MadPicnic.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "MadPicnic.woff2"
     }
   ],
   "notices": [],

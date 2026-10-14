@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "ManyFun.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ManyFun.woff2"
     }
   ],
   "notices": [],

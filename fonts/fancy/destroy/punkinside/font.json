@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "PunkInside.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "PunkInside.woff2"
     }
   ],
   "notices": [],

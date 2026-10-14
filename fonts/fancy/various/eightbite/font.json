@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "EightBite.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "EightBite.woff2"
     }
   ],
   "notices": [],

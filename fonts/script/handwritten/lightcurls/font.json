@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "LightCurls.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "LightCurls.woff2"
     }
   ],
   "notices": [],

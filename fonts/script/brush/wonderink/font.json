@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "WonderInk.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "WonderInk.woff2"
     }
   ],
   "notices": [],

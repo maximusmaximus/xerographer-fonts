@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "AgendaClash.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "AgendaClash.woff2"
     }
   ],
   "notices": [],

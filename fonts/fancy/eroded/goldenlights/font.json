@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "GoldenLights.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "GoldenLights.woff2"
     }
   ],
   "notices": [],

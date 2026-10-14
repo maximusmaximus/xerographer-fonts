@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "NorthernMontgomery.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "NorthernMontgomery.woff2"
     }
   ],
   "notices": [],

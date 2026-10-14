@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "WildScratch.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "WildScratch.woff2"
     }
   ],
   "notices": [],

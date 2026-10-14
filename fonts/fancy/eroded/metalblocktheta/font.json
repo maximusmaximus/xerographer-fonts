@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "MetalBlockTheta.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "MetalBlockTheta.woff2"
     }
   ],
   "notices": [],

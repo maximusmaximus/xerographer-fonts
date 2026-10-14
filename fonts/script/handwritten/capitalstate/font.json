@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "CapitalState.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "CapitalState.woff2"
     }
   ],
   "notices": [],

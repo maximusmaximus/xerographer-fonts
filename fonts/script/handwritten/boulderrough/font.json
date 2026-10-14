@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "BoulderRough.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "BoulderRough.woff2"
     }
   ],
   "notices": [],

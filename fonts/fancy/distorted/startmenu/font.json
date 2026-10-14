@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "StartMenu.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "StartMenu.woff2"
     }
   ],
   "notices": [],

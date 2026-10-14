@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "DarkStarz.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "DarkStarz.woff2"
     }
   ],
   "notices": [],

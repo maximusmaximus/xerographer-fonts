@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "CrackSnacks.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "CrackSnacks.woff2"
     }
   ],
   "notices": [],

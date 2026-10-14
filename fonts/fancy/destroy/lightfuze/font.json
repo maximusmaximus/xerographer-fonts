@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "LightFuze.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "LightFuze.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "HouseRave.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "HouseRave.woff2"
     }
   ],
   "notices": [],

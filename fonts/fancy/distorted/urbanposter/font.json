@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "UrbanPoster.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "UrbanPoster.woff2"
     }
   ],
   "notices": [],

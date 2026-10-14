@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "MindStorm.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "MindStorm.woff2"
     }
   ],
   "notices": [],

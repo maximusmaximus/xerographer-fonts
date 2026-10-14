@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "WindowMarkers.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "WindowMarkers.woff2"
     }
   ],
   "notices": [],

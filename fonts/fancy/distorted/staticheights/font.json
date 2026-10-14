@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "StaticHeights.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "StaticHeights.woff2"
     }
   ],
   "notices": [],

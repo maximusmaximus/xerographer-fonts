@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Hermes Rocket.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Hermes Rocket.woff2"
     }
   ],
   "notices": [],

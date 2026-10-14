@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "ExtraZero.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ExtraZero.woff2"
     }
   ],
   "notices": [],

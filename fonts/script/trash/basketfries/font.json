@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "BasketFries.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "BasketFries.woff2"
     }
   ],
   "notices": [],

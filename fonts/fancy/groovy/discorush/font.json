@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "DiscoRush.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "DiscoRush.woff2"
     }
   ],
   "notices": [],

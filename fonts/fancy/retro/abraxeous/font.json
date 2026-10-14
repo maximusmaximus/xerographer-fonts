@@ -9,39 +9,48 @@
   "files": [
     {
       "file": "Abraxeous.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Abraxeous.woff2"
     },
     {
       "file": "AbraxeousBlack.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "AbraxeousBlack.woff2"
     },
     {
       "file": "AbraxeousBold.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "AbraxeousBold.woff2"
     },
     {
       "file": "AbraxeousBoldHollow.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "AbraxeousBoldHollow.woff2"
     },
     {
       "file": "AbraxeousExtraThin.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "AbraxeousExtraThin.woff2"
     },
     {
       "file": "AbraxeousExtraThinItalic.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "AbraxeousExtraThinItalic.woff2"
     },
     {
       "file": "AbraxeousItalic.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "AbraxeousItalic.woff2"
     },
     {
       "file": "AbraxeousNarrow.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "AbraxeousNarrow.woff2"
     },
     {
       "file": "AbraxeousThin.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "AbraxeousThin.woff2"
     }
   ],
   "notices": [],

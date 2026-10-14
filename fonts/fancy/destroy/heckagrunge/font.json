@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "HeckaGrunge.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "HeckaGrunge.woff2"
     }
   ],
   "notices": [],

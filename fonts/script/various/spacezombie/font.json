@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "SpaceZombie.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "SpaceZombie.woff2"
     }
   ],
   "notices": [],

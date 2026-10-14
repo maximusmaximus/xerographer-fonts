@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "WhiskyLickers.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "WhiskyLickers.woff2"
     }
   ],
   "notices": [],

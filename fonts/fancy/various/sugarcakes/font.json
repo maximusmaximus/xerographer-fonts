@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "SugarCakes.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "SugarCakes.woff2"
     }
   ],
   "notices": [],

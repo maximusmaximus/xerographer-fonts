@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "FuelTanks.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "FuelTanks.woff2"
     }
   ],
   "notices": [],

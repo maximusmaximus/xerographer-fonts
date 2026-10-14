@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "SpaceBang.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "SpaceBang.woff2"
     }
   ],
   "notices": [],

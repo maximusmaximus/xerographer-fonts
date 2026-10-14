@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "SnakeStitch.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "SnakeStitch.woff2"
     }
   ],
   "notices": [],

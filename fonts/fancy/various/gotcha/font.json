@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Gotcha.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Gotcha.woff2"
     }
   ],
   "notices": [],

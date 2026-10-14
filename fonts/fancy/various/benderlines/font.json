@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "BenderLines.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "BenderLines.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "FastTime.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "FastTime.woff2"
     }
   ],
   "notices": [],

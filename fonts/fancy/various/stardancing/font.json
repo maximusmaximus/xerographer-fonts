@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "StarDancing.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "StarDancing.woff2"
     }
   ],
   "notices": [],

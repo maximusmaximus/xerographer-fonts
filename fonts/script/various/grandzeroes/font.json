@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "GrandZeroes.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "GrandZeroes.woff2"
     }
   ],
   "notices": [],

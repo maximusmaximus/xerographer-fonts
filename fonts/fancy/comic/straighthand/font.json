@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "StraightHand.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "StraightHand.woff2"
     }
   ],
   "notices": [],

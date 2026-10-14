@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "ChronicalScript.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ChronicalScript.woff2"
     }
   ],
   "notices": [],

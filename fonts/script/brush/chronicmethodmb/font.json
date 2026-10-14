@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "ChronicMethodMB.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ChronicMethodMB.woff2"
     }
   ],
   "notices": [],

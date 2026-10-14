@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "PurpleDrank.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "PurpleDrank.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "TableShank.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "TableShank.woff2"
     }
   ],
   "notices": [],

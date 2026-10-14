@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "AncientSprawl.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "AncientSprawl.woff2"
     }
   ],
   "notices": [],

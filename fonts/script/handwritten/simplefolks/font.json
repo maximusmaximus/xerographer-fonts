@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "SimpleFolks.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "SimpleFolks.woff2"
     }
   ],
   "notices": [],

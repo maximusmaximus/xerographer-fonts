@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "cloudstorm.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "cloudstorm.woff2"
     }
   ],
   "notices": [],

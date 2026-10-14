@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "MetalBlockTwo.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "MetalBlockTwo.woff2"
     }
   ],
   "notices": [],

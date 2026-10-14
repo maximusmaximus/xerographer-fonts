@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "PixelHour.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "PixelHour.woff2"
     }
   ],
   "notices": [],

@@ -9,27 +9,33 @@
   "files": [
     {
       "file": "Pelanquier.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Pelanquier.woff2"
     },
     {
       "file": "PelanquierBlack.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "PelanquierBlack.woff2"
     },
     {
       "file": "PelanquierBold.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "PelanquierBold.woff2"
     },
     {
       "file": "PelanquierHollow.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "PelanquierHollow.woff2"
     },
     {
       "file": "PelanquierItalic.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "PelanquierItalic.woff2"
     },
     {
       "file": "PelanquierThin.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "PelanquierThin.woff2"
     }
   ],
   "notices": [],

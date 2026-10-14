@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "NinjaTurtle.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "NinjaTurtle.woff2"
     }
   ],
   "notices": [],

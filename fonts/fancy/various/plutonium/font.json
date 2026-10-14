@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Plutonium.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Plutonium.woff2"
     }
   ],
   "notices": [],

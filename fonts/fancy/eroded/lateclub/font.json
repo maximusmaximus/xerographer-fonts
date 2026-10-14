@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "LateClub.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "LateClub.woff2"
     }
   ],
   "notices": [],

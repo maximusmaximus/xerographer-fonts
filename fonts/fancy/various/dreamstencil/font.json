@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "DreamStencil.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "DreamStencil.woff2"
     }
   ],
   "notices": [],

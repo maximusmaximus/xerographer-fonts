@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Caustic.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Caustic.woff2"
     }
   ],
   "notices": [],

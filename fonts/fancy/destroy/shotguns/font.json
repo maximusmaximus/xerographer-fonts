@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "ShotGuns.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ShotGuns.woff2"
     }
   ],
   "notices": [],

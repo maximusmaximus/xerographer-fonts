@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "HandingOver.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "HandingOver.woff2"
     }
   ],
   "notices": [],

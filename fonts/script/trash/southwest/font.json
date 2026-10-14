@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "SouthWest.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "SouthWest.woff2"
     }
   ],
   "notices": [],

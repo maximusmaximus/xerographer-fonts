@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "LightRoast.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "LightRoast.woff2"
     }
   ],
   "notices": [],

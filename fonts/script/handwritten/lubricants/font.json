@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Lubricants.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Lubricants.woff2"
     }
   ],
   "notices": [],

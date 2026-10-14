@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "MuchoFiesta.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "MuchoFiesta.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "BeaverScratches.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "BeaverScratches.woff2"
     }
   ],
   "notices": [],

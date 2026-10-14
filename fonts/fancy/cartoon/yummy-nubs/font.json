@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Yummy Nubs.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Yummy Nubs.woff2"
     }
   ],
   "notices": [],

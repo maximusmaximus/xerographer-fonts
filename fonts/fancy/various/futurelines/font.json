@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "FutureLines.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "FutureLines.woff2"
     }
   ],
   "notices": [],

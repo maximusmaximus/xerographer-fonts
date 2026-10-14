@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "CaliforniaDesigns.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "CaliforniaDesigns.woff2"
     }
   ],
   "notices": [],

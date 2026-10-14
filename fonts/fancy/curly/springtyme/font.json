@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "SpringTyme.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "SpringTyme.woff2"
     }
   ],
   "notices": [],

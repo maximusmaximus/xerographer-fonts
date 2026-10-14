@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "HairBows.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "HairBows.woff2"
     }
   ],
   "notices": [],

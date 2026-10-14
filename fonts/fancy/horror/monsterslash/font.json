@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "MonsterSlash.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "MonsterSlash.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "CircusParty.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "CircusParty.woff2"
     }
   ],
   "notices": [],

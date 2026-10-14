@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "JackTrades.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "JackTrades.woff2"
     }
   ],
   "notices": [],

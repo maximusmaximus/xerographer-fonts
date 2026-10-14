@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "LowerHeight.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "LowerHeight.woff2"
     }
   ],
   "notices": [],

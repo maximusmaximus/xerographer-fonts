@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "WonderfulPhonograph.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "WonderfulPhonograph.woff2"
     }
   ],
   "notices": [],

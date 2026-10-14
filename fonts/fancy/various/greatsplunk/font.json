@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "GreatSplunk.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "GreatSplunk.woff2"
     }
   ],
   "notices": [],

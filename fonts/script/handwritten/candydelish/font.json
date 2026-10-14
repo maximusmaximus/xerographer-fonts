@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "CandyDelish.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "CandyDelish.woff2"
     }
   ],
   "notices": [],

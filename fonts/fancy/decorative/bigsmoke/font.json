@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "BigSmoke.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "BigSmoke.woff2"
     }
   ],
   "notices": [],

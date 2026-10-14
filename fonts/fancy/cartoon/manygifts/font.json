@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "ManyGifts.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ManyGifts.woff2"
     }
   ],
   "notices": [],

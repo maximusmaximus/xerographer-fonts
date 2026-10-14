@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Noses.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Noses.woff2"
     }
   ],
   "notices": [],

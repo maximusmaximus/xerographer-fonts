@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "SewnTight.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "SewnTight.woff2"
     }
   ],
   "notices": [],

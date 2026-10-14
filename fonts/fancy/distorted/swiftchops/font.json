@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "SwiftChops.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "SwiftChops.woff2"
     }
   ],
   "notices": [],

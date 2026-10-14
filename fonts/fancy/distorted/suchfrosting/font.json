@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "SuchFrosting.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "SuchFrosting.woff2"
     }
   ],
   "notices": [],

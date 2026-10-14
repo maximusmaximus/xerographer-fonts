@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "EyeScare.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "EyeScare.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Liner34.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Liner34.woff2"
     }
   ],
   "notices": [],

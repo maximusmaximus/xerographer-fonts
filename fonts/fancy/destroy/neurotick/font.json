@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "NeuroTick.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "NeuroTick.woff2"
     }
   ],
   "notices": [],

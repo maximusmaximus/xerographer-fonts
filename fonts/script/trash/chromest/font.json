@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Chromest.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Chromest.woff2"
     }
   ],
   "notices": [],

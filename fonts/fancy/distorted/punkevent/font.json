@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "PunkEvent.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "PunkEvent.woff2"
     }
   ],
   "notices": [],

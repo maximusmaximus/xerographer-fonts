@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "GreatShadow.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "GreatShadow.woff2"
     }
   ],
   "notices": [],

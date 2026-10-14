@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "FuriousRacing.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "FuriousRacing.woff2"
     }
   ],
   "notices": [],

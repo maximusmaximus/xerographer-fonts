@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Spherism.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Spherism.woff2"
     }
   ],
   "notices": [],

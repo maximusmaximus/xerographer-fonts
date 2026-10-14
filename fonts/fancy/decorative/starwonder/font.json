@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "StarWonder.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "StarWonder.woff2"
     }
   ],
   "notices": [],

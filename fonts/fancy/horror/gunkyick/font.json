@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "GunkyIck.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "GunkyIck.woff2"
     }
   ],
   "notices": [],

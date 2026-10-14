@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "MetalAtlas.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "MetalAtlas.woff2"
     }
   ],
   "notices": [],

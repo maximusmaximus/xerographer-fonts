@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "JustQuick.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "JustQuick.woff2"
     }
   ],
   "notices": [],

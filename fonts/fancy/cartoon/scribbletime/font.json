@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "ScribbleTime.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ScribbleTime.woff2"
     }
   ],
   "notices": [],

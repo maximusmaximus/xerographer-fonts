@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "IndianSummer.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "IndianSummer.woff2"
     }
   ],
   "notices": [],

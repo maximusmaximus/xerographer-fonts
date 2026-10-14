@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Cryptographic.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Cryptographic.woff2"
     }
   ],
   "notices": [],

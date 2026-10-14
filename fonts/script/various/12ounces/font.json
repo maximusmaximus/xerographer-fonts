@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "12Ounces.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "12Ounces.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "FunTrucks.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "FunTrucks.woff2"
     }
   ],
   "notices": [],

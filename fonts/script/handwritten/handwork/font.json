@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "HandWork.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "HandWork.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "BangTime.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "BangTime.woff2"
     }
   ],
   "notices": [],

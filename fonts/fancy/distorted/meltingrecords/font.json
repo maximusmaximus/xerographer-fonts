@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "MeltingRecords.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "MeltingRecords.woff2"
     }
   ],
   "notices": [],

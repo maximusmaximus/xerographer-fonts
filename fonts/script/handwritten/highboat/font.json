@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "HighBoat.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "HighBoat.woff2"
     }
   ],
   "notices": [],

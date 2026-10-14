@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Blokqued.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Blokqued.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "ThinkLight.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ThinkLight.woff2"
     }
   ],
   "notices": [],

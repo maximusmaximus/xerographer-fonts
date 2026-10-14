@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "SpringDaisy.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "SpringDaisy.woff2"
     }
   ],
   "notices": [],

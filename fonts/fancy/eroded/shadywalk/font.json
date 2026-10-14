@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "ShadyWalk.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ShadyWalk.woff2"
     }
   ],
   "notices": [],

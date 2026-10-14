@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "BiteTyme.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "BiteTyme.woff2"
     }
   ],
   "notices": [],

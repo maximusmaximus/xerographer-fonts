@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "CollegeMovie.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "CollegeMovie.woff2"
     }
   ],
   "notices": [],

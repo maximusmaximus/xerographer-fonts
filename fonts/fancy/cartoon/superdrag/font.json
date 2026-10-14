@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "SuperDrag.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "SuperDrag.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "TugBoat.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "TugBoat.woff2"
     }
   ],
   "notices": [],

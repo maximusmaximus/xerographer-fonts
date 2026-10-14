@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "TheaterEvent.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "TheaterEvent.woff2"
     }
   ],
   "notices": [],

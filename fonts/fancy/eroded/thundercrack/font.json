@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "ThunderCrack.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ThunderCrack.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "WholeSpace.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "WholeSpace.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "SureReal.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "SureReal.woff2"
     }
   ],
   "notices": [],

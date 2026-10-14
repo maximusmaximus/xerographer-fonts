@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "BouldLight.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "BouldLight.woff2"
     }
   ],
   "notices": [],

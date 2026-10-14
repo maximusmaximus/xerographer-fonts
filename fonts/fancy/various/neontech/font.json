@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "NeonTech.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "NeonTech.woff2"
     }
   ],
   "notices": [],

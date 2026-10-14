@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "ChronicDeal.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ChronicDeal.woff2"
     }
   ],
   "notices": [],

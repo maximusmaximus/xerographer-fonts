@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "EightiesLocker.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "EightiesLocker.woff2"
     }
   ],
   "notices": [],

@@ -9,11 +9,13 @@
   "files": [
     {
       "file": "PleasureCastleMarble.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "PleasureCastleMarble.woff2"
     },
     {
       "file": "PleasureCastleStandard.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "PleasureCastleStandard.woff2"
     }
   ],
   "notices": [],

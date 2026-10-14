@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "yum nub extended.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "yum nub extended.woff2"
     }
   ],
   "notices": [],

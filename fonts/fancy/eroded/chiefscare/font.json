@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "ChiefScare.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ChiefScare.woff2"
     }
   ],
   "notices": [],

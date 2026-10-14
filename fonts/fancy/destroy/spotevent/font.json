@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "SpotEvent.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "SpotEvent.woff2"
     }
   ],
   "notices": [],

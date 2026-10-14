@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "NaughtyPipe.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "NaughtyPipe.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "SaturdayEvening.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "SaturdayEvening.woff2"
     }
   ],
   "notices": [],

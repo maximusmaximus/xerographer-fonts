@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "GreatCamp.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "GreatCamp.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "SmokingPistols.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "SmokingPistols.woff2"
     }
   ],
   "notices": [],

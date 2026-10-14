@@ -9,19 +9,23 @@
   "files": [
     {
       "file": "KitchenCowboy-Italic.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "KitchenCowboy-Italic.woff2"
     },
     {
       "file": "KitchenCowboy-Regular.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "KitchenCowboy-Regular.woff2"
     },
     {
       "file": "KitchenCowboy-Short.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "KitchenCowboy-Short.woff2"
     },
     {
       "file": "KitchenCowboy-Thin.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "KitchenCowboy-Thin.woff2"
     }
   ],
   "notices": [

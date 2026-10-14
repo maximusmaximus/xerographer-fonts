@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "BurnSide.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "BurnSide.woff2"
     }
   ],
   "notices": [],

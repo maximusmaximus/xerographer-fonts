@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "ThriftStore.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ThriftStore.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "StrongEventDT.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "StrongEventDT.woff2"
     }
   ],
   "notices": [],

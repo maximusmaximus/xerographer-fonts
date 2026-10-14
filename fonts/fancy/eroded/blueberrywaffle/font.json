@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "BlueberryWaffle.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "BlueberryWaffle.woff2"
     }
   ],
   "notices": [],

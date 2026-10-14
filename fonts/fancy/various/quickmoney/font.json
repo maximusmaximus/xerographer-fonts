@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "QuickMoney.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "QuickMoney.woff2"
     }
   ],
   "notices": [],

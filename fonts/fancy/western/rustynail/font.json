@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "RustyNail.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "RustyNail.woff2"
     }
   ],
   "notices": [],

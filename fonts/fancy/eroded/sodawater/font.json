@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "SodaWater.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "SodaWater.woff2"
     }
   ],
   "notices": [],

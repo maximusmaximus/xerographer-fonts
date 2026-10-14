@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "FrenchSugar.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "FrenchSugar.woff2"
     }
   ],
   "notices": [],

@@ -9,11 +9,13 @@
   "files": [
     {
       "file": "pointy solid.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "pointy solid.woff2"
     },
     {
       "file": "pointy.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "pointy.woff2"
     }
   ],
   "notices": [],

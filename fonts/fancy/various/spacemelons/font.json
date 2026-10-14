@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "SpaceMelons.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "SpaceMelons.woff2"
     }
   ],
   "notices": [],

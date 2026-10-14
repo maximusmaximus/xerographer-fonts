@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "BurnTime.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "BurnTime.woff2"
     }
   ],
   "notices": [],

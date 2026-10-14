@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "InsideFlower.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "InsideFlower.woff2"
     }
   ],
   "notices": [],

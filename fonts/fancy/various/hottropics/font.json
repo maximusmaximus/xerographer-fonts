@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "HotTropics.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "HotTropics.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "GothicFriends.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "GothicFriends.woff2"
     }
   ],
   "notices": [],

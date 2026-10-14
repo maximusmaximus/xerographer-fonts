@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "ExcellentStencil.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ExcellentStencil.woff2"
     }
   ],
   "notices": [],

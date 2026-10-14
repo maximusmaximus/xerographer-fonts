@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "MoreDimension.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "MoreDimension.woff2"
     }
   ],
   "notices": [],

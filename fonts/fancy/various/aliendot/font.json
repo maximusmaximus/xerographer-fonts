@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "AlienDot.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "AlienDot.woff2"
     }
   ],
   "notices": [],

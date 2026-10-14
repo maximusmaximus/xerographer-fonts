@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "DurhShapes.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "DurhShapes.woff2"
     }
   ],
   "notices": [],

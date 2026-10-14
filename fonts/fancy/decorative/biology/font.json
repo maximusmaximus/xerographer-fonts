@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Biology.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Biology.woff2"
     }
   ],
   "notices": [],

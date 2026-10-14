@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "HawtComix.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "HawtComix.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "ChromeFancy.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ChromeFancy.woff2"
     }
   ],
   "notices": [],

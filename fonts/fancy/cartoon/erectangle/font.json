@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "ErectAngle.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ErectAngle.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "StrawberryLongcake.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "StrawberryLongcake.woff2"
     }
   ],
   "notices": [],

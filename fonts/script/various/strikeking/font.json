@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "StrikeKing.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "StrikeKing.woff2"
     }
   ],
   "notices": [],

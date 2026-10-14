@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "TreeHausHorror.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "TreeHausHorror.woff2"
     }
   ],
   "notices": [],

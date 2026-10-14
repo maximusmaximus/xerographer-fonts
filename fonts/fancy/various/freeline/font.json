@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "FreeLine.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "FreeLine.woff2"
     }
   ],
   "notices": [],

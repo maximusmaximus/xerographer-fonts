@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "DiscoFresa.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "DiscoFresa.woff2"
     }
   ],
   "notices": [],

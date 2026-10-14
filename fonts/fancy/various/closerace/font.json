@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "CloseRace.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "CloseRace.woff2"
     }
   ],
   "notices": [],

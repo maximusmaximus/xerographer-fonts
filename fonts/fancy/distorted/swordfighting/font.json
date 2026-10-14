@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "SwordFighting.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "SwordFighting.woff2"
     }
   ],
   "notices": [],

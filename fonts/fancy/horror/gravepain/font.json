@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "GravePain.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "GravePain.woff2"
     }
   ],
   "notices": [],

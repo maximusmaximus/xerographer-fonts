@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "AlwaysNever.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "AlwaysNever.woff2"
     }
   ],
   "notices": [],

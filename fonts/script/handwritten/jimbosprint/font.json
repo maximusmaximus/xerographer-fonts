@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "JimbosPrint-Bold-Italic.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "JimbosPrint-Bold-Italic.woff2"
     }
   ],
   "notices": [],

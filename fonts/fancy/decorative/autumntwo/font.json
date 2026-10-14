@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "AutumnTwo.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "AutumnTwo.woff2"
     }
   ],
   "notices": [],

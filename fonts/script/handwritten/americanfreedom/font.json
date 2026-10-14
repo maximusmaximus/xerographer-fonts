@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "AmericanFreedom.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "AmericanFreedom.woff2"
     }
   ],
   "notices": [],

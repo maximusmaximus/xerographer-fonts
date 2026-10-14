@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Denominator.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Denominator.woff2"
     }
   ],
   "notices": [],

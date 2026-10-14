@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "SuperBling.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "SuperBling.woff2"
     }
   ],
   "notices": [],

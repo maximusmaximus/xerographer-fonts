@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "SnorkelWhisp.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "SnorkelWhisp.woff2"
     }
   ],
   "notices": [],

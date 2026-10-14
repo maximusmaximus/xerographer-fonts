@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "StickyMad.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "StickyMad.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Badazzle.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Badazzle.woff2"
     }
   ],
   "notices": [],

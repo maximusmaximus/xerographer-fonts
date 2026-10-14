@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "StripeAttack.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "StripeAttack.woff2"
     }
   ],
   "notices": [],

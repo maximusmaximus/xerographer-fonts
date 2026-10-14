@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "RightyMarks.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "RightyMarks.woff2"
     }
   ],
   "notices": [],

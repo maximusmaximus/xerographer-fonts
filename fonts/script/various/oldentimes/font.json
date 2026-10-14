@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "OldenTimes.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "OldenTimes.woff2"
     }
   ],
   "notices": [],

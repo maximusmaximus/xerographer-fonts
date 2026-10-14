@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "BandStand.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "BandStand.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "GanstaWalk.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "GanstaWalk.woff2"
     }
   ],
   "notices": [],

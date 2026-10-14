@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "PopCap.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "PopCap.woff2"
     }
   ],
   "notices": [],

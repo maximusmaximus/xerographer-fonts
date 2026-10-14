@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Asperian.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Asperian.woff2"
     }
   ],
   "notices": [],

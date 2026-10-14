@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "SweatyParty.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "SweatyParty.woff2"
     }
   ],
   "notices": [],

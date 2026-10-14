@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "HotBone.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "HotBone.woff2"
     }
   ],
   "notices": [],

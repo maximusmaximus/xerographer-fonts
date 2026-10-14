@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Meltasstic.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Meltasstic.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "QuantumPixel.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "QuantumPixel.woff2"
     }
   ],
   "notices": [],

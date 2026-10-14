@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "MinusPlus.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "MinusPlus.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "BoneYard.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "BoneYard.woff2"
     }
   ],
   "notices": [],

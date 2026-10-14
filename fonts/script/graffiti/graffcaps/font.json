@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "GraffCaps.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "GraffCaps.woff2"
     }
   ],
   "notices": [],

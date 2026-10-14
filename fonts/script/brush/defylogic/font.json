@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "DefyLogic.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "DefyLogic.woff2"
     }
   ],
   "notices": [],

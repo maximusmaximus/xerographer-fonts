@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Graphemic.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Graphemic.woff2"
     }
   ],
   "notices": [],

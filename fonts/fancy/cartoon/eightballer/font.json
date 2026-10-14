@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "EightBaller.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "EightBaller.woff2"
     }
   ],
   "notices": [],

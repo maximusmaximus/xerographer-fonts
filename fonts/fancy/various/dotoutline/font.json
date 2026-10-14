@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "DotOutline.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "DotOutline.woff2"
     }
   ],
   "notices": [],

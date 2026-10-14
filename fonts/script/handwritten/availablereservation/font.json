@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "AvailableReservation.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "AvailableReservation.woff2"
     }
   ],
   "notices": [],

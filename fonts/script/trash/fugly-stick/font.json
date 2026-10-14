@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "FuglyStick.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "FuglyStick.woff2"
     }
   ],
   "notices": [],

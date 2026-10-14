@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "GreatEnding.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "GreatEnding.woff2"
     }
   ],
   "notices": [],

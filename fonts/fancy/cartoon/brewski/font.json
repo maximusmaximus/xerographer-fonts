@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Brewski.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Brewski.woff2"
     }
   ],
   "notices": [],

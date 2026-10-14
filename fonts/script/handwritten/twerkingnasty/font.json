@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "TwerkingNasty.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "TwerkingNasty.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "MixTape.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "MixTape.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "MetalblockNaked.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "MetalblockNaked.woff2"
     }
   ],
   "notices": [],

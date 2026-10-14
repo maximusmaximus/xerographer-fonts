@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "ComeInside.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ComeInside.woff2"
     }
   ],
   "notices": [],

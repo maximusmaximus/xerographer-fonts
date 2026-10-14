@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "DivideConquer.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "DivideConquer.woff2"
     }
   ],
   "notices": [],

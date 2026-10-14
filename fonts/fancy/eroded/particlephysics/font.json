@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "ParticlePhysics.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ParticlePhysics.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "KrampsHanso.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "KrampsHanso.woff2"
     }
   ],
   "notices": [],

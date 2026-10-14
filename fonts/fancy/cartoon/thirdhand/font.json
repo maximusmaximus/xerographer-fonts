@@ -9,11 +9,13 @@
   "files": [
     {
       "file": "ThirdHand-solid.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ThirdHand-solid.woff2"
     },
     {
       "file": "ThirdHand.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ThirdHand.woff2"
     }
   ],
   "notices": [],

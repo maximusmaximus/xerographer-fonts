@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "CapScratched.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "CapScratched.woff2"
     }
   ],
   "notices": [],

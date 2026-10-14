@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "AlienWaffle.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "AlienWaffle.woff2"
     }
   ],
   "notices": [],

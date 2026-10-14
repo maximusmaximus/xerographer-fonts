@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "GrungeKids.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "GrungeKids.woff2"
     }
   ],
   "notices": [],

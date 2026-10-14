@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "HolidayEvent.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "HolidayEvent.woff2"
     }
   ],
   "notices": [],

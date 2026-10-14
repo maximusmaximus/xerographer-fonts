@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "ClockWork.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ClockWork.woff2"
     }
   ],
   "notices": [],

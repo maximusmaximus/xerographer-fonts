@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "WallFresh.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "WallFresh.woff2"
     }
   ],
   "notices": [],

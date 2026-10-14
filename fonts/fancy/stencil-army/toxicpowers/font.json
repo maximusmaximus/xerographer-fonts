@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "ToxicPowers.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ToxicPowers.woff2"
     }
   ],
   "notices": [],

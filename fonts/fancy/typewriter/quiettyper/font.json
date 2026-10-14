@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "QuietTyper.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "QuietTyper.woff2"
     }
   ],
   "notices": [],

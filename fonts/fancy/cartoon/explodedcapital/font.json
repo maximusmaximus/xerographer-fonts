@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "ExplodedCapital.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ExplodedCapital.woff2"
     }
   ],
   "notices": [],

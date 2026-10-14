@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "SummerScare.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "SummerScare.woff2"
     }
   ],
   "notices": [],

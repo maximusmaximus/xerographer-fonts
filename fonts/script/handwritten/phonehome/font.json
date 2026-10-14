@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "PhoneHome.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "PhoneHome.woff2"
     }
   ],
   "notices": [],

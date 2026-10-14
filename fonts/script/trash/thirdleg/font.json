@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "ThirdLeg.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ThirdLeg.woff2"
     }
   ],
   "notices": [],

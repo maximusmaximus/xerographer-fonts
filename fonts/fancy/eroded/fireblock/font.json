@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "FireBlock.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "FireBlock.woff2"
     }
   ],
   "notices": [],

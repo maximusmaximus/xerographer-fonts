@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "seamonster.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "seamonster.woff2"
     }
   ],
   "notices": [],

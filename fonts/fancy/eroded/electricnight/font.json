@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "ElectricNight.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ElectricNight.woff2"
     }
   ],
   "notices": [],

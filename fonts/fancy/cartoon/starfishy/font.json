@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "StarFishy.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "StarFishy.woff2"
     }
   ],
   "notices": [],

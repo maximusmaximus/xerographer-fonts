@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "WitchesBrew.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "WitchesBrew.woff2"
     }
   ],
   "notices": [],

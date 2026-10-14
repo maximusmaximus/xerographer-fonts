@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "ZipDown.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ZipDown.woff2"
     }
   ],
   "notices": [],

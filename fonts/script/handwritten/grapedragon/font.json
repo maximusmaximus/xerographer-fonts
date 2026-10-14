@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "GrapeDragon.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "GrapeDragon.woff2"
     }
   ],
   "notices": [],

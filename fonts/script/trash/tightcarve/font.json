@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "TightCarve.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "TightCarve.woff2"
     }
   ],
   "notices": [],

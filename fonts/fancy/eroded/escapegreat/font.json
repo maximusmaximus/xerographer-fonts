@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "EscapeGreat.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "EscapeGreat.woff2"
     }
   ],
   "notices": [],

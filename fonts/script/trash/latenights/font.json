@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "LateNights.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "LateNights.woff2"
     }
   ],
   "notices": [],

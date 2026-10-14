@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "ChildsFuntime.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ChildsFuntime.woff2"
     }
   ],
   "notices": [],

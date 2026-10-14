@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "MetalChakra.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "MetalChakra.woff2"
     }
   ],
   "notices": [],

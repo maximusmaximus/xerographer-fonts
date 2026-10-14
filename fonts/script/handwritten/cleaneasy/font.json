@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "CleanEasy.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "CleanEasy.woff2"
     }
   ],
   "notices": [],

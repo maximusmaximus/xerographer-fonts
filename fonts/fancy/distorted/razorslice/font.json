@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "RazorSlice.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "RazorSlice.woff2"
     }
   ],
   "notices": [],

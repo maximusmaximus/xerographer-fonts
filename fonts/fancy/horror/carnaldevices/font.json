@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "CarnalDevices.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "CarnalDevices.woff2"
     }
   ],
   "notices": [],

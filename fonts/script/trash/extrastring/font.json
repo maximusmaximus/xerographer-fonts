@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "ExtraString.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ExtraString.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "GhostClouds.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "GhostClouds.woff2"
     }
   ],
   "notices": [],

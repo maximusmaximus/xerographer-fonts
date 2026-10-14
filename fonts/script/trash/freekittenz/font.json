@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "FreeKittenz.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "FreeKittenz.woff2"
     }
   ],
   "notices": [],

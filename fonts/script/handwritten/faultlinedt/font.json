@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "FaultLineDT.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "FaultLineDT.woff2"
     }
   ],
   "notices": [],

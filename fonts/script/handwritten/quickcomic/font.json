@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "QuickComic.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "QuickComic.woff2"
     }
   ],
   "notices": [],

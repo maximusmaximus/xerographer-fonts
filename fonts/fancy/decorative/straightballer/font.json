@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "StraightBaller.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "StraightBaller.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "GouldenTreatise.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "GouldenTreatise.woff2"
     }
   ],
   "notices": [],

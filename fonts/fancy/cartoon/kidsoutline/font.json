@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "KidsOutline.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "KidsOutline.woff2"
     }
   ],
   "notices": [],

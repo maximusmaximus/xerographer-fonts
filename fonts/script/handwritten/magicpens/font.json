@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "MagicPens.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "MagicPens.woff2"
     }
   ],
   "notices": [],

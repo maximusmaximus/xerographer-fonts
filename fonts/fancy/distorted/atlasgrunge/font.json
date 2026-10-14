@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "AtlasGrunge.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "AtlasGrunge.woff2"
     }
   ],
   "notices": [],

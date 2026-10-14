@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "ChinaTown.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ChinaTown.woff2"
     }
   ],
   "notices": [],

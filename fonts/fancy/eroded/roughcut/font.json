@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "RoughCut.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "RoughCut.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Stenciltration.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Stenciltration.woff2"
     }
   ],
   "notices": [],

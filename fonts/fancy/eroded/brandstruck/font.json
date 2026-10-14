@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "BrandStruck.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "BrandStruck.woff2"
     }
   ],
   "notices": [],

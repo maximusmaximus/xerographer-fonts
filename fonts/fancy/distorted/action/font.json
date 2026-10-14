@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Action.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Action.woff2"
     }
   ],
   "notices": [],

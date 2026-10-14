@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "PlainHandline.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "PlainHandline.woff2"
     }
   ],
   "notices": [],

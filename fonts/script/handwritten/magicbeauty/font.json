@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "MagicBeauty.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "MagicBeauty.woff2"
     }
   ],
   "notices": [],

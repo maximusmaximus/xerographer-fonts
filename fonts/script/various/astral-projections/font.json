@@ -9,11 +9,13 @@
   "files": [
     {
       "file": "AstralProjections.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "AstralProjections.woff2"
     },
     {
       "file": "AstralProjectionsItalic.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "AstralProjectionsItalic.woff2"
     }
   ],
   "notices": [

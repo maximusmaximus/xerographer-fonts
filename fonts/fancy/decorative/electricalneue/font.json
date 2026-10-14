@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "ElectricalNeue.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ElectricalNeue.woff2"
     }
   ],
   "notices": [],

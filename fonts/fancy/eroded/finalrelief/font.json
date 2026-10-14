@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "FinalRelief.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "FinalRelief.woff2"
     }
   ],
   "notices": [],

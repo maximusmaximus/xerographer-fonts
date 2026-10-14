@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Slashtacular.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Slashtacular.woff2"
     }
   ],
   "notices": [],

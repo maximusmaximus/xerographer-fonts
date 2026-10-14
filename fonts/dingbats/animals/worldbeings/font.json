@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "worldbeings.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "worldbeings.woff2"
     }
   ],
   "notices": [],

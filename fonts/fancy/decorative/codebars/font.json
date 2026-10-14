@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "CodeBars.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "CodeBars.woff2"
     }
   ],
   "notices": [],

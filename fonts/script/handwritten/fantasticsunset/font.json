@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "FantasticSunset.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "FantasticSunset.woff2"
     }
   ],
   "notices": [],

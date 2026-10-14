@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "WetRazors.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "WetRazors.woff2"
     }
   ],
   "notices": [],

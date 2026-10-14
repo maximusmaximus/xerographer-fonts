@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "XmasLite.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "XmasLite.woff2"
     }
   ],
   "notices": [],

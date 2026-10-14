@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "FlyingHigh.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "FlyingHigh.woff2"
     }
   ],
   "notices": [],

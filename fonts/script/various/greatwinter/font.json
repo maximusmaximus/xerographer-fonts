@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "GreatWinter.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "GreatWinter.woff2"
     }
   ],
   "notices": [],

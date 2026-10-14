@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Ringlead.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Ringlead.woff2"
     }
   ],
   "notices": [],

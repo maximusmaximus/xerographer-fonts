@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "PrisonEscape.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "PrisonEscape.woff2"
     }
   ],
   "notices": [],

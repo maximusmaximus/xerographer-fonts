@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "QuiveringNoodle.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "QuiveringNoodle.woff2"
     }
   ],
   "notices": [],

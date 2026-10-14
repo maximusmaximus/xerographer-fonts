@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "HouseMusic.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "HouseMusic.woff2"
     }
   ],
   "notices": [],

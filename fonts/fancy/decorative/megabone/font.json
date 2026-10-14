@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "MegaBone.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "MegaBone.woff2"
     }
   ],
   "notices": [],

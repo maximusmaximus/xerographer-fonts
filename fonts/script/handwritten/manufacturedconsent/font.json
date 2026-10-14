@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "ManufacturedConsent.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ManufacturedConsent.woff2"
     }
   ],
   "notices": [],

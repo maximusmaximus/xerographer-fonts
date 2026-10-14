@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "BreakAway.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "BreakAway.woff2"
     }
   ],
   "notices": [],

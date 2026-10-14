@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "HighZombie.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "HighZombie.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "HairyFun.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "HairyFun.woff2"
     }
   ],
   "notices": [],

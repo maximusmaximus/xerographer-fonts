@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "FrightfulCarts.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "FrightfulCarts.woff2"
     }
   ],
   "notices": [],

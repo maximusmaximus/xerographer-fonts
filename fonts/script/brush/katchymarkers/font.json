@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "KatchyMarkers.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "KatchyMarkers.woff2"
     }
   ],
   "notices": [],
