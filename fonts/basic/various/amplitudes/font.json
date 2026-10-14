@@ -64,9 +64,9 @@
   },
   "coverage": {
     "latin1": "100%",
-    "punctuation": "100%",
-    "glyphs": 206,
-    "updated": "2026-10-13",
-    "note": "Pilot batch 2: full Latin-1 plus common punctuation/currency synthesized from existing glyphs (all 11 cuts). Designer review recommended."
+    "latinExtendedA": "100%",
+    "glyphs": 334,
+    "updated": "2026-10-14",
+    "note": "Batch 3 (Basic & Techno): full Latin-1, punctuation/currency and Latin Extended-A, built from the font's own parts plus drafted marks and special letters. Designer review recommended."
   }
 }
