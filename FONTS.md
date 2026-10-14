@@ -6,15 +6,15 @@ Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxi
 
 ## Basic · Sans serif
 
-- [Train Station](fonts/basic/sans-serif/trainstation) — [catalog](https://fonts.grok.me/font/trainstation) · `Latin-1` `Central European` `317 glyphs`
+- [Train Station](fonts/basic/sans-serif/trainstation) — [catalog](https://fonts.grok.me/font/trainstation) · `Latin-1` `Central European` `329 glyphs`
 
 ## Basic · Various
 
-- [Amplitudes](fonts/basic/various/amplitudes) — [catalog](https://fonts.grok.me/font/amplitudes) · 11 files · `Latin-1` `Central European` `334 glyphs`
-- [Pony Maker](fonts/basic/various/ponymaker) — [catalog](https://fonts.grok.me/font/ponymaker) · `Latin-1` `Central European` `317 glyphs`
-- [Quagent](fonts/basic/various/quagent) — [catalog](https://fonts.grok.me/font/quagent) · 2 files · `Latin-1` `Central European` `334 glyphs`
+- [Amplitudes](fonts/basic/various/amplitudes) — [catalog](https://fonts.grok.me/font/amplitudes) · 11 files · `Latin-1` `Central European` `346 glyphs`
+- [Pony Maker](fonts/basic/various/ponymaker) — [catalog](https://fonts.grok.me/font/ponymaker) · `Latin-1` `Central European` `323 glyphs`
+- [Quagent](fonts/basic/various/quagent) — [catalog](https://fonts.grok.me/font/quagent) · 2 files · `Latin-1` `Central European` `346 glyphs`
 - [Serifvetika](fonts/basic/various/serifvetika) — [catalog](https://fonts.grok.me/font/serifvetika) · `Latin-1` `Central European` `314 glyphs`
-- [Xelita](fonts/basic/various/xelita) — [catalog](https://fonts.grok.me/font/xelita) · 3 files · `Latin-1 75%` `Central European` `319 glyphs`
+- [Xelita](fonts/basic/various/xelita) — [catalog](https://fonts.grok.me/font/xelita) · 3 files · `Latin-1 75%` `Central European` `332 glyphs`
 
 ## Dingbats · Animals
 
@@ -90,7 +90,7 @@ Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxi
 - [Excellent Stencil](fonts/fancy/cartoon/excellentstencil) — [catalog](https://fonts.grok.me/font/excellentstencil)
 - [Exploded Capital](fonts/fancy/cartoon/explodedcapital) — [catalog](https://fonts.grok.me/font/explodedcapital)
 - [Extra Dimension](fonts/fancy/cartoon/extradimension) — [catalog](https://fonts.grok.me/font/extradimension)
-- [Extra Sprinkles](fonts/fancy/cartoon/extrasprinkles) — [catalog](https://fonts.grok.me/font/extrasprinkles) · `Latin-1` `Central European` `316 glyphs`
+- [Extra Sprinkles](fonts/fancy/cartoon/extrasprinkles) — [catalog](https://fonts.grok.me/font/extrasprinkles) · `Latin-1` `Central European` `321 glyphs`
 - [Fair House](fonts/fancy/cartoon/fairhouse) — [catalog](https://fonts.grok.me/font/fairhouse)
 - [FanCom](fonts/fancy/cartoon/fancom) — [catalog](https://fonts.grok.me/font/fancom)
 - [Fancy Sauce](fonts/fancy/cartoon/fancysauce) — [catalog](https://fonts.grok.me/font/fancysauce)
@@ -149,7 +149,7 @@ Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxi
 - [Outline Around](fonts/fancy/cartoon/outlinearound) — [catalog](https://fonts.grok.me/font/outlinearound)
 - [Outline Twelve](fonts/fancy/cartoon/outlinetwelve) — [catalog](https://fonts.grok.me/font/outlinetwelve)
 - [Percolation](fonts/fancy/cartoon/percolation) — [catalog](https://fonts.grok.me/font/percolation)
-- [Phat Rave](fonts/fancy/cartoon/phatrave) — [catalog](https://fonts.grok.me/font/phatrave) · `Latin-1 92.7%` `Central European` `297 glyphs`
+- [Phat Rave](fonts/fancy/cartoon/phatrave) — [catalog](https://fonts.grok.me/font/phatrave) · `Latin-1 92.7%` `Central European` `310 glyphs`
 - [Plain Handline](fonts/fancy/cartoon/plainhandline) — [catalog](https://fonts.grok.me/font/plainhandline)
 - [Play Along](fonts/fancy/cartoon/playalong) — [catalog](https://fonts.grok.me/font/playalong)
 - [Playgrounds](fonts/fancy/cartoon/playgrounds) — [catalog](https://fonts.grok.me/font/playgrounds)
@@ -164,7 +164,7 @@ Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxi
 - [Right Way](fonts/fancy/cartoon/rightway) — [catalog](https://fonts.grok.me/font/rightway)
 - [Run Away](fonts/fancy/cartoon/runaway) — [catalog](https://fonts.grok.me/font/runaway)
 - [Sans College](fonts/fancy/cartoon/sanscollege) — [catalog](https://fonts.grok.me/font/sanscollege)
-- [School Notes](fonts/fancy/cartoon/schoolnotes) — [catalog](https://fonts.grok.me/font/schoolnotes) · `Latin-1` `Central European` `315 glyphs`
+- [School Notes](fonts/fancy/cartoon/schoolnotes) — [catalog](https://fonts.grok.me/font/schoolnotes) · `Latin-1` `Central European` `319 glyphs`
 - [Schwifty](fonts/fancy/cartoon/schwifty) — [catalog](https://fonts.grok.me/font/schwifty)
 - [Scrapbuckets](fonts/fancy/cartoon/scrapbuckets) — [catalog](https://fonts.grok.me/font/scrapbuckets)
 - [Scratchy Fun](fonts/fancy/cartoon/scratchyfun) — [catalog](https://fonts.grok.me/font/scratchyfun)
@@ -183,14 +183,14 @@ Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxi
 - [Star Fishy](fonts/fancy/cartoon/starfishy) — [catalog](https://fonts.grok.me/font/starfishy)
 - [Stick Tickle](fonts/fancy/cartoon/stick-tickle) — [catalog](https://fonts.grok.me/font/stick-tickle)
 - [Story Time](fonts/fancy/cartoon/storytime) — [catalog](https://fonts.grok.me/font/storytime)
-- [Stripe Fun](fonts/fancy/cartoon/stripefun) — [catalog](https://fonts.grok.me/font/stripefun) · `Latin-1` `Central European` `315 glyphs`
+- [Stripe Fun](fonts/fancy/cartoon/stripefun) — [catalog](https://fonts.grok.me/font/stripefun) · `Latin-1` `Central European` `328 glyphs`
 - [Stripefest](fonts/fancy/cartoon/stripefest) — [catalog](https://fonts.grok.me/font/stripefest)
-- [Strungout](fonts/fancy/cartoon/strungout) — [catalog](https://fonts.grok.me/font/strungout) · `Latin-1` `Central European` `316 glyphs`
+- [Strungout](fonts/fancy/cartoon/strungout) — [catalog](https://fonts.grok.me/font/strungout) · `Latin-1` `Central European` `320 glyphs`
 - [SuperDrag](fonts/fancy/cartoon/superdrag) — [catalog](https://fonts.grok.me/font/superdrag)
-- [Tasty Sundae](fonts/fancy/cartoon/tastysundae) — [catalog](https://fonts.grok.me/font/tastysundae) · `Latin-1` `Central European` `316 glyphs`
+- [Tasty Sundae](fonts/fancy/cartoon/tastysundae) — [catalog](https://fonts.grok.me/font/tastysundae) · `Latin-1` `Central European` `328 glyphs`
 - [Tech Haus](fonts/fancy/cartoon/techhaus) — [catalog](https://fonts.grok.me/font/techhaus)
 - [Third Hand](fonts/fancy/cartoon/thirdhand) — [catalog](https://fonts.grok.me/font/thirdhand) · 2 files
-- [Threed](fonts/fancy/cartoon/threed) — [catalog](https://fonts.grok.me/font/threed) · 2 files · `Latin-1` `Central European` `314 glyphs`
+- [Threed](fonts/fancy/cartoon/threed) — [catalog](https://fonts.grok.me/font/threed) · 2 files · `Latin-1` `Central European` `327 glyphs`
 - [Thrift Store](fonts/fancy/cartoon/thriftstore) — [catalog](https://fonts.grok.me/font/thriftstore)
 - [Tiger Tails](fonts/fancy/cartoon/tigertails) — [catalog](https://fonts.grok.me/font/tigertails)
 - [Tiny Friends](fonts/fancy/cartoon/tinyfriends) — [catalog](https://fonts.grok.me/font/tinyfriends)
@@ -213,17 +213,17 @@ Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxi
 
 - [Batt Marber](fonts/fancy/comic/batt-marber) — [catalog](https://fonts.grok.me/font/batt-marber)
 - [Comic Chub](fonts/fancy/comic/comicchub) — [catalog](https://fonts.grok.me/font/comicchub)
-- [Comic Shadow](fonts/fancy/comic/comicshadow) — [catalog](https://fonts.grok.me/font/comicshadow) · `Latin-1` `Central European` `315 glyphs`
+- [Comic Shadow](fonts/fancy/comic/comicshadow) — [catalog](https://fonts.grok.me/font/comicshadow) · `Latin-1` `Central European` `327 glyphs`
 - [Comic Tans](fonts/fancy/comic/comictans) — [catalog](https://fonts.grok.me/font/comictans)
 - [CopyStand](fonts/fancy/comic/copystand) — [catalog](https://fonts.grok.me/font/copystand) · 2 files
 - [Craycray For You](fonts/fancy/comic/craycray-for-you) — [catalog](https://fonts.grok.me/font/craycray-for-you)
-- [Fantastic Party](fonts/fancy/comic/fantasticparty) — [catalog](https://fonts.grok.me/font/fantasticparty) · `Latin-1` `Central European` `317 glyphs`
+- [Fantastic Party](fonts/fancy/comic/fantasticparty) — [catalog](https://fonts.grok.me/font/fantasticparty) · `Latin-1` `Central European` `329 glyphs`
 - [Feed The Bears](fonts/fancy/comic/feed-the-bears) — [catalog](https://fonts.grok.me/font/feed-the-bears)
 - [Fun Bear](fonts/fancy/comic/funbear) — [catalog](https://fonts.grok.me/font/funbear)
-- [Fun Sized](fonts/fancy/comic/funsized) — [catalog](https://fonts.grok.me/font/funsized) · `Latin-1` `Central European` `318 glyphs`
+- [Fun Sized](fonts/fancy/comic/funsized) — [catalog](https://fonts.grok.me/font/funsized) · `Latin-1` `Central European` `329 glyphs`
 - [Funny Zebra](fonts/fancy/comic/funnyzebra) — [catalog](https://fonts.grok.me/font/funnyzebra)
 - [Grape Blaster](fonts/fancy/comic/grapeblaster) — [catalog](https://fonts.grok.me/font/grapeblaster)
-- [Juicy Rags](fonts/fancy/comic/juicyrags) — [catalog](https://fonts.grok.me/font/juicyrags) · `Latin-1 97.9%` `Central European` `335 glyphs`
+- [Juicy Rags](fonts/fancy/comic/juicyrags) — [catalog](https://fonts.grok.me/font/juicyrags) · `Latin-1 97.9%` `Central European` `348 glyphs`
 - [Mad Caps](fonts/fancy/comic/madcaps) — [catalog](https://fonts.grok.me/font/madcaps)
 - [PosterBold](fonts/fancy/comic/posterbold) — [catalog](https://fonts.grok.me/font/posterbold)
 - [Right Price](fonts/fancy/comic/rightprice) — [catalog](https://fonts.grok.me/font/rightprice)
@@ -239,7 +239,7 @@ Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxi
 - [Forgivable Sin](fonts/fancy/curly/forgivablesin) — [catalog](https://fonts.grok.me/font/forgivablesin)
 - [French Sugar](fonts/fancy/curly/frenchsugar) — [catalog](https://fonts.grok.me/font/frenchsugar)
 - [Spring Tyme](fonts/fancy/curly/springtyme) — [catalog](https://fonts.grok.me/font/springtyme)
-- [Swirl Insertion](fonts/fancy/curly/swirlinsertion) — [catalog](https://fonts.grok.me/font/swirlinsertion) · `Latin-1 92.7%` `Central European` `297 glyphs`
+- [Swirl Insertion](fonts/fancy/curly/swirlinsertion) — [catalog](https://fonts.grok.me/font/swirlinsertion) · `Latin-1 92.7%` `Central European` `305 glyphs`
 - [Wine Tasting](fonts/fancy/curly/winetasting) — [catalog](https://fonts.grok.me/font/winetasting)
 
 ## Fancy · Decorative
@@ -264,7 +264,7 @@ Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxi
 - [Burn Time](fonts/fancy/decorative/burntime) — [catalog](https://fonts.grok.me/font/burntime)
 - [Chicken Waffles](fonts/fancy/decorative/chickenwaffles) — [catalog](https://fonts.grok.me/font/chickenwaffles)
 - [Chronic Sales](fonts/fancy/decorative/chronicsales) — [catalog](https://fonts.grok.me/font/chronicsales)
-- [Circle Caps](fonts/fancy/decorative/circlecaps) — [catalog](https://fonts.grok.me/font/circlecaps) · `Latin-1` `Central European` `314 glyphs`
+- [Circle Caps](fonts/fancy/decorative/circlecaps) — [catalog](https://fonts.grok.me/font/circlecaps) · `Latin-1` `Central European` `318 glyphs`
 - [Circuit City](fonts/fancy/decorative/circuitcity) — [catalog](https://fonts.grok.me/font/circuitcity)
 - [City Magic](fonts/fancy/decorative/citymagic) — [catalog](https://fonts.grok.me/font/citymagic)
 - [CityVetica](fonts/fancy/decorative/cityvetica) — [catalog](https://fonts.grok.me/font/cityvetica)
@@ -276,7 +276,7 @@ Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxi
 - [Color Blind](fonts/fancy/decorative/colorblind) — [catalog](https://fonts.grok.me/font/colorblind)
 - [Crystal Breath](fonts/fancy/decorative/crystalbreath) — [catalog](https://fonts.grok.me/font/crystalbreath)
 - [CurlyQue](fonts/fancy/decorative/curlyque) — [catalog](https://fonts.grok.me/font/curlyque)
-- [Dat Box](fonts/fancy/decorative/datbox) — [catalog](https://fonts.grok.me/font/datbox) · `Latin-1` `Central European` `316 glyphs`
+- [Dat Box](fonts/fancy/decorative/datbox) — [catalog](https://fonts.grok.me/font/datbox) · `Latin-1` `Central European` `323 glyphs`
 - [Delicious Applepie](fonts/fancy/decorative/deliciousapplepie) — [catalog](https://fonts.grok.me/font/deliciousapplepie)
 - [Diamond Cut](fonts/fancy/decorative/diamondcut) — [catalog](https://fonts.grok.me/font/diamondcut)
 - [Diamond Lux](fonts/fancy/decorative/diamondlux) — [catalog](https://fonts.grok.me/font/diamondlux)
@@ -285,7 +285,7 @@ Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxi
 - [Disco Party](fonts/fancy/decorative/discoparty) — [catalog](https://fonts.grok.me/font/discoparty)
 - [Dynamatics](fonts/fancy/decorative/dynamatics) — [catalog](https://fonts.grok.me/font/dynamatics)
 - [Easy Bricks](fonts/fancy/decorative/easybricks) — [catalog](https://fonts.grok.me/font/easybricks)
-- [Electrical](fonts/fancy/decorative/electrical) — [catalog](https://fonts.grok.me/font/electrical) · `Latin-1` `Central European` `314 glyphs`
+- [Electrical](fonts/fancy/decorative/electrical) — [catalog](https://fonts.grok.me/font/electrical) · `Latin-1` `Central European` `325 glyphs`
 - [Electrical Neue](fonts/fancy/decorative/electricalneue) — [catalog](https://fonts.grok.me/font/electricalneue)
 - [Eye Scare](fonts/fancy/decorative/eyescare) — [catalog](https://fonts.grok.me/font/eyescare)
 - [Fall Greetings](fonts/fancy/decorative/fallgreetings) — [catalog](https://fonts.grok.me/font/fallgreetings)
@@ -310,7 +310,7 @@ Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxi
 - [Lube Splash](fonts/fancy/decorative/lubesplash) — [catalog](https://fonts.grok.me/font/lubesplash)
 - [MadPicNic](fonts/fancy/decorative/madpicnic) — [catalog](https://fonts.grok.me/font/madpicnic)
 - [Major Veins](fonts/fancy/decorative/majorveins) — [catalog](https://fonts.grok.me/font/majorveins)
-- [Marijuana](fonts/fancy/decorative/marijuana) — [catalog](https://fonts.grok.me/font/marijuana) · `Latin-1` `Central European 98.4%` `315 glyphs`
+- [Marijuana](fonts/fancy/decorative/marijuana) — [catalog](https://fonts.grok.me/font/marijuana) · `Latin-1` `Central European 98.4%` `320 glyphs`
 - [Mega Bone](fonts/fancy/decorative/megabone) — [catalog](https://fonts.grok.me/font/megabone)
 - [Mixed Thirty](fonts/fancy/decorative/mixedthirty) — [catalog](https://fonts.grok.me/font/mixedthirty)
 - [Monolithic](fonts/fancy/decorative/monolithic) — [catalog](https://fonts.grok.me/font/monolithic)
@@ -362,9 +362,9 @@ Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxi
 - [Eighties Locker](fonts/fancy/destroy/eightieslocker) — [catalog](https://fonts.grok.me/font/eightieslocker)
 - [Fantasy Machine](fonts/fancy/destroy/fantasymachine) — [catalog](https://fonts.grok.me/font/fantasymachine)
 - [Golden Dabs](fonts/fancy/destroy/goldendabs) — [catalog](https://fonts.grok.me/font/goldendabs)
-- [Hatch](fonts/fancy/destroy/hatch) — [catalog](https://fonts.grok.me/font/hatch) · `Latin-1` `Central European` `317 glyphs`
+- [Hatch](fonts/fancy/destroy/hatch) — [catalog](https://fonts.grok.me/font/hatch) · `Latin-1` `Central European` `321 glyphs`
 - [Hecka Grunge](fonts/fancy/destroy/heckagrunge) — [catalog](https://fonts.grok.me/font/heckagrunge)
-- [High Style](fonts/fancy/destroy/highstyle) — [catalog](https://fonts.grok.me/font/highstyle) · `Latin-1` `Central European` `317 glyphs`
+- [High Style](fonts/fancy/destroy/highstyle) — [catalog](https://fonts.grok.me/font/highstyle) · `Latin-1` `Central European` `321 glyphs`
 - [Ink Special](fonts/fancy/destroy/inkspecial) — [catalog](https://fonts.grok.me/font/inkspecial)
 - [Krusty Signs](fonts/fancy/destroy/krustysigns) — [catalog](https://fonts.grok.me/font/krustysigns)
 - [Late Drank](fonts/fancy/destroy/latedrank) — [catalog](https://fonts.grok.me/font/latedrank)
@@ -408,12 +408,12 @@ Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxi
 
 - [Action](fonts/fancy/distorted/action) — [catalog](https://fonts.grok.me/font/action)
 - [Atlas Grunge](fonts/fancy/distorted/atlasgrunge) — [catalog](https://fonts.grok.me/font/atlasgrunge)
-- [Banlieue Disco](fonts/fancy/distorted/banlieuedisco) — [catalog](https://fonts.grok.me/font/banlieuedisco) · `Latin-1` `Central European` `317 glyphs`
-- [Basic Scratch](fonts/fancy/distorted/basicscratch) — [catalog](https://fonts.grok.me/font/basicscratch) · `Latin-1` `Central European` `317 glyphs`
+- [Banlieue Disco](fonts/fancy/distorted/banlieuedisco) — [catalog](https://fonts.grok.me/font/banlieuedisco) · `Latin-1` `Central European` `329 glyphs`
+- [Basic Scratch](fonts/fancy/distorted/basicscratch) — [catalog](https://fonts.grok.me/font/basicscratch) · `Latin-1` `Central European` `329 glyphs`
 - [Big Party](fonts/fancy/distorted/bigparty) — [catalog](https://fonts.grok.me/font/bigparty)
 - [Binary Waters](fonts/fancy/distorted/binarywaters) — [catalog](https://fonts.grok.me/font/binarywaters)
 - [Bite Tyme](fonts/fancy/distorted/bitetyme) — [catalog](https://fonts.grok.me/font/bitetyme)
-- [Black spiral](fonts/fancy/distorted/black-spiral) — [catalog](https://fonts.grok.me/font/black-spiral) · `Latin-1` `Central European` `314 glyphs`
+- [Black spiral](fonts/fancy/distorted/black-spiral) — [catalog](https://fonts.grok.me/font/black-spiral) · `Latin-1` `Central European` `323 glyphs`
 - [Break Time](fonts/fancy/distorted/breaktime) — [catalog](https://fonts.grok.me/font/breaktime)
 - [BreakAway](fonts/fancy/distorted/breakaway-maximus) — [catalog](https://fonts.grok.me/font/breakaway-maximus)
 - [Bub Light](fonts/fancy/distorted/bublight) — [catalog](https://fonts.grok.me/font/bublight)
@@ -421,7 +421,7 @@ Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxi
 - [Cold Spring](fonts/fancy/distorted/coldspring) — [catalog](https://fonts.grok.me/font/coldspring)
 - [College Movie](fonts/fancy/distorted/collegemovie) — [catalog](https://fonts.grok.me/font/collegemovie)
 - [Corpsey](fonts/fancy/distorted/corpsey) — [catalog](https://fonts.grok.me/font/corpsey)
-- [Cracked](fonts/fancy/distorted/cracked) — [catalog](https://fonts.grok.me/font/cracked) · 3 files · `Latin-1` `Central European` `334 glyphs`
+- [Cracked](fonts/fancy/distorted/cracked) — [catalog](https://fonts.grok.me/font/cracked) · 3 files · `Latin-1` `Central European` `346 glyphs`
 - [Crypto Prices](fonts/fancy/distorted/cryptoprices) — [catalog](https://fonts.grok.me/font/cryptoprices)
 - [Cut Five](fonts/fancy/distorted/cutfive) — [catalog](https://fonts.grok.me/font/cutfive)
 - [Delicious Would](fonts/fancy/distorted/deliciouswould) — [catalog](https://fonts.grok.me/font/deliciouswould)
@@ -437,13 +437,13 @@ Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxi
 - [Invertage](fonts/fancy/distorted/invertage) — [catalog](https://fonts.grok.me/font/invertage)
 - [Lightning Blaze](fonts/fancy/distorted/lightningblaze) — [catalog](https://fonts.grok.me/font/lightningblaze)
 - [Liquor Bank](fonts/fancy/distorted/liquorbank) — [catalog](https://fonts.grok.me/font/liquorbank)
-- [Lower Resolution](fonts/fancy/distorted/lowerresolution) — [catalog](https://fonts.grok.me/font/lowerresolution) · `Latin-1` `Central European` `317 glyphs`
+- [Lower Resolution](fonts/fancy/distorted/lowerresolution) — [catalog](https://fonts.grok.me/font/lowerresolution) · `Latin-1` `Central European` `322 glyphs`
 - [Marble Wasteland](fonts/fancy/distorted/marblewasteland) — [catalog](https://fonts.grok.me/font/marblewasteland)
 - [Melting Records](fonts/fancy/distorted/meltingrecords) — [catalog](https://fonts.grok.me/font/meltingrecords)
 - [Metal Block Naked](fonts/fancy/distorted/metalblocknaked) — [catalog](https://fonts.grok.me/font/metalblocknaked)
 - [Metal Block Serif](fonts/fancy/distorted/metalblockserif) — [catalog](https://fonts.grok.me/font/metalblockserif)
-- [Metal Block Tango](fonts/fancy/distorted/metalblocktango) — [catalog](https://fonts.grok.me/font/metalblocktango) · `Latin-1` `Central European` `303 glyphs`
-- [Metal Block Ultra](fonts/fancy/distorted/metalblockultra) — [catalog](https://fonts.grok.me/font/metalblockultra) · `Latin-1 92.7%` `Central European` `299 glyphs`
+- [Metal Block Tango](fonts/fancy/distorted/metalblocktango) — [catalog](https://fonts.grok.me/font/metalblocktango) · `Latin-1` `Central European` `316 glyphs`
+- [Metal Block Ultra](fonts/fancy/distorted/metalblockultra) — [catalog](https://fonts.grok.me/font/metalblockultra) · `Latin-1 92.7%` `Central European` `303 glyphs`
 - [Mind Storm](fonts/fancy/distorted/mindstorm) — [catalog](https://fonts.grok.me/font/mindstorm)
 - [Negative](fonts/fancy/distorted/negative-xerographer) — [catalog](https://fonts.grok.me/font/negative-xerographer)
 - [Neon Taste](fonts/fancy/distorted/neontaste) — [catalog](https://fonts.grok.me/font/neontaste)
@@ -470,7 +470,7 @@ Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxi
 - [Sword Fighting](fonts/fancy/distorted/swordfighting) — [catalog](https://fonts.grok.me/font/swordfighting)
 - [Total Shock](fonts/fancy/distorted/totalshock) — [catalog](https://fonts.grok.me/font/totalshock)
 - [Underground Event](fonts/fancy/distorted/undergroundevent) — [catalog](https://fonts.grok.me/font/undergroundevent)
-- [Urban Labels](fonts/fancy/distorted/urbanlabels) — [catalog](https://fonts.grok.me/font/urbanlabels) · `Latin-1` `Central European` `316 glyphs`
+- [Urban Labels](fonts/fancy/distorted/urbanlabels) — [catalog](https://fonts.grok.me/font/urbanlabels) · `Latin-1` `Central European` `320 glyphs`
 - [Urban Poster](fonts/fancy/distorted/urbanposter) — [catalog](https://fonts.grok.me/font/urbanposter)
 - [Vegas Nights](fonts/fancy/distorted/vegasnights) — [catalog](https://fonts.grok.me/font/vegasnights)
 - [Wet Spring](fonts/fancy/distorted/wetspring) — [catalog](https://fonts.grok.me/font/wetspring)
@@ -485,7 +485,7 @@ Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxi
 - [Bernal Heights](fonts/fancy/eroded/bernalheights) — [catalog](https://fonts.grok.me/font/bernalheights)
 - [Beyond Space](fonts/fancy/eroded/beyondspace) — [catalog](https://fonts.grok.me/font/beyondspace)
 - [Black Ties](fonts/fancy/eroded/blackties) — [catalog](https://fonts.grok.me/font/blackties)
-- [BlkLite](fonts/fancy/eroded/blklite) — [catalog](https://fonts.grok.me/font/blklite) · `Latin-1` `Central European` `335 glyphs`
+- [BlkLite](fonts/fancy/eroded/blklite) — [catalog](https://fonts.grok.me/font/blklite) · `Latin-1` `Central European` `348 glyphs`
 - [Blueberry Waffle](fonts/fancy/eroded/blueberrywaffle) — [catalog](https://fonts.grok.me/font/blueberrywaffle)
 - [Bold Drink](fonts/fancy/eroded/bolddrink) — [catalog](https://fonts.grok.me/font/bolddrink)
 - [Bold Shake](fonts/fancy/eroded/boldshake) — [catalog](https://fonts.grok.me/font/boldshake)
@@ -510,7 +510,7 @@ Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxi
 - [Country Gold](fonts/fancy/eroded/countrygold) — [catalog](https://fonts.grok.me/font/countrygold)
 - [Crack Bars](fonts/fancy/eroded/crackbars) — [catalog](https://fonts.grok.me/font/crackbars)
 - [Crack Deco](fonts/fancy/eroded/crackdeco) — [catalog](https://fonts.grok.me/font/crackdeco)
-- [Crackvetica](fonts/fancy/eroded/crackvetica) — [catalog](https://fonts.grok.me/font/crackvetica) · `Latin-1` `Central European` `314 glyphs`
+- [Crackvetica](fonts/fancy/eroded/crackvetica) — [catalog](https://fonts.grok.me/font/crackvetica) · `Latin-1` `Central European` `323 glyphs`
 - [Dance Away](fonts/fancy/eroded/danceaway) — [catalog](https://fonts.grok.me/font/danceaway)
 - [Dance Lights](fonts/fancy/eroded/dancelights) — [catalog](https://fonts.grok.me/font/dancelights)
 - [Dark Papers](fonts/fancy/eroded/darkpapers) — [catalog](https://fonts.grok.me/font/darkpapers)
@@ -526,7 +526,7 @@ Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxi
 - [Escape Great](fonts/fancy/eroded/escapegreat) — [catalog](https://fonts.grok.me/font/escapegreat)
 - [EuroParty](fonts/fancy/eroded/europarty) — [catalog](https://fonts.grok.me/font/europarty)
 - [Fadevetica](fonts/fancy/eroded/fadevetica) — [catalog](https://fonts.grok.me/font/fadevetica)
-- [Falconers](fonts/fancy/eroded/falconers) — [catalog](https://fonts.grok.me/font/falconers) · `Latin-1` `210 glyphs`
+- [Falconers](fonts/fancy/eroded/falconers) — [catalog](https://fonts.grok.me/font/falconers) · `Latin-1` `217 glyphs`
 - [Fall Harvest](fonts/fancy/eroded/fallharvest) — [catalog](https://fonts.grok.me/font/fallharvest)
 - [Final Relief](fonts/fancy/eroded/finalrelief) — [catalog](https://fonts.grok.me/font/finalrelief)
 - [Fine Things](fonts/fancy/eroded/finethings) — [catalog](https://fonts.grok.me/font/finethings)
@@ -537,7 +537,7 @@ Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxi
 - [French Disco](fonts/fancy/eroded/frenchdisco) — [catalog](https://fonts.grok.me/font/frenchdisco)
 - [Fresh Riot](fonts/fancy/eroded/freshriot) — [catalog](https://fonts.grok.me/font/freshriot)
 - [Fridge Letters](fonts/fancy/eroded/fridgeletters) — [catalog](https://fonts.grok.me/font/fridgeletters)
-- [Futuremoon](fonts/fancy/eroded/futuremoon) — [catalog](https://fonts.grok.me/font/futuremoon) · `Latin-1` `Central European` `314 glyphs`
+- [Futuremoon](fonts/fancy/eroded/futuremoon) — [catalog](https://fonts.grok.me/font/futuremoon) · `Latin-1` `Central European` `318 glyphs`
 - [Gaslighter](fonts/fancy/eroded/gaslighter) — [catalog](https://fonts.grok.me/font/gaslighter)
 - [Golden Lights](fonts/fancy/eroded/goldenlights) — [catalog](https://fonts.grok.me/font/goldenlights)
 - [Gotfaded](fonts/fancy/eroded/gotfaded) — [catalog](https://fonts.grok.me/font/gotfaded)
@@ -556,7 +556,7 @@ Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxi
 - [Helping Stranger](fonts/fancy/eroded/helpingstranger) — [catalog](https://fonts.grok.me/font/helpingstranger)
 - [High Fence](fonts/fancy/eroded/highfence) — [catalog](https://fonts.grok.me/font/highfence)
 - [High Flight](fonts/fancy/eroded/highflight) — [catalog](https://fonts.grok.me/font/highflight)
-- [Hollavetica](fonts/fancy/eroded/hollavetica) — [catalog](https://fonts.grok.me/font/hollavetica) · `Latin-1` `Central European` `324 glyphs`
+- [Hollavetica](fonts/fancy/eroded/hollavetica) — [catalog](https://fonts.grok.me/font/hollavetica) · `Latin-1` `Central European` `332 glyphs`
 - [Hotrocks](fonts/fancy/eroded/hotrocks) — [catalog](https://fonts.grok.me/font/hotrocks)
 - [House Boat](fonts/fancy/eroded/houseboat) — [catalog](https://fonts.grok.me/font/houseboat)
 - [Indian Tiger](fonts/fancy/eroded/indiantiger) — [catalog](https://fonts.grok.me/font/indiantiger)
@@ -592,16 +592,16 @@ Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxi
 - [Perfect Chisle](fonts/fancy/eroded/perfectchisle) — [catalog](https://fonts.grok.me/font/perfectchisle)
 - [Pirate Disco](fonts/fancy/eroded/piratedisco) — [catalog](https://fonts.grok.me/font/piratedisco)
 - [Pirate Zombie](fonts/fancy/eroded/piratezombie) — [catalog](https://fonts.grok.me/font/piratezombie)
-- [PiratesBay](fonts/fancy/eroded/piratesbay) — [catalog](https://fonts.grok.me/font/piratesbay) · `Latin-1` `Central European` `318 glyphs`
+- [PiratesBay](fonts/fancy/eroded/piratesbay) — [catalog](https://fonts.grok.me/font/piratesbay) · `Latin-1` `Central European` `329 glyphs`
 - [Post News](fonts/fancy/eroded/postnews) — [catalog](https://fonts.grok.me/font/postnews)
 - [Power Play](fonts/fancy/eroded/powerplay) — [catalog](https://fonts.grok.me/font/powerplay)
 - [Quantum Ants](fonts/fancy/eroded/quantumants) — [catalog](https://fonts.grok.me/font/quantumants)
 - [Quantum Pixel](fonts/fancy/eroded/quantumpixel) — [catalog](https://fonts.grok.me/font/quantumpixel)
 - [QuickCut](fonts/fancy/eroded/quickcut) — [catalog](https://fonts.grok.me/font/quickcut)
-- [Racing Flow](fonts/fancy/eroded/racingflow) — [catalog](https://fonts.grok.me/font/racingflow) · `Latin-1` `Central European` `317 glyphs`
-- [Racing Numbers](fonts/fancy/eroded/racingnumbers) — [catalog](https://fonts.grok.me/font/racingnumbers) · `Latin-1` `Central European` `317 glyphs`
+- [Racing Flow](fonts/fancy/eroded/racingflow) — [catalog](https://fonts.grok.me/font/racingflow) · `Latin-1` `Central European` `321 glyphs`
+- [Racing Numbers](fonts/fancy/eroded/racingnumbers) — [catalog](https://fonts.grok.me/font/racingnumbers) · `Latin-1` `Central European` `321 glyphs`
 - [Ready Start](fonts/fancy/eroded/readystart) — [catalog](https://fonts.grok.me/font/readystart)
-- [Real Fast](fonts/fancy/eroded/realfast) — [catalog](https://fonts.grok.me/font/realfast) · `Latin-1` `Central European` `317 glyphs`
+- [Real Fast](fonts/fancy/eroded/realfast) — [catalog](https://fonts.grok.me/font/realfast) · `Latin-1` `Central European` `322 glyphs`
 - [Real Trap](fonts/fancy/eroded/realtrap) — [catalog](https://fonts.grok.me/font/realtrap)
 - [Regime Change](fonts/fancy/eroded/regimechange) — [catalog](https://fonts.grok.me/font/regimechange)
 - [Right Track](fonts/fancy/eroded/righttrack) — [catalog](https://fonts.grok.me/font/righttrack)
@@ -635,7 +635,7 @@ Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxi
 - [Stormtime](fonts/fancy/eroded/stormtime) — [catalog](https://fonts.grok.me/font/stormtime)
 - [Strung Piano](fonts/fancy/eroded/strungpiano) — [catalog](https://fonts.grok.me/font/strungpiano)
 - [Summer Blacktop](fonts/fancy/eroded/summerblacktop) — [catalog](https://fonts.grok.me/font/summerblacktop)
-- [Summer Festival](fonts/fancy/eroded/summerfestival) — [catalog](https://fonts.grok.me/font/summerfestival) · `Latin-1` `Central European` `329 glyphs`
+- [Summer Festival](fonts/fancy/eroded/summerfestival) — [catalog](https://fonts.grok.me/font/summerfestival) · `Latin-1` `Central European` `334 glyphs`
 - [Super Fade](fonts/fancy/eroded/superfade) — [catalog](https://fonts.grok.me/font/superfade)
 - [TechnoLogic](fonts/fancy/eroded/technologic) — [catalog](https://fonts.grok.me/font/technologic)
 - [Ten Fresh](fonts/fancy/eroded/tenfresh) — [catalog](https://fonts.grok.me/font/tenfresh)
@@ -659,31 +659,31 @@ Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxi
 - [FireProof](fonts/fancy/fire-ice/fireproof) — [catalog](https://fonts.grok.me/font/fireproof)
 - [FlameTime](fonts/fancy/fire-ice/flametime) — [catalog](https://fonts.grok.me/font/flametime)
 - [Frosty Holiday](fonts/fancy/fire-ice/frostyholiday) — [catalog](https://fonts.grok.me/font/frostyholiday)
-- [HotSweat](fonts/fancy/fire-ice/hotsweat) — [catalog](https://fonts.grok.me/font/hotsweat) · `Latin-1` `Central European` `330 glyphs`
+- [HotSweat](fonts/fancy/fire-ice/hotsweat) — [catalog](https://fonts.grok.me/font/hotsweat) · `Latin-1` `Central European` `338 glyphs`
 - [Snow Frosting](fonts/fancy/fire-ice/snowfrosting) — [catalog](https://fonts.grok.me/font/snowfrosting)
-- [Summer Fire](fonts/fancy/fire-ice/summerfire) — [catalog](https://fonts.grok.me/font/summerfire) · `Latin-1` `Central European` `317 glyphs`
+- [Summer Fire](fonts/fancy/fire-ice/summerfire) — [catalog](https://fonts.grok.me/font/summerfire) · `Latin-1` `Central European` `328 glyphs`
 - [Winter Crops](fonts/fancy/fire-ice/wintercrops) — [catalog](https://fonts.grok.me/font/wintercrops)
 - [Winter Decor](fonts/fancy/fire-ice/winterdecor) — [catalog](https://fonts.grok.me/font/winterdecor)
-- [Winter Ice](fonts/fancy/fire-ice/winterice) — [catalog](https://fonts.grok.me/font/winterice) · `Latin-1 92.7%` `Central European` `297 glyphs`
+- [Winter Ice](fonts/fancy/fire-ice/winterice) — [catalog](https://fonts.grok.me/font/winterice) · `Latin-1 92.7%` `Central European` `310 glyphs`
 
 ## Fancy · Groovy
 
 - [Alternative Nineties](fonts/fancy/groovy/alternativenineties) — [catalog](https://fonts.grok.me/font/alternativenineties)
-- [Beast Mode Suite](fonts/fancy/groovy/beastmode-suite) — [catalog](https://fonts.grok.me/font/beastmode-suite) · 7 files · `Latin-1` `Central European` `334 glyphs`
+- [Beast Mode Suite](fonts/fancy/groovy/beastmode-suite) — [catalog](https://fonts.grok.me/font/beastmode-suite) · 7 files · `Latin-1` `Central European` `347 glyphs`
 - [Disco Midnight](fonts/fancy/groovy/discomidnight) — [catalog](https://fonts.grok.me/font/discomidnight)
 - [Disco Night](fonts/fancy/groovy/disconight) — [catalog](https://fonts.grok.me/font/disconight) · `Latin-1` `Central European` `315 glyphs`
 - [DiscoRush](fonts/fancy/groovy/discorush) — [catalog](https://fonts.grok.me/font/discorush)
-- [Neon Disco](fonts/fancy/groovy/neondisco) — [catalog](https://fonts.grok.me/font/neondisco) · `Latin-1` `Central European` `317 glyphs`
-- [Nuevo Disco](fonts/fancy/groovy/nuevodisco) — [catalog](https://fonts.grok.me/font/nuevodisco) · `Latin-1` `Central European` `326 glyphs`
+- [Neon Disco](fonts/fancy/groovy/neondisco) — [catalog](https://fonts.grok.me/font/neondisco) · `Latin-1` `Central European` `329 glyphs`
+- [Nuevo Disco](fonts/fancy/groovy/nuevodisco) — [catalog](https://fonts.grok.me/font/nuevodisco) · `Latin-1` `Central European` `338 glyphs`
 - [Sunrise Disco](fonts/fancy/groovy/sunrisedisco) — [catalog](https://fonts.grok.me/font/sunrisedisco)
 - [Surf Shack](fonts/fancy/groovy/surfshack) — [catalog](https://fonts.grok.me/font/surfshack)
-- [Wicked Seventies](fonts/fancy/groovy/wickedseventies) — [catalog](https://fonts.grok.me/font/wickedseventies) · `Latin-1` `Central European` `317 glyphs`
+- [Wicked Seventies](fonts/fancy/groovy/wickedseventies) — [catalog](https://fonts.grok.me/font/wickedseventies) · `Latin-1` `Central European` `329 glyphs`
 
 ## Fancy · Horror
 
 - [Barnyard Massacre](fonts/fancy/horror/barnyardmassacre) — [catalog](https://fonts.grok.me/font/barnyardmassacre)
 - [Bathing in Acid](fonts/fancy/horror/bathinginacid) — [catalog](https://fonts.grok.me/font/bathinginacid)
-- [Black Widow](fonts/fancy/horror/blackwidow) — [catalog](https://fonts.grok.me/font/blackwidow) · `Latin-1` `Central European` `314 glyphs`
+- [Black Widow](fonts/fancy/horror/blackwidow) — [catalog](https://fonts.grok.me/font/blackwidow) · `Latin-1` `Central European` `318 glyphs`
 - [BlockWood](fonts/fancy/horror/blockwood) — [catalog](https://fonts.grok.me/font/blockwood)
 - [Brain Washers](fonts/fancy/horror/brainwashers) — [catalog](https://fonts.grok.me/font/brainwashers)
 - [Bro Hugs](fonts/fancy/horror/brohugs) — [catalog](https://fonts.grok.me/font/brohugs)
@@ -724,7 +724,7 @@ Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxi
 - [Metal Clash](fonts/fancy/horror/metalclash) — [catalog](https://fonts.grok.me/font/metalclash)
 - [Metal Reason](fonts/fancy/horror/metalreason) — [catalog](https://fonts.grok.me/font/metalreason)
 - [Metal Witch](fonts/fancy/horror/metalwitch) — [catalog](https://fonts.grok.me/font/metalwitch)
-- [MetalShow](fonts/fancy/horror/metalshow) — [catalog](https://fonts.grok.me/font/metalshow) · `Latin-1` `Central European` `317 glyphs`
+- [MetalShow](fonts/fancy/horror/metalshow) — [catalog](https://fonts.grok.me/font/metalshow) · `Latin-1` `Central European` `322 glyphs`
 - [Micro Brew](fonts/fancy/horror/microbrew) — [catalog](https://fonts.grok.me/font/microbrew)
 - [Monster Energy](fonts/fancy/horror/monsterenergy) — [catalog](https://fonts.grok.me/font/monsterenergy)
 - [Monster Slash](fonts/fancy/horror/monsterslash) — [catalog](https://fonts.grok.me/font/monsterslash)
@@ -769,13 +769,13 @@ Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxi
 - [College Thrash](fonts/fancy/old-school/collegethrash) — [catalog](https://fonts.grok.me/font/collegethrash)
 - [Education](fonts/fancy/old-school/education) — [catalog](https://fonts.grok.me/font/education)
 - [Prized Study](fonts/fancy/old-school/prizedstudy) — [catalog](https://fonts.grok.me/font/prizedstudy)
-- [Zero College](fonts/fancy/old-school/zerocollege) — [catalog](https://fonts.grok.me/font/zerocollege) · `Latin-1 92.7%` `Central European` `300 glyphs`
+- [Zero College](fonts/fancy/old-school/zerocollege) — [catalog](https://fonts.grok.me/font/zerocollege) · `Latin-1 92.7%` `Central European` `311 glyphs`
 
 ## Fancy · Retro
 
 - [Abraxeous](fonts/fancy/retro/abraxeous) — [catalog](https://fonts.grok.me/font/abraxeous) · 9 files
 - [Banquetier](fonts/fancy/retro/banquetier) — [catalog](https://fonts.grok.me/font/banquetier) · 3 files
-- [Broadway Event](fonts/fancy/retro/broadwayevent) — [catalog](https://fonts.grok.me/font/broadwayevent) · `Latin-1` `Central European` `365 glyphs`
+- [Broadway Event](fonts/fancy/retro/broadwayevent) — [catalog](https://fonts.grok.me/font/broadwayevent) · `Latin-1` `Central European` `378 glyphs`
 - [Cryptographic](fonts/fancy/retro/cryptographic) — [catalog](https://fonts.grok.me/font/cryptographic)
 - [DecoRated](fonts/fancy/retro/decorated) — [catalog](https://fonts.grok.me/font/decorated)
 - [Denominator](fonts/fancy/retro/denominator) — [catalog](https://fonts.grok.me/font/denominator)
@@ -798,7 +798,7 @@ Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxi
 - [Shipment](fonts/fancy/stencil-army/shipment) — [catalog](https://fonts.grok.me/font/shipment) · 2 files
 - [Stenciltration](fonts/fancy/stencil-army/stenciltration) — [catalog](https://fonts.grok.me/font/stenciltration)
 - [Toxic Powers](fonts/fancy/stencil-army/toxicpowers) — [catalog](https://fonts.grok.me/font/toxicpowers)
-- [Visual Magnets](fonts/fancy/stencil-army/visualmagnets) — [catalog](https://fonts.grok.me/font/visualmagnets) · `Latin-1` `Central European` `317 glyphs`
+- [Visual Magnets](fonts/fancy/stencil-army/visualmagnets) — [catalog](https://fonts.grok.me/font/visualmagnets) · `Latin-1` `Central European` `321 glyphs`
 
 ## Fancy · Typewriter
 
@@ -806,7 +806,7 @@ Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxi
 - [Freeky Typewriter](fonts/fancy/typewriter/freekytypewriter) — [catalog](https://fonts.grok.me/font/freekytypewriter)
 - [Hand Typist](fonts/fancy/typewriter/handtypist) — [catalog](https://fonts.grok.me/font/handtypist)
 - [Hermes Rocket](fonts/fancy/typewriter/hermes-rocket) — [catalog](https://fonts.grok.me/font/hermes-rocket)
-- [Indie Rock](fonts/fancy/typewriter/indierock) — [catalog](https://fonts.grok.me/font/indierock) · `Latin-1` `Central European` `314 glyphs`
+- [Indie Rock](fonts/fancy/typewriter/indierock) — [catalog](https://fonts.grok.me/font/indierock) · `Latin-1` `Central European` `326 glyphs`
 - [Light Fingers](fonts/fancy/typewriter/lightfingers) — [catalog](https://fonts.grok.me/font/lightfingers)
 - [Quiet Typer](fonts/fancy/typewriter/quiettyper) — [catalog](https://fonts.grok.me/font/quiettyper)
 - [Stitchy Times](fonts/fancy/typewriter/stitchytimes) — [catalog](https://fonts.grok.me/font/stitchytimes)
@@ -959,7 +959,7 @@ Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxi
 - [Redlight District](fonts/fancy/various/redlightdistrict) — [catalog](https://fonts.grok.me/font/redlightdistrict)
 - [Retro Tastic](fonts/fancy/various/retrotastic) — [catalog](https://fonts.grok.me/font/retrotastic)
 - [RockLess](fonts/fancy/various/rockless) — [catalog](https://fonts.grok.me/font/rockless)
-- [Rockster](fonts/fancy/various/rockster) — [catalog](https://fonts.grok.me/font/rockster) · `Latin-1 92.7%` `Central European` `297 glyphs`
+- [Rockster](fonts/fancy/various/rockster) — [catalog](https://fonts.grok.me/font/rockster) · `Latin-1 92.7%` `Central European` `309 glyphs`
 - [Rollingdeep](fonts/fancy/various/rollingdeep) — [catalog](https://fonts.grok.me/font/rollingdeep)
 - [Sail Away](fonts/fancy/various/sailaway) — [catalog](https://fonts.grok.me/font/sailaway)
 - [Salty Beach](fonts/fancy/various/saltybeach) — [catalog](https://fonts.grok.me/font/saltybeach)
@@ -1039,7 +1039,7 @@ Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxi
 - [Rusty Nail](fonts/fancy/western/rustynail) — [catalog](https://fonts.grok.me/font/rustynail)
 - [Theater Event](fonts/fancy/western/theaterevent) — [catalog](https://fonts.grok.me/font/theaterevent)
 - [Urban Trails](fonts/fancy/western/urbantrails) — [catalog](https://fonts.grok.me/font/urbantrails)
-- [Western Racing](fonts/fancy/western/westernracing) — [catalog](https://fonts.grok.me/font/westernracing) · `Latin-1` `Central European` `317 glyphs`
+- [Western Racing](fonts/fancy/western/westernracing) — [catalog](https://fonts.grok.me/font/westernracing) · `Latin-1` `Central European` `321 glyphs`
 - [Wicked Cockney](fonts/fancy/western/wickedcockney) — [catalog](https://fonts.grok.me/font/wickedcockney)
 
 ## Foreign look · Chinese, Jpn
@@ -1050,7 +1050,7 @@ Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxi
 
 ## Foreign look · Mexican
 
-- [Taco Fiesta](fonts/foreign-look/mexican/tacofiesta) — [catalog](https://fonts.grok.me/font/tacofiesta) · `Latin-1` `Central European` `328 glyphs`
+- [Taco Fiesta](fonts/foreign-look/mexican/tacofiesta) — [catalog](https://fonts.grok.me/font/tacofiesta) · `Latin-1` `Central European` `340 glyphs`
 
 ## Gothic · Modern
 
@@ -1061,14 +1061,14 @@ Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxi
 
 - [Gothic Friends](fonts/gothic/various/gothicfriends) — [catalog](https://fonts.grok.me/font/gothicfriends)
 - [Metal Event](fonts/gothic/various/metalevent) — [catalog](https://fonts.grok.me/font/metalevent)
-- [Metal Shred](fonts/gothic/various/metalshred) — [catalog](https://fonts.grok.me/font/metalshred) · `Latin-1` `173 glyphs`
+- [Metal Shred](fonts/gothic/various/metalshred) — [catalog](https://fonts.grok.me/font/metalshred) · `Latin-1` `177 glyphs`
 - [Thug Love DT](fonts/gothic/various/thuglovedt) — [catalog](https://fonts.grok.me/font/thuglovedt)
 - [Zip Down](fonts/gothic/various/zipdown) — [catalog](https://fonts.grok.me/font/zipdown)
 
 ## Holiday · Christmas
 
 - [Ice Cold](fonts/holiday/christmas/icecold) — [catalog](https://fonts.grok.me/font/icecold)
-- [Snow Flakes](fonts/holiday/christmas/snowflakes) — [catalog](https://fonts.grok.me/font/snowflakes) · `Latin-1` `Central European` `317 glyphs`
+- [Snow Flakes](fonts/holiday/christmas/snowflakes) — [catalog](https://fonts.grok.me/font/snowflakes) · `Latin-1` `Central European` `323 glyphs`
 - [Xmas Lite](fonts/holiday/christmas/xmaslite) — [catalog](https://fonts.grok.me/font/xmaslite)
 
 ## Holiday · Valentine
@@ -1091,7 +1091,7 @@ Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxi
 - [American Western](fonts/script/brush/americanwestern) — [catalog](https://fonts.grok.me/font/americanwestern)
 - [Angry Beavers](fonts/script/brush/angrybeavers) — [catalog](https://fonts.grok.me/font/angrybeavers)
 - [AquaColor](fonts/script/brush/aquacolor) — [catalog](https://fonts.grok.me/font/aquacolor)
-- [Basic Sharpie](fonts/script/brush/basicsharpie) — [catalog](https://fonts.grok.me/font/basicsharpie) · `Latin-1` `Central European` `317 glyphs`
+- [Basic Sharpie](fonts/script/brush/basicsharpie) — [catalog](https://fonts.grok.me/font/basicsharpie) · `Latin-1` `Central European` `330 glyphs`
 - [Beauty Salon](fonts/script/brush/beautysalon) — [catalog](https://fonts.grok.me/font/beautysalon)
 - [Brush Some](fonts/script/brush/brushsome) — [catalog](https://fonts.grok.me/font/brushsome)
 - [Brushingtons](fonts/script/brush/brushingtons) — [catalog](https://fonts.grok.me/font/brushingtons)
@@ -1120,15 +1120,15 @@ Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxi
 - [Spiral](fonts/script/brush/spiral) — [catalog](https://fonts.grok.me/font/spiral)
 - [Spring Ninja](fonts/script/brush/springninja) — [catalog](https://fonts.grok.me/font/springninja)
 - [Total Eclipse](fonts/script/brush/totaleclipse) — [catalog](https://fonts.grok.me/font/totaleclipse)
-- [Trap House](fonts/script/brush/traphouse) — [catalog](https://fonts.grok.me/font/traphouse) · `Latin-1` `Central European` `317 glyphs`
+- [Trap House](fonts/script/brush/traphouse) — [catalog](https://fonts.grok.me/font/traphouse) · `Latin-1` `Central European` `325 glyphs`
 - [Turn Up](fonts/script/brush/turnup) — [catalog](https://fonts.grok.me/font/turnup)
 - [Twenty Singles](fonts/script/brush/twentysingles) — [catalog](https://fonts.grok.me/font/twentysingles)
 - [Valencia](fonts/script/brush/valencia) — [catalog](https://fonts.grok.me/font/valencia)
 - [Wanted Pirates](fonts/script/brush/wantedpirates) — [catalog](https://fonts.grok.me/font/wantedpirates)
 - [Whisky Lickers](fonts/script/brush/whiskylickers) — [catalog](https://fonts.grok.me/font/whiskylickers)
 - [Wonder Ink](fonts/script/brush/wonderink) — [catalog](https://fonts.grok.me/font/wonderink)
-- [Zombie Checklist](fonts/script/brush/zombie-checklist) — [catalog](https://fonts.grok.me/font/zombie-checklist) · `Latin-1` `Central European` `331 glyphs`
-- [Zombie Treats](fonts/script/brush/zombietreats) — [catalog](https://fonts.grok.me/font/zombietreats) · `Latin-1` `Central European` `316 glyphs`
+- [Zombie Checklist](fonts/script/brush/zombie-checklist) — [catalog](https://fonts.grok.me/font/zombie-checklist) · `Latin-1` `Central European` `343 glyphs`
+- [Zombie Treats](fonts/script/brush/zombietreats) — [catalog](https://fonts.grok.me/font/zombietreats) · `Latin-1` `Central European` `326 glyphs`
 
 ## Script · Calligraphy
 
@@ -1136,8 +1136,8 @@ Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxi
 - [Dead Tasty](fonts/script/calligraphy/deadtasty) — [catalog](https://fonts.grok.me/font/deadtasty)
 - [Faux Antique](fonts/script/calligraphy/fauxantique) — [catalog](https://fonts.grok.me/font/fauxantique)
 - [GreatSails](fonts/script/calligraphy/greatsails) — [catalog](https://fonts.grok.me/font/greatsails)
-- [NuevoYork](fonts/script/calligraphy/nuevoyork) — [catalog](https://fonts.grok.me/font/nuevoyork) · `Latin-1` `Central European` `336 glyphs`
-- [Young Ranger](fonts/script/calligraphy/youngranger) — [catalog](https://fonts.grok.me/font/youngranger) · `Latin-1` `Central European` `316 glyphs`
+- [NuevoYork](fonts/script/calligraphy/nuevoyork) — [catalog](https://fonts.grok.me/font/nuevoyork) · `Latin-1` `Central European` `348 glyphs`
+- [Young Ranger](fonts/script/calligraphy/youngranger) — [catalog](https://fonts.grok.me/font/youngranger) · `Latin-1` `Central European` `328 glyphs`
 
 ## Script · Graffiti
 
@@ -1145,7 +1145,7 @@ Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxi
 - [Baked Trains](fonts/script/graffiti/bakedtrains) — [catalog](https://fonts.grok.me/font/bakedtrains)
 - [Elusive](fonts/script/graffiti/elusive) — [catalog](https://fonts.grok.me/font/elusive)
 - [Fair Banks](fonts/script/graffiti/fairbanks) — [catalog](https://fonts.grok.me/font/fairbanks)
-- [Fresh Track](fonts/script/graffiti/freshtrack) — [catalog](https://fonts.grok.me/font/freshtrack) · `Latin-1` `Central European` `317 glyphs`
+- [Fresh Track](fonts/script/graffiti/freshtrack) — [catalog](https://fonts.grok.me/font/freshtrack) · `Latin-1` `Central European` `329 glyphs`
 - [Gansta Walk](fonts/script/graffiti/ganstawalk) — [catalog](https://fonts.grok.me/font/ganstawalk)
 - [Graff Caps](fonts/script/graffiti/graffcaps) — [catalog](https://fonts.grok.me/font/graffcaps)
 - [Graffical](fonts/script/graffiti/graffical) — [catalog](https://fonts.grok.me/font/graffical)
@@ -1176,7 +1176,7 @@ Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxi
 - [Bright Headline](fonts/script/handwritten/brightheadline) — [catalog](https://fonts.grok.me/font/brightheadline)
 - [Broken Fixed](fonts/script/handwritten/brokenfixed) — [catalog](https://fonts.grok.me/font/brokenfixed)
 - [Broken Mustangs](fonts/script/handwritten/brokenmustangs) — [catalog](https://fonts.grok.me/font/brokenmustangs)
-- [California Harvest](fonts/script/handwritten/californiaharvest) — [catalog](https://fonts.grok.me/font/californiaharvest) · `Latin-1` `Central European` `317 glyphs`
+- [California Harvest](fonts/script/handwritten/californiaharvest) — [catalog](https://fonts.grok.me/font/californiaharvest) · `Latin-1` `Central European` `328 glyphs`
 - [Candy Delish](fonts/script/handwritten/candydelish) — [catalog](https://fonts.grok.me/font/candydelish)
 - [Capital State](fonts/script/handwritten/capitalstate) — [catalog](https://fonts.grok.me/font/capitalstate)
 - [Clean Easy](fonts/script/handwritten/cleaneasy) — [catalog](https://fonts.grok.me/font/cleaneasy)
@@ -1191,7 +1191,7 @@ Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxi
 - [Dreaming Pandas](fonts/script/handwritten/dreamingpandas) — [catalog](https://fonts.grok.me/font/dreamingpandas)
 - [Easy Dough DT](fonts/script/handwritten/easydoughdt) — [catalog](https://fonts.grok.me/font/easydoughdt)
 - [Eigth Grade](fonts/script/handwritten/eigthgrade) — [catalog](https://fonts.grok.me/font/eigthgrade)
-- [Event Shark](fonts/script/handwritten/eventshark) — [catalog](https://fonts.grok.me/font/eventshark) · `Latin-1` `Central European` `317 glyphs`
+- [Event Shark](fonts/script/handwritten/eventshark) — [catalog](https://fonts.grok.me/font/eventshark) · `Latin-1` `Central European` `330 glyphs`
 - [Extra Zero](fonts/script/handwritten/extrazero) — [catalog](https://fonts.grok.me/font/extrazero)
 - [ExtraFine Script](fonts/script/handwritten/extrafinescript) — [catalog](https://fonts.grok.me/font/extrafinescript)
 - [Fantastic Sunset](fonts/script/handwritten/fantasticsunset) — [catalog](https://fonts.grok.me/font/fantasticsunset)
@@ -1294,9 +1294,9 @@ Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxi
 
 ## Script · Trash
 
-- [Angry Nerds](fonts/script/trash/angrynerds) — [catalog](https://fonts.grok.me/font/angrynerds) · `Latin-1` `Central European` `315 glyphs`
+- [Angry Nerds](fonts/script/trash/angrynerds) — [catalog](https://fonts.grok.me/font/angrynerds) · `Latin-1` `Central European` `328 glyphs`
 - [Basket Fries](fonts/script/trash/basketfries) — [catalog](https://fonts.grok.me/font/basketfries)
-- [Brush Grunge](fonts/script/trash/brushgrunge) — [catalog](https://fonts.grok.me/font/brushgrunge) · `Latin-1` `Central European` `314 glyphs`
+- [Brush Grunge](fonts/script/trash/brushgrunge) — [catalog](https://fonts.grok.me/font/brushgrunge) · `Latin-1` `Central European` `323 glyphs`
 - [Charcoal Script](fonts/script/trash/charcoalscript) — [catalog](https://fonts.grok.me/font/charcoalscript)
 - [Chromest](fonts/script/trash/chromest) — [catalog](https://fonts.grok.me/font/chromest)
 - [Clean Dirty](fonts/script/trash/cleandirty) — [catalog](https://fonts.grok.me/font/cleandirty)
@@ -1354,7 +1354,7 @@ Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxi
 - [Snug Bum](fonts/script/trash/snugbum) — [catalog](https://fonts.grok.me/font/snugbum)
 - [South West](fonts/script/trash/southwest) — [catalog](https://fonts.grok.me/font/southwest)
 - [Space Bang](fonts/script/trash/spacebang) — [catalog](https://fonts.grok.me/font/spacebang)
-- [Spackler](fonts/script/trash/spackler) — [catalog](https://fonts.grok.me/font/spackler) · `Latin-1` `211 glyphs`
+- [Spackler](fonts/script/trash/spackler) — [catalog](https://fonts.grok.me/font/spackler) · `Latin-1` `218 glyphs`
 - [Splasher](fonts/script/trash/splasher) — [catalog](https://fonts.grok.me/font/splasher)
 - [Stale Marker](fonts/script/trash/stalemarker) — [catalog](https://fonts.grok.me/font/stalemarker)
 - [Sterling Keys](fonts/script/trash/sterling-keys) — [catalog](https://fonts.grok.me/font/sterling-keys)
@@ -1381,7 +1381,7 @@ Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxi
 - [California Designs](fonts/script/various/californiadesigns) — [catalog](https://fonts.grok.me/font/californiadesigns)
 - [Carte Blanche](fonts/script/various/carteblanche) — [catalog](https://fonts.grok.me/font/carteblanche)
 - [Cat Meow](fonts/script/various/catmeow) — [catalog](https://fonts.grok.me/font/catmeow)
-- [Chronic Delivery](fonts/script/various/chronicdelivery) — [catalog](https://fonts.grok.me/font/chronicdelivery) · `Latin-1 92.7%` `Central European` `299 glyphs`
+- [Chronic Delivery](fonts/script/various/chronicdelivery) — [catalog](https://fonts.grok.me/font/chronicdelivery) · `Latin-1 92.7%` `Central European` `305 glyphs`
 - [Chronical Script](fonts/script/various/chronicalscript) — [catalog](https://fonts.grok.me/font/chronicalscript)
 - [Chung Flew](fonts/script/various/chungflew) — [catalog](https://fonts.grok.me/font/chungflew)
 - [CrackSnacks](fonts/script/various/cracksnacks) — [catalog](https://fonts.grok.me/font/cracksnacks)
@@ -1390,7 +1390,7 @@ Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxi
 - [Dirty Serif](fonts/script/various/dirtyserif) — [catalog](https://fonts.grok.me/font/dirtyserif)
 - [Dragons Breath](fonts/script/various/dragonsbreath) — [catalog](https://fonts.grok.me/font/dragonsbreath)
 - [Dreaming Castle](fonts/script/various/dreamingcastle) — [catalog](https://fonts.grok.me/font/dreamingcastle)
-- [Drunk Tattoo](fonts/script/various/drunk-tattoo) — [catalog](https://fonts.grok.me/font/drunk-tattoo) · `Latin-1 92.7%` `Central European` `296 glyphs`
+- [Drunk Tattoo](fonts/script/various/drunk-tattoo) — [catalog](https://fonts.grok.me/font/drunk-tattoo) · `Latin-1 92.7%` `Central European` `306 glyphs`
 - [Easy People](fonts/script/various/easypeople) — [catalog](https://fonts.grok.me/font/easypeople)
 - [Extra Highs](fonts/script/various/extrahighs) — [catalog](https://fonts.grok.me/font/extrahighs)
 - [Fauquier](fonts/script/various/fauquier) — [catalog](https://fonts.grok.me/font/fauquier) · 3 files
@@ -1464,39 +1464,39 @@ Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxi
 
 ## Techno · LCD
 
-- [Circle Pixels](fonts/techno/lcd/circlepixels) — [catalog](https://fonts.grok.me/font/circlepixels) · `Latin-1` `Central European` `318 glyphs`
-- [Higher Pixels](fonts/techno/lcd/higherpixels) — [catalog](https://fonts.grok.me/font/higherpixels) · `Latin-1` `Central European` `318 glyphs`
-- [Mega Bits](fonts/techno/lcd/megabits) — [catalog](https://fonts.grok.me/font/megabits) · `Latin-1` `Central European` `317 glyphs`
+- [Circle Pixels](fonts/techno/lcd/circlepixels) — [catalog](https://fonts.grok.me/font/circlepixels) · `Latin-1` `Central European` `322 glyphs`
+- [Higher Pixels](fonts/techno/lcd/higherpixels) — [catalog](https://fonts.grok.me/font/higherpixels) · `Latin-1` `Central European` `324 glyphs`
+- [Mega Bits](fonts/techno/lcd/megabits) — [catalog](https://fonts.grok.me/font/megabits) · `Latin-1` `Central European` `330 glyphs`
 
 ## Techno · Sci-fi
 
-- [Asterisk](fonts/techno/sci-fi/asterisk) — [catalog](https://fonts.grok.me/font/asterisk) · 8 files · `Latin-1` `Central European` `335 glyphs`
-- [Astronmica](fonts/techno/sci-fi/astronmica) — [catalog](https://fonts.grok.me/font/astronmica) · 5 files · `Latin-1` `Central European` `337 glyphs`
-- [Epicenter](fonts/techno/sci-fi/epicenter) — [catalog](https://fonts.grok.me/font/epicenter) · 12 files · `Latin-1` `Central European` `334 glyphs`
-- [Miswak](fonts/techno/sci-fi/miswak) — [catalog](https://fonts.grok.me/font/miswak) · `Latin-1 75%` `Central European` `319 glyphs`
-- [Robotic Revolution](fonts/techno/sci-fi/roboticrevolution) — [catalog](https://fonts.grok.me/font/roboticrevolution) · `Latin-1` `Central European` `330 glyphs`
-- [Simulacre](fonts/techno/sci-fi/simulacre) — [catalog](https://fonts.grok.me/font/simulacre) · `Latin-1` `Central European` `331 glyphs`
+- [Asterisk](fonts/techno/sci-fi/asterisk) — [catalog](https://fonts.grok.me/font/asterisk) · 8 files · `Latin-1` `Central European` `346 glyphs`
+- [Astronmica](fonts/techno/sci-fi/astronmica) — [catalog](https://fonts.grok.me/font/astronmica) · 5 files · `Latin-1` `Central European` `349 glyphs`
+- [Epicenter](fonts/techno/sci-fi/epicenter) — [catalog](https://fonts.grok.me/font/epicenter) · 12 files · `Latin-1` `Central European` `347 glyphs`
+- [Miswak](fonts/techno/sci-fi/miswak) — [catalog](https://fonts.grok.me/font/miswak) · `Latin-1 75%` `Central European` `332 glyphs`
+- [Robotic Revolution](fonts/techno/sci-fi/roboticrevolution) — [catalog](https://fonts.grok.me/font/roboticrevolution) · `Latin-1` `Central European` `335 glyphs`
+- [Simulacre](fonts/techno/sci-fi/simulacre) — [catalog](https://fonts.grok.me/font/simulacre) · `Latin-1` `Central European` `343 glyphs`
 
 ## Techno · Square
 
-- [AnotherLine](fonts/techno/square/anotherline) — [catalog](https://fonts.grok.me/font/anotherline) · `Latin-1` `Central European` `314 glyphs`
+- [AnotherLine](fonts/techno/square/anotherline) — [catalog](https://fonts.grok.me/font/anotherline) · `Latin-1` `Central European` `326 glyphs`
 
 ## Techno · Various
 
 - [Bent Out](fonts/techno/various/bentout) — [catalog](https://fonts.grok.me/font/bentout) · `Latin-1` `Central European` `314 glyphs`
-- [BioMetric](fonts/techno/various/biometric) — [catalog](https://fonts.grok.me/font/biometric) · 5 files · `Latin-1` `Central European` `334 glyphs`
-- [Couper Blaque](fonts/techno/various/couperblaque) — [catalog](https://fonts.grok.me/font/couperblaque) · `Latin-1` `Central European` `337 glyphs`
-- [Designer Pixels](fonts/techno/various/designerpixels) — [catalog](https://fonts.grok.me/font/designerpixels) · `Latin-1` `Central European` `318 glyphs`
-- [Electro House](fonts/techno/various/electrohouse) — [catalog](https://fonts.grok.me/font/electrohouse) · `Latin-1` `Central European` `317 glyphs`
-- [Fonderian](fonts/techno/various/fonderian) — [catalog](https://fonts.grok.me/font/fonderian) · 8 files · `Latin-1` `Central European` `332 glyphs`
+- [BioMetric](fonts/techno/various/biometric) — [catalog](https://fonts.grok.me/font/biometric) · 5 files · `Latin-1` `Central European` `346 glyphs`
+- [Couper Blaque](fonts/techno/various/couperblaque) — [catalog](https://fonts.grok.me/font/couperblaque) · `Latin-1` `Central European` `348 glyphs`
+- [Designer Pixels](fonts/techno/various/designerpixels) — [catalog](https://fonts.grok.me/font/designerpixels) · `Latin-1` `Central European` `323 glyphs`
+- [Electro House](fonts/techno/various/electrohouse) — [catalog](https://fonts.grok.me/font/electrohouse) · `Latin-1` `Central European` `329 glyphs`
+- [Fonderian](fonts/techno/various/fonderian) — [catalog](https://fonts.grok.me/font/fonderian) · 8 files · `Latin-1` `Central European` `344 glyphs`
 - [High Rating](fonts/techno/various/highrating) — [catalog](https://fonts.grok.me/font/highrating)
-- [Martienso](fonts/techno/various/martienso) — [catalog](https://fonts.grok.me/font/martienso) · 5 files · `Latin-1` `Central European` `331 glyphs`
-- [Modernism](fonts/techno/various/modernism) — [catalog](https://fonts.grok.me/font/modernism) · 7 files · `Latin-1` `Central European` `334 glyphs`
+- [Martienso](fonts/techno/various/martienso) — [catalog](https://fonts.grok.me/font/martienso) · 5 files · `Latin-1` `Central European` `343 glyphs`
+- [Modernism](fonts/techno/various/modernism) — [catalog](https://fonts.grok.me/font/modernism) · 7 files · `Latin-1` `Central European` `346 glyphs`
 - [Qrurl](fonts/techno/various/qrurl) — [catalog](https://fonts.grok.me/font/qrurl)
-- [Robot Shadow](fonts/techno/various/robotshadow) — [catalog](https://fonts.grok.me/font/robotshadow) · `Latin-1` `Central European` `287 glyphs`
-- [Robustly Brewing](fonts/techno/various/robustlybrewing) — [catalog](https://fonts.grok.me/font/robustlybrewing) · `Latin-1` `Central European` `331 glyphs`
-- [Solarium](fonts/techno/various/solarium) — [catalog](https://fonts.grok.me/font/solarium) · `Latin-1` `Central European` `316 glyphs`
-- [Squanch](fonts/techno/various/squanch) — [catalog](https://fonts.grok.me/font/squanch) · `Latin-1` `Central European` `331 glyphs`
-- [Tracksion](fonts/techno/various/tracksion) — [catalog](https://fonts.grok.me/font/tracksion) · `Latin-1` `Central European` `317 glyphs`
-- [Wonder Age](fonts/techno/various/wonderage) — [catalog](https://fonts.grok.me/font/wonderage) · `Latin-1` `Central European` `331 glyphs`
+- [Robot Shadow](fonts/techno/various/robotshadow) — [catalog](https://fonts.grok.me/font/robotshadow) · `Latin-1` `Central European` `295 glyphs`
+- [Robustly Brewing](fonts/techno/various/robustlybrewing) — [catalog](https://fonts.grok.me/font/robustlybrewing) · `Latin-1` `Central European` `343 glyphs`
+- [Solarium](fonts/techno/various/solarium) — [catalog](https://fonts.grok.me/font/solarium) · `Latin-1` `Central European` `328 glyphs`
+- [Squanch](fonts/techno/various/squanch) — [catalog](https://fonts.grok.me/font/squanch) · `Latin-1` `Central European` `343 glyphs`
+- [Tracksion](fonts/techno/various/tracksion) — [catalog](https://fonts.grok.me/font/tracksion) · `Latin-1` `Central European` `329 glyphs`
+- [Wonder Age](fonts/techno/various/wonderage) — [catalog](https://fonts.grok.me/font/wonderage) · `Latin-1` `Central European` `343 glyphs`
 
