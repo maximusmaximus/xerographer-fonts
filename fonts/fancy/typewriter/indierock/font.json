@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "IndieRock.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "IndieRock.woff2"
     }
   ],
   "notices": [],

@@ -9,11 +9,13 @@
   "files": [
     {
       "file": "threed filled.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "threed filled.woff2"
     },
     {
       "file": "threed.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "threed.woff2"
     }
   ],
   "notices": [],

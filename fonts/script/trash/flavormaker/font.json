@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "FlavorMaker.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "FlavorMaker.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "IndianTiger.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "IndianTiger.woff2"
     }
   ],
   "notices": [],

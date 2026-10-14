@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "FIneThings.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "FIneThings.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "FreshlyThinking.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "FreshlyThinking.woff2"
     }
   ],
   "notices": [],

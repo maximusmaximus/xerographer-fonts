@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "RewindForward.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "RewindForward.woff2"
     }
   ],
   "notices": [],

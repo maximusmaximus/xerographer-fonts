@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Fentanyl.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Fentanyl.woff2"
     }
   ],
   "notices": [],

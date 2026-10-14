@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "FleshShop.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "FleshShop.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "FunBear.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "FunBear.woff2"
     }
   ],
   "notices": [],

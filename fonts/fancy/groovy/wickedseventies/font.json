@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "WickedSeventies.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "WickedSeventies.woff2"
     }
   ],
   "notices": [],

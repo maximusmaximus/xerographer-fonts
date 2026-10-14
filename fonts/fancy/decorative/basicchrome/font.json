@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "BasicChrome.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "BasicChrome.woff2"
     }
   ],
   "notices": [],

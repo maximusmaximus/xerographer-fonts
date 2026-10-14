@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Rastaerize.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Rastaerize.woff2"
     }
   ],
   "notices": [],

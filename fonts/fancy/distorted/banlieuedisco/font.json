@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "BanlieueDisco.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "BanlieueDisco.woff2"
     }
   ],
   "notices": [],

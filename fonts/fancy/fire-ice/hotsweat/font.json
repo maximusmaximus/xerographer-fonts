@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "HotSweat.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "HotSweat.woff2"
     }
   ],
   "notices": [],

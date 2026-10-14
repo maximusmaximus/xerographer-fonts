@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "DirtyOlympia.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "DirtyOlympia.woff2"
     }
   ],
   "notices": [],

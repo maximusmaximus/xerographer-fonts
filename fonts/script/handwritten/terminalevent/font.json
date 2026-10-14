@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "TerminalEvent.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "TerminalEvent.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "FreshTrack.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "FreshTrack.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "DragonBreath.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "DragonBreath.woff2"
     }
   ],
   "notices": [],

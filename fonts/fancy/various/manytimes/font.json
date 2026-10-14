@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "ManyTimes.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ManyTimes.woff2"
     }
   ],
   "notices": [],

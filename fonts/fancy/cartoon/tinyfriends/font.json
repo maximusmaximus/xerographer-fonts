@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "TinyFriends.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "TinyFriends.woff2"
     }
   ],
   "notices": [],

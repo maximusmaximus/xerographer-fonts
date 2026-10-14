@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "WurmFun.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "WurmFun.woff2"
     }
   ],
   "notices": [],

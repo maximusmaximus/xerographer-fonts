@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "AngleStroke.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "AngleStroke.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "CityMagic.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "CityMagic.woff2"
     }
   ],
   "notices": [],

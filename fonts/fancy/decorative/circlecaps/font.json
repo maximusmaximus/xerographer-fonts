@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "CircleCaps.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "CircleCaps.woff2"
     }
   ],
   "notices": [],

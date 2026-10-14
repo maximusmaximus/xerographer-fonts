@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Tracksion.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Tracksion.woff2"
     }
   ],
   "notices": [],

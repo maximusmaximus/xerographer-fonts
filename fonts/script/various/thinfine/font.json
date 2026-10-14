@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "ThinFine.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ThinFine.woff2"
     }
   ],
   "notices": [],

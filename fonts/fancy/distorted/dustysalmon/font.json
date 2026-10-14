@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "DustySalmon.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "DustySalmon.woff2"
     }
   ],
   "notices": [],

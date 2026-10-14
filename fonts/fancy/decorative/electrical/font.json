@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "electrical.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "electrical.woff2"
     }
   ],
   "notices": [],

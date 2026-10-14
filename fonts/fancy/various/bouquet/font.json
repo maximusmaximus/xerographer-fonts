@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Bouquet.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Bouquet.woff2"
     }
   ],
   "notices": [],

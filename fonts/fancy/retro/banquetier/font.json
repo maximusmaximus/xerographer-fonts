@@ -9,15 +9,18 @@
   "files": [
     {
       "file": "Banquetier-Black.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Banquetier-Black.woff2"
     },
     {
       "file": "Banquetier-Italic.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Banquetier-Italic.woff2"
     },
     {
       "file": "Banquetier.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Banquetier.woff2"
     }
   ],
   "notices": [],

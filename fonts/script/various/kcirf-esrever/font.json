@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "kcirF esreveR.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "kcirF esreveR.woff2"
     }
   ],
   "notices": [],

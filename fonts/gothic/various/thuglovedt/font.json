@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "ThugLoveDT.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ThugLoveDT.woff2"
     }
   ],
   "notices": [],

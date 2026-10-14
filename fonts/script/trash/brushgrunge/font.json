@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "BrushGrunge.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "BrushGrunge.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "TwerkFifty.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "TwerkFifty.woff2"
     }
   ],
   "notices": [],

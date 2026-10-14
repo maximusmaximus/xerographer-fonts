@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Brushings.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Brushings.woff2"
     }
   ],
   "notices": [],

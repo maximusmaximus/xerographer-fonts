@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "InkSpecial.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "InkSpecial.woff2"
     }
   ],
   "notices": [],

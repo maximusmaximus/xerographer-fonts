@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "QualityControl.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "QualityControl.woff2"
     }
   ],
   "notices": [],

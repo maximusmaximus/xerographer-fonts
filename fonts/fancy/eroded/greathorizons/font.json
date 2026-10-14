@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "GreatHorizons.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "GreatHorizons.woff2"
     }
   ],
   "notices": [],

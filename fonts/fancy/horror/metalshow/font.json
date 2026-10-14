@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "MetalShow.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "MetalShow.woff2"
     }
   ],
   "notices": [],

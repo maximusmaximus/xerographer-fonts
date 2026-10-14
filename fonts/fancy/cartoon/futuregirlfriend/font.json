@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "FutureGirlfriend.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "FutureGirlfriend.woff2"
     }
   ],
   "notices": [],

@@ -9,11 +9,13 @@
   "files": [
     {
       "file": "simplehand outline.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "simplehand outline.woff2"
     },
     {
       "file": "simplehand.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "simplehand.woff2"
     }
   ],
   "notices": [],

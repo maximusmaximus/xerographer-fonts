@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Technophilia.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Technophilia.woff2"
     }
   ],
   "notices": [],

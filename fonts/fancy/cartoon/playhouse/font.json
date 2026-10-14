@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "PlayHouse.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "PlayHouse.woff2"
     }
   ],
   "notices": [],

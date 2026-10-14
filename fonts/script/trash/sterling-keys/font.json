@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Sterling Keys.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Sterling Keys.woff2"
     }
   ],
   "notices": [],

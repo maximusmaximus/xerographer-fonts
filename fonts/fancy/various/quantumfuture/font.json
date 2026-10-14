@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "QuantumFuture.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "QuantumFuture.woff2"
     }
   ],
   "notices": [],

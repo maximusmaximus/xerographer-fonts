@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "ClubHouse.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ClubHouse.woff2"
     }
   ],
   "notices": [],

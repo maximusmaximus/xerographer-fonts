@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "GreatBush.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "GreatBush.woff2"
     }
   ],
   "notices": [],

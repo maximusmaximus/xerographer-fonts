@@ -9,23 +9,28 @@
   "files": [
     {
       "file": "Martienso-Bold.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Martienso-Bold.woff2"
     },
     {
       "file": "Martienso-Heavy.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Martienso-Heavy.woff2"
     },
     {
       "file": "Martienso-Medium.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Martienso-Medium.woff2"
     },
     {
       "file": "Martienso-Thin.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Martienso-Thin.woff2"
     },
     {
       "file": "Martienso.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Martienso.woff2"
     }
   ],
   "notices": [],

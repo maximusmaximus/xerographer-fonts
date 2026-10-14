@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Marijuana.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Marijuana.woff2"
     }
   ],
   "notices": [],

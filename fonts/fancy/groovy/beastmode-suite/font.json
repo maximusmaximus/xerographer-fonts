@@ -9,31 +9,38 @@
   "files": [
     {
       "file": "BeastMode-Bold.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "BeastMode-Bold.woff2"
     },
     {
       "file": "BeastMode-BoldItalic.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "BeastMode-BoldItalic.woff2"
     },
     {
       "file": "BeastMode-Disco.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "BeastMode-Disco.woff2"
     },
     {
       "file": "BeastMode-Doubleline.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "BeastMode-Doubleline.woff2"
     },
     {
       "file": "BeastMode-Inverted.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "BeastMode-Inverted.woff2"
     },
     {
       "file": "BeastMode-Solid.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "BeastMode-Solid.woff2"
     },
     {
       "file": "BeastMode.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "BeastMode.woff2"
     }
   ],
   "notices": [

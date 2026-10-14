@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "HugeCrunch.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "HugeCrunch.woff2"
     }
   ],
   "notices": [],

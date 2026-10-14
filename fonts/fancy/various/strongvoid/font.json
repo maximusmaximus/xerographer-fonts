@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "StrongVoid.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "StrongVoid.woff2"
     }
   ],
   "notices": [],

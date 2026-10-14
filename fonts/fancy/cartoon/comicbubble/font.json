@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "ComicBubble.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ComicBubble.woff2"
     }
   ],
   "notices": [],

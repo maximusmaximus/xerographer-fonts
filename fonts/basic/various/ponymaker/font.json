@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "PonyMaker.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "PonyMaker.woff2"
     }
   ],
   "notices": [],

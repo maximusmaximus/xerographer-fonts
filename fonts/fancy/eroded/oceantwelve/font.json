@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "OceanTwelve.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "OceanTwelve.woff2"
     }
   ],
   "notices": [],

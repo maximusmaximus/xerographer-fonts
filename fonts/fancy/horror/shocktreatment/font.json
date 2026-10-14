@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "ShockTreatment.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ShockTreatment.woff2"
     }
   ],
   "notices": [],

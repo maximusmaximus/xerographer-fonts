@@ -9,51 +9,63 @@
   "files": [
     {
       "file": "Epicenter-Black.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Epicenter-Black.woff2"
     },
     {
       "file": "Epicenter-BlackItalic.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Epicenter-BlackItalic.woff2"
     },
     {
       "file": "Epicenter-Bold.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Epicenter-Bold.woff2"
     },
     {
       "file": "Epicenter-BoldSkinny.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Epicenter-BoldSkinny.woff2"
     },
     {
       "file": "Epicenter-BoldThin.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Epicenter-BoldThin.woff2"
     },
     {
       "file": "Epicenter-Disco.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Epicenter-Disco.woff2"
     },
     {
       "file": "Epicenter-DiscoItalic.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Epicenter-DiscoItalic.woff2"
     },
     {
       "file": "Epicenter-Italic.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Epicenter-Italic.woff2"
     },
     {
       "file": "Epicenter-Thin.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Epicenter-Thin.woff2"
     },
     {
       "file": "Epicenter-ThinItalic.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Epicenter-ThinItalic.woff2"
     },
     {
       "file": "Epicenter-TwoStroke.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Epicenter-TwoStroke.woff2"
     },
     {
       "file": "Epicenter.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Epicenter.woff2"
     }
   ],
   "notices": [

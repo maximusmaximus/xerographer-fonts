@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "FourSix.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "FourSix.woff2"
     }
   ],
   "notices": [],

@@ -9,11 +9,13 @@
   "files": [
     {
       "file": "Shipment.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Shipment.woff2"
     },
     {
       "file": "ShipmentInverted.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ShipmentInverted.woff2"
     }
   ],
   "notices": [],

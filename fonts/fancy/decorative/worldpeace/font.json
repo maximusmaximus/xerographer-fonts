@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "WorldPeace.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "WorldPeace.woff2"
     }
   ],
   "notices": [],

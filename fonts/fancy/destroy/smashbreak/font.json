@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "SmashBreak.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "SmashBreak.woff2"
     }
   ],
   "notices": [],

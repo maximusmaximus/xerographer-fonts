@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "ThirdRail.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ThirdRail.woff2"
     }
   ],
   "notices": [],

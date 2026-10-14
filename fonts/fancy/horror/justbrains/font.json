@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "JustBrains.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "JustBrains.woff2"
     }
   ],
   "notices": [],

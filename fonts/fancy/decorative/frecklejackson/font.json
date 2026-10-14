@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "FreckleJackson.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "FreckleJackson.woff2"
     }
   ],
   "notices": [],

@@ -9,35 +9,43 @@
   "files": [
     {
       "file": "Asterisk-Bold.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Asterisk-Bold.woff2"
     },
     {
       "file": "Asterisk-DoubleLine.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Asterisk-DoubleLine.woff2"
     },
     {
       "file": "Asterisk-FineLine.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Asterisk-FineLine.woff2"
     },
     {
       "file": "Asterisk-HollowBold.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Asterisk-HollowBold.woff2"
     },
     {
       "file": "Asterisk-Lines.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Asterisk-Lines.woff2"
     },
     {
       "file": "Asterisk-Plain.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Asterisk-Plain.woff2"
     },
     {
       "file": "Asterisk-Rounded.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Asterisk-Rounded.woff2"
     },
     {
       "file": "Asterisk-ThinLaser.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Asterisk-ThinLaser.woff2"
     }
   ],
   "notices": [

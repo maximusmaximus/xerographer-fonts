@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "OpenStore.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "OpenStore.woff2"
     }
   ],
   "notices": [],

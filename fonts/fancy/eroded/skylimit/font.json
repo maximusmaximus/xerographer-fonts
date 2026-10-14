@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "SkyLimit.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "SkyLimit.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "PaperScraps.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "PaperScraps.woff2"
     }
   ],
   "notices": [],

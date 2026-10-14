@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "traphouse.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "traphouse.woff2"
     }
   ],
   "notices": [],

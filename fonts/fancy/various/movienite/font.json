@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "MovieNite.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "MovieNite.woff2"
     }
   ],
   "notices": [],

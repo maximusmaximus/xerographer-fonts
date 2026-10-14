@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "BadLuck.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "BadLuck.woff2"
     }
   ],
   "notices": [],

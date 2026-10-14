@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "HighLines.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "HighLines.woff2"
     }
   ],
   "notices": [],

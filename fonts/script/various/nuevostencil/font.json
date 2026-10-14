@@ -9,15 +9,18 @@
   "files": [
     {
       "file": "nuevostencil filled.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "nuevostencil filled.woff2"
     },
     {
       "file": "nuevostencil hollow.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "nuevostencil hollow.woff2"
     },
     {
       "file": "nuevostencil tilt.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "nuevostencil tilt.woff2"
     }
   ],
   "notices": [],

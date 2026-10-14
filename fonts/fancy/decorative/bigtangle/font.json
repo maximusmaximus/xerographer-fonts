@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "BigTangle.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "BigTangle.woff2"
     }
   ],
   "notices": [],

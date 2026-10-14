@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "KingsCastle.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "KingsCastle.woff2"
     }
   ],
   "notices": [],

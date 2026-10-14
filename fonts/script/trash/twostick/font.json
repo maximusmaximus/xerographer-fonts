@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "twostick.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "twostick.woff2"
     }
   ],
   "notices": [],

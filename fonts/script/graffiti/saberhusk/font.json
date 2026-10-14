@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "SaberHusk.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "SaberHusk.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "CirclePixels.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "CirclePixels.woff2"
     }
   ],
   "notices": [],

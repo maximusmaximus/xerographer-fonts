@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "DecoRated.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "DecoRated.woff2"
     }
   ],
   "notices": [],

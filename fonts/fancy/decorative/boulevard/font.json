@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Boulevard.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Boulevard.woff2"
     }
   ],
   "notices": [],

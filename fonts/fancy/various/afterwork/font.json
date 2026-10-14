@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "AfterWork.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "AfterWork.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "ZapDeal.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ZapDeal.woff2"
     }
   ],
   "notices": [],

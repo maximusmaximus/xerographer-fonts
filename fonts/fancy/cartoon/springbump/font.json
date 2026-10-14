@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "SpringBump.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "SpringBump.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "DropInside.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "DropInside.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "HardLine.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "HardLine.woff2"
     }
   ],
   "notices": [],

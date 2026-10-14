@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "ShockColours.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ShockColours.woff2"
     }
   ],
   "notices": [],

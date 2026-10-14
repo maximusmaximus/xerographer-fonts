@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "BasicHand.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "BasicHand.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "PeaceFight.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "PeaceFight.woff2"
     }
   ],
   "notices": [],

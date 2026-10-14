@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "partyline.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "partyline.woff2"
     }
   ],
   "notices": [],

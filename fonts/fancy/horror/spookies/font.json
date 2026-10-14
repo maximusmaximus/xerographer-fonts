@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "spookies.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "spookies.woff2"
     }
   ],
   "notices": [],

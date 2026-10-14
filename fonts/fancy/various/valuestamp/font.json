@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "ValueStamp.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ValueStamp.woff2"
     }
   ],
   "notices": [],

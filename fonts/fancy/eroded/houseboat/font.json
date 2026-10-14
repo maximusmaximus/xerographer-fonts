@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "HouseBoat.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "HouseBoat.woff2"
     }
   ],
   "notices": [],

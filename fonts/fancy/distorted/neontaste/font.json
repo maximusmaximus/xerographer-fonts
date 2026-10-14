@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "NeonTaste.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "NeonTaste.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "PLENTYofMETAL.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "PLENTYofMETAL.woff2"
     }
   ],
   "notices": [],

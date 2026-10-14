@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "LostRay.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "LostRay.woff2"
     }
   ],
   "notices": [],

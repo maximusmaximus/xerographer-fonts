@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "DogesWalk.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "DogesWalk.woff2"
     }
   ],
   "notices": [],

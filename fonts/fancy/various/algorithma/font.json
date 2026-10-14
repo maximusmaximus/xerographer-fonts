@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Algorithma.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Algorithma.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "JuicyRags.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "JuicyRags.woff2"
     }
   ],
   "notices": [],

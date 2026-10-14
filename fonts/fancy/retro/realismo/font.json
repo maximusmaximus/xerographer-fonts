@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Realismo.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Realismo.woff2"
     }
   ],
   "notices": [],

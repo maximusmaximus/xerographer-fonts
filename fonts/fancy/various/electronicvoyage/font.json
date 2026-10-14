@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "ElectronicVoyage.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ElectronicVoyage.woff2"
     }
   ],
   "notices": [],

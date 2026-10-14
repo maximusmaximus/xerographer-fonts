@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "StencilDisco.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "StencilDisco.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "ComeParty.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ComeParty.woff2"
     }
   ],
   "notices": [],

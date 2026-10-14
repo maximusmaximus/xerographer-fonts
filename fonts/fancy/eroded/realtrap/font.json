@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "RealTrap.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "RealTrap.woff2"
     }
   ],
   "notices": [],

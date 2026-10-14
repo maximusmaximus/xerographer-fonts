@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "FrenchDisco.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "FrenchDisco.woff2"
     }
   ],
   "notices": [],

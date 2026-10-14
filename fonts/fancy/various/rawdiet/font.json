@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "RawDiet.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "RawDiet.woff2"
     }
   ],
   "notices": [],

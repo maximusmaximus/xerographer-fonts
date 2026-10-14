@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "StuckBrayers.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "StuckBrayers.woff2"
     }
   ],
   "notices": [],

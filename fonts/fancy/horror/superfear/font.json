@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "SuperFear.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "SuperFear.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Invertage.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Invertage.woff2"
     }
   ],
   "notices": [],

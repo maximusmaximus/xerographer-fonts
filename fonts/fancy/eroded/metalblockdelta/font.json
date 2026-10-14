@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "MetalblockDelta.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "MetalblockDelta.woff2"
     }
   ],
   "notices": [],

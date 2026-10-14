@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "DanceAway.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "DanceAway.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "RobotShadow.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "RobotShadow.woff2"
     }
   ],
   "notices": [],

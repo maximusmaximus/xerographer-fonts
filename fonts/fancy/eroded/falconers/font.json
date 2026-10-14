@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Falconers.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Falconers.woff2"
     }
   ],
   "notices": [],

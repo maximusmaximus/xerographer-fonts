@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "RedPanda.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "RedPanda.woff2"
     }
   ],
   "notices": [],

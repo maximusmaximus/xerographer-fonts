@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "MakeImpact.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "MakeImpact.woff2"
     }
   ],
   "notices": [],

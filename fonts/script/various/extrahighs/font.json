@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "ExtraHighs.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ExtraHighs.woff2"
     }
   ],
   "notices": [],

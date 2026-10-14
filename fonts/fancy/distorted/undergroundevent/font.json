@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "UndergroundEvent.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "UndergroundEvent.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "CleanBubbles.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "CleanBubbles.woff2"
     }
   ],
   "notices": [],

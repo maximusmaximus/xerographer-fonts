@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "SolidBrand.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "SolidBrand.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "OutlineTwelve.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "OutlineTwelve.woff2"
     }
   ],
   "notices": [],

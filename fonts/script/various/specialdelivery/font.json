@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "SpecialDelivery.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "SpecialDelivery.woff2"
     }
   ],
   "notices": [],

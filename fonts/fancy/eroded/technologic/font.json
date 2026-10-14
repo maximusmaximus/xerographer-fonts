@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "TechnoLogic.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "TechnoLogic.woff2"
     }
   ],
   "notices": [],

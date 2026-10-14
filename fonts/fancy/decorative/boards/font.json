@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "boards.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "boards.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "SafePaper.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "SafePaper.woff2"
     }
   ],
   "notices": [],

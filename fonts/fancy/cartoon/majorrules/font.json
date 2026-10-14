@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "MajorRules.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "MajorRules.woff2"
     }
   ],
   "notices": [],

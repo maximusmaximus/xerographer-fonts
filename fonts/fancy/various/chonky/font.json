@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Chonky.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Chonky.woff2"
     }
   ],
   "notices": [],

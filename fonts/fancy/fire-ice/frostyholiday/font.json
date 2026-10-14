@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "FrostyHoliday.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "FrostyHoliday.woff2"
     }
   ],
   "notices": [],

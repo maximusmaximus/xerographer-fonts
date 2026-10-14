@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "OutlineAround.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "OutlineAround.woff2"
     }
   ],
   "notices": [],

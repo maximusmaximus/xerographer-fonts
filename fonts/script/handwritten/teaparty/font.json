@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "TeaParty.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "TeaParty.woff2"
     }
   ],
   "notices": [],

@@ -9,11 +9,13 @@
   "files": [
     {
       "file": "Quagent-Italic.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Quagent-Italic.woff2"
     },
     {
       "file": "Quagent-Regular.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Quagent-Regular.woff2"
     }
   ],
   "notices": [

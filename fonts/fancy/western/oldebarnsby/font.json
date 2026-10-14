@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "OldeBarnsby.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "OldeBarnsby.woff2"
     }
   ],
   "notices": [],

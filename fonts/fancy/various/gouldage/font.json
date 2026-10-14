@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Gouldage.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Gouldage.woff2"
     }
   ],
   "notices": [],

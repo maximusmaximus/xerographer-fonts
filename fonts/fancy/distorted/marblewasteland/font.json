@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "MarbleWasteland.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "MarbleWasteland.woff2"
     }
   ],
   "notices": [],

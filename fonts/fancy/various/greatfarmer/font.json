@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "GreatFarmer.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "GreatFarmer.woff2"
     }
   ],
   "notices": [],

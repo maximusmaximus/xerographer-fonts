@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "AnotherStudent.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "AnotherStudent.woff2"
     }
   ],
   "notices": [],

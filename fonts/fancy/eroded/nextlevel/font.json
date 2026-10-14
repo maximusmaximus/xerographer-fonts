@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "NextLevel.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "NextLevel.woff2"
     }
   ],
   "notices": [],

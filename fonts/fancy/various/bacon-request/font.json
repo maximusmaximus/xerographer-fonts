@@ -9,27 +9,33 @@
   "files": [
     {
       "file": "BaconRequest-Bold.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "BaconRequest-Bold.woff2"
     },
     {
       "file": "BaconRequest-BoldItalic.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "BaconRequest-BoldItalic.woff2"
     },
     {
       "file": "BaconRequest-Expanded.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "BaconRequest-Expanded.woff2"
     },
     {
       "file": "BaconRequest-Italic.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "BaconRequest-Italic.woff2"
     },
     {
       "file": "BaconRequest-Regular.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "BaconRequest-Regular.woff2"
     },
     {
       "file": "BaconRequest-Thin.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "BaconRequest-Thin.woff2"
     }
   ],
   "notices": [],

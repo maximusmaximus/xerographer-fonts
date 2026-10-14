@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "OpenHatch.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "OpenHatch.woff2"
     }
   ],
   "notices": [],

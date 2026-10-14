@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "MajorStripe.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "MajorStripe.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "HappyLines.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "HappyLines.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "CharcoalScript.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "CharcoalScript.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "MegaBits.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "MegaBits.woff2"
     }
   ],
   "notices": [],

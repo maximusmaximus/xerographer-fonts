@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "FluShots.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "FluShots.woff2"
     }
   ],
   "notices": [],

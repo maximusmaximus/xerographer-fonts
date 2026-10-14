@@ -9,11 +9,13 @@
   "files": [
     {
       "file": "crankdeal tilt.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "crankdeal tilt.woff2"
     },
     {
       "file": "crankdeal.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "crankdeal.woff2"
     }
   ],
   "notices": [],

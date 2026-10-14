@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "DrawingMachine.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "DrawingMachine.woff2"
     }
   ],
   "notices": [],

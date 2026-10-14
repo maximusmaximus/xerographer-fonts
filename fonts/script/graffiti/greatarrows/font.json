@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "GreatArrows.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "GreatArrows.woff2"
     }
   ],
   "notices": [],

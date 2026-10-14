@@ -9,15 +9,18 @@
   "files": [
     {
       "file": "Xelita.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Xelita.woff2"
     },
     {
       "file": "XelitaBold.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "XelitaBold.woff2"
     },
     {
       "file": "XelitaItalic.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "XelitaItalic.woff2"
     }
   ],
   "notices": [],

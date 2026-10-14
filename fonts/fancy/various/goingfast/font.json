@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "GoingFast.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "GoingFast.woff2"
     }
   ],
   "notices": [],

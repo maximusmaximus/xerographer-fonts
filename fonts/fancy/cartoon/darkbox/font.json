@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "DarkBox.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "DarkBox.woff2"
     }
   ],
   "notices": [],

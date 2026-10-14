@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "FreshMaker.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "FreshMaker.woff2"
     }
   ],
   "notices": [],

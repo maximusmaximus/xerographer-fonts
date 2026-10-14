@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "BroHugs.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "BroHugs.woff2"
     }
   ],
   "notices": [],

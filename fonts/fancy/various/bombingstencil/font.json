@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "BombingStencil.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "BombingStencil.woff2"
     }
   ],
   "notices": [],

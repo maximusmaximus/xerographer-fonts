@@ -9,23 +9,28 @@
   "files": [
     {
       "file": "Astronmica.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Astronmica.woff2"
     },
     {
       "file": "AstronmicaBlack.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "AstronmicaBlack.woff2"
     },
     {
       "file": "AstronmicaBold.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "AstronmicaBold.woff2"
     },
     {
       "file": "AstronmicaBoldItalic.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "AstronmicaBoldItalic.woff2"
     },
     {
       "file": "AstronmicaItalic.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "AstronmicaItalic.woff2"
     }
   ],
   "notices": [],

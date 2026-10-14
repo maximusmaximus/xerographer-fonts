@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "WickedCockney.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "WickedCockney.woff2"
     }
   ],
   "notices": [],

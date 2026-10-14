@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Neturality.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Neturality.woff2"
     }
   ],
   "notices": [],

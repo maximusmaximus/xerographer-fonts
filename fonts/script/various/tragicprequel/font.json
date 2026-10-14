@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "TragicPrequel.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "TragicPrequel.woff2"
     }
   ],
   "notices": [],

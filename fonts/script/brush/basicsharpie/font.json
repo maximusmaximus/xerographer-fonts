@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "BasicSharpie.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "BasicSharpie.woff2"
     }
   ],
   "notices": [],

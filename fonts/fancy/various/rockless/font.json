@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "RockLess.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "RockLess.woff2"
     }
   ],
   "notices": [],

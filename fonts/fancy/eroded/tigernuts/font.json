@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "TigerNuts.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "TigerNuts.woff2"
     }
   ],
   "notices": [],

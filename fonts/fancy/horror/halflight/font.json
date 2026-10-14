@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "HalfLight.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "HalfLight.woff2"
     }
   ],
   "notices": [],

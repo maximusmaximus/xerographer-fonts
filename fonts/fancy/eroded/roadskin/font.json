@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "RoadSkin.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "RoadSkin.woff2"
     }
   ],
   "notices": [],

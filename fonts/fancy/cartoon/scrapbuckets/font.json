@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Scrapbuckets.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Scrapbuckets.woff2"
     }
   ],
   "notices": [],

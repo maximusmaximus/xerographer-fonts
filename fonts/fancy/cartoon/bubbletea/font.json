@@ -9,11 +9,13 @@
   "files": [
     {
       "file": "bubbletea hollow.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "bubbletea hollow.woff2"
     },
     {
       "file": "bubbletea.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "bubbletea.woff2"
     }
   ],
   "notices": [],

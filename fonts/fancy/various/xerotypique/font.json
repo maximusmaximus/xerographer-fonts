@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "XeroTypique.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "XeroTypique.woff2"
     }
   ],
   "notices": [],

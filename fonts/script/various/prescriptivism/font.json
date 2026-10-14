@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Prescriptivism.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Prescriptivism.woff2"
     }
   ],
   "notices": [],

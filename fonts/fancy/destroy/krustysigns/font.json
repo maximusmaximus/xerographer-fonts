@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "KrustySigns.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "KrustySigns.woff2"
     }
   ],
   "notices": [],

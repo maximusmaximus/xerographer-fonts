@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "TearDrops.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "TearDrops.woff2"
     }
   ],
   "notices": [],

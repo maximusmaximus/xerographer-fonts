@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Shockvetica.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Shockvetica.woff2"
     }
   ],
   "notices": [],

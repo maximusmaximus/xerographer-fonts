@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "EasyPeople.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "EasyPeople.woff2"
     }
   ],
   "notices": [],

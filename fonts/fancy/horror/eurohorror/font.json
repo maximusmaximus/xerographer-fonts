@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "EuroHorror.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "EuroHorror.woff2"
     }
   ],
   "notices": [],

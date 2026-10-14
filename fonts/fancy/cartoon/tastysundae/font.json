@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "TastySundae.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "TastySundae.woff2"
     }
   ],
   "notices": [],

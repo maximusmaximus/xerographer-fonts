@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "ChungFlew.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ChungFlew.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "BubLight.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "BubLight.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "DanceLights.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "DanceLights.woff2"
     }
   ],
   "notices": [],

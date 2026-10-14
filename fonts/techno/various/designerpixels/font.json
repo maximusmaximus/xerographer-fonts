@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "DesignerPixels.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "DesignerPixels.woff2"
     }
   ],
   "notices": [],

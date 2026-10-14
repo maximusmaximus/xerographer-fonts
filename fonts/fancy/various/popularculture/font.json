@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "PopularCulture.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "PopularCulture.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "SlickWave.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "SlickWave.woff2"
     }
   ],
   "notices": [],

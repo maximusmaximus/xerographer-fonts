@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "FuturemoonV2.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "FuturemoonV2.woff2"
     }
   ],
   "notices": [],

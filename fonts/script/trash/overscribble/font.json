@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "OverScribble.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "OverScribble.woff2"
     }
   ],
   "notices": [],

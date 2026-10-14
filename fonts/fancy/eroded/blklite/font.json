@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "BlkLite.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "BlkLite.woff2"
     }
   ],
   "notices": [],

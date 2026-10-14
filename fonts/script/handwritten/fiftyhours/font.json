@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "FiftyHours.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "FiftyHours.woff2"
     }
   ],
   "notices": [],

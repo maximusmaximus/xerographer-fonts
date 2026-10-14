@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "DeliciousCandy.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "DeliciousCandy.woff2"
     }
   ],
   "notices": [],

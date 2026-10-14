@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "PerfectChisle.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "PerfectChisle.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "QuickScratch.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "QuickScratch.woff2"
     }
   ],
   "notices": [],

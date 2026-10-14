@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "handrelief.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "handrelief.woff2"
     }
   ],
   "notices": [],

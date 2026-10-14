@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "GreatPoints.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "GreatPoints.woff2"
     }
   ],
   "notices": [],

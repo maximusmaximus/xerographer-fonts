@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Magnetic.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Magnetic.woff2"
     }
   ],
   "notices": [],

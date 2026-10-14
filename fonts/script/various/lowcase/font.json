@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "LowCase.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "LowCase.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "BrainWasher.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "BrainWasher.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Elusive.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Elusive.woff2"
     }
   ],
   "notices": [],

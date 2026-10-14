@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "FantomBantum.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "FantomBantum.woff2"
     }
   ],
   "notices": [],

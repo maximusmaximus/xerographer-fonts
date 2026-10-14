@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "FunSized.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "FunSized.woff2"
     }
   ],
   "notices": [],

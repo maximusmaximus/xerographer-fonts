@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "ForgivableSin.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ForgivableSin.woff2"
     }
   ],
   "notices": [],

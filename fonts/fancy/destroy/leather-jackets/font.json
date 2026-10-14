@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "LeatherJackets.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "LeatherJackets.woff2"
     }
   ],
   "notices": [],

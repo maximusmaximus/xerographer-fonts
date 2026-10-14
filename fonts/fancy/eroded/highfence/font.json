@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "HighFence.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "HighFence.woff2"
     }
   ],
   "notices": [],

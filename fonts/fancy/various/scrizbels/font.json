@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Scrizbels.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Scrizbels.woff2"
     }
   ],
   "notices": [],

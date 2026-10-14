@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "BentOut.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "BentOut.woff2"
     }
   ],
   "notices": [],

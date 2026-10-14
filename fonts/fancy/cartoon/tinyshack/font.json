@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "TinyShack.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "TinyShack.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "madstyle.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "madstyle.woff2"
     }
   ],
   "notices": [],

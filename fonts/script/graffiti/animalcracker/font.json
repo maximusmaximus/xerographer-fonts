@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "AnimalCracker.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "AnimalCracker.woff2"
     }
   ],
   "notices": [],

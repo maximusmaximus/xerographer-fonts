@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "CryptoPrices.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "CryptoPrices.woff2"
     }
   ],
   "notices": [],

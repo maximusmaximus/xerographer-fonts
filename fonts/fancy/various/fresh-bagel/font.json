@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "FreshBagel.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "FreshBagel.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "EarlyScare.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "EarlyScare.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "EventShark.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "EventShark.woff2"
     }
   ],
   "notices": [],

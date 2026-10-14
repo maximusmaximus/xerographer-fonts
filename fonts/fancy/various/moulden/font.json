@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Moulden.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Moulden.woff2"
     }
   ],
   "notices": [],

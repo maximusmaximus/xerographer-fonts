@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "GreatSails.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "GreatSails.woff2"
     }
   ],
   "notices": [],

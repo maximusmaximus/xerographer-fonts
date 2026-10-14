@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "TwistyPixel.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "TwistyPixel.woff2"
     }
   ],
   "notices": [],

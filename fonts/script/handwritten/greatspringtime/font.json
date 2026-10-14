@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "GreatSpringtime.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "GreatSpringtime.woff2"
     }
   ],
   "notices": [],

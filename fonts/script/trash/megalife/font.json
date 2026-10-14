@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "MegaLife.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "MegaLife.woff2"
     }
   ],
   "notices": [],

@@ -9,23 +9,28 @@
   "files": [
     {
       "file": "BioMetric-Chubby.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "BioMetric-Chubby.woff2"
     },
     {
       "file": "BioMetric-ComicHollow.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "BioMetric-ComicHollow.woff2"
     },
     {
       "file": "BioMetric-Italic.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "BioMetric-Italic.woff2"
     },
     {
       "file": "BioMetric-Plain.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "BioMetric-Plain.woff2"
     },
     {
       "file": "BioMetric-Thin.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "BioMetric-Thin.woff2"
     }
   ],
   "notices": [

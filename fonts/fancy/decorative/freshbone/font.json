@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "FreshBone.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "FreshBone.woff2"
     }
   ],
   "notices": [],

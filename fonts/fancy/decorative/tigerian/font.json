@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Tigerian.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Tigerian.woff2"
     }
   ],
   "notices": [],

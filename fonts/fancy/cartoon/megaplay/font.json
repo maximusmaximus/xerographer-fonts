@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "MegaPlay.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "MegaPlay.woff2"
     }
   ],
   "notices": [],

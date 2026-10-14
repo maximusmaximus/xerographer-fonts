@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "EuroParty.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "EuroParty.woff2"
     }
   ],
   "notices": [],

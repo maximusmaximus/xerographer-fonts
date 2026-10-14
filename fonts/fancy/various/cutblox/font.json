@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "CutBlox.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "CutBlox.woff2"
     }
   ],
   "notices": [],

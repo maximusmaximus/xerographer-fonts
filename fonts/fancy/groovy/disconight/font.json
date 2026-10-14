@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "DiscoNight.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "DiscoNight.woff2"
     }
   ],
   "notices": [],

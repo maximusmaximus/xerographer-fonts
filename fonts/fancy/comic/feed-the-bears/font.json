@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Feed The Bears.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Feed The Bears.woff2"
     }
   ],
   "notices": [],

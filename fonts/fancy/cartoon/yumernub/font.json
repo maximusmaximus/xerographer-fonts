@@ -9,15 +9,18 @@
   "files": [
     {
       "file": "yumernub fuzzy.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "yumernub fuzzy.woff2"
     },
     {
       "file": "yumernub slanty.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "yumernub slanty.woff2"
     },
     {
       "file": "yumernub.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "yumernub.woff2"
     }
   ],
   "notices": [],

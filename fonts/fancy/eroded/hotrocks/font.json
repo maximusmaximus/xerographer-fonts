@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "hotrocks.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "hotrocks.woff2"
     }
   ],
   "notices": [],

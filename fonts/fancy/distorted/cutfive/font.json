@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "CutFive.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "CutFive.woff2"
     }
   ],
   "notices": [],

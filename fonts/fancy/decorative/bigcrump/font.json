@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "BigCrump.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "BigCrump.woff2"
     }
   ],
   "notices": [],

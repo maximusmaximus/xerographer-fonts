@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "HailStormz.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "HailStormz.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "VictoryTime.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "VictoryTime.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "TastySwirl.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "TastySwirl.woff2"
     }
   ],
   "notices": [],

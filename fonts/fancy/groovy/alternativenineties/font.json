@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "AlternativeNineties.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "AlternativeNineties.woff2"
     }
   ],
   "notices": [],

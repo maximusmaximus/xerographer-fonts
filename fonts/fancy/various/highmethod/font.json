@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "HighMethod.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "HighMethod.woff2"
     }
   ],
   "notices": [],

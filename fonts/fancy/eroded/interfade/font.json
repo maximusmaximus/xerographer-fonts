@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "InterFade.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "InterFade.woff2"
     }
   ],
   "notices": [],

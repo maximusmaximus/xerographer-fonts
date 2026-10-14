@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "ViralFun.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ViralFun.woff2"
     }
   ],
   "notices": [],

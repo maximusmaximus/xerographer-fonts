@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "ComicShadow.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ComicShadow.woff2"
     }
   ],
   "notices": [],

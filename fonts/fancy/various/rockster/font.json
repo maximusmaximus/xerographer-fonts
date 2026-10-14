@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "rockster.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "rockster.woff2"
     }
   ],
   "notices": [],

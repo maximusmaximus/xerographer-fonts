@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "HighLevel.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "HighLevel.woff2"
     }
   ],
   "notices": [],

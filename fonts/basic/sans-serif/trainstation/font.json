@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "TrainStation.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "TrainStation.woff2"
     }
   ],
   "notices": [],

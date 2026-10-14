@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "LuckyScratcher.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "LuckyScratcher.woff2"
     }
   ],
   "notices": [],

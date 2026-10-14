@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "RegimeChange.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "RegimeChange.woff2"
     }
   ],
   "notices": [],

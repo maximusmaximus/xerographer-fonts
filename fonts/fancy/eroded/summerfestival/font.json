@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "SummerFestival.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "SummerFestival.woff2"
     }
   ],
   "notices": [],

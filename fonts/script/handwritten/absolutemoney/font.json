@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "AbsoluteMoney.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "AbsoluteMoney.woff2"
     }
   ],
   "notices": [],

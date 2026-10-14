@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "stripefest.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "stripefest.woff2"
     }
   ],
   "notices": [],

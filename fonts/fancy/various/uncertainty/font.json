@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Uncertainty.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Uncertainty.woff2"
     }
   ],
   "notices": [],

@@ -9,47 +9,58 @@
   "files": [
     {
       "file": "Amplitudes.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Amplitudes.woff2"
     },
     {
       "file": "AmplitudesBold.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "AmplitudesBold.woff2"
     },
     {
       "file": "AmplitudesBoldItalic.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "AmplitudesBoldItalic.woff2"
     },
     {
       "file": "AmplitudesBoldShort.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "AmplitudesBoldShort.woff2"
     },
     {
       "file": "AmplitudesDisco.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "AmplitudesDisco.woff2"
     },
     {
       "file": "AmplitudesDoubleStroke.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "AmplitudesDoubleStroke.woff2"
     },
     {
       "file": "AmplitudesHollowDigital.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "AmplitudesHollowDigital.woff2"
     },
     {
       "file": "AmplitudesHollowDigitalFilled.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "AmplitudesHollowDigitalFilled.woff2"
     },
     {
       "file": "AmplitudesItalic.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "AmplitudesItalic.woff2"
     },
     {
       "file": "AmplitudesSkewed.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "AmplitudesSkewed.woff2"
     },
     {
       "file": "AmplitudesStretched.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "AmplitudesStretched.woff2"
     }
   ],
   "notices": [

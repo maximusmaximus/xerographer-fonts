@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "sleeping in lecture.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "sleeping in lecture.woff2"
     }
   ],
   "notices": [],

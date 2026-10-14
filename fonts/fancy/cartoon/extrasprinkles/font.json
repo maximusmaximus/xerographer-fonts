@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "ExtraSprinkles.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ExtraSprinkles.woff2"
     }
   ],
   "notices": [],

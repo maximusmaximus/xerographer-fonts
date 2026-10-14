@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "LiteHand.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "LiteHand.woff2"
     }
   ],
   "notices": [],

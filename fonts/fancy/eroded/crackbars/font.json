@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "CrackBars.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "CrackBars.woff2"
     }
   ],
   "notices": [],

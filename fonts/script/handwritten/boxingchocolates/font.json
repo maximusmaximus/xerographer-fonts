@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "BoxingChocolates.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "BoxingChocolates.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Skullvetica.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Skullvetica.woff2"
     }
   ],
   "notices": [],

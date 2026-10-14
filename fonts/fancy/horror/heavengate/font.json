@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "HeavenGate.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "HeavenGate.woff2"
     }
   ],
   "notices": [],

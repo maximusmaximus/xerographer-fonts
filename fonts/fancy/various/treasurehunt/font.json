@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "TreasureHunt.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "TreasureHunt.woff2"
     }
   ],
   "notices": [],

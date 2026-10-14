@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "ThunderHead.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ThunderHead.woff2"
     }
   ],
   "notices": [],

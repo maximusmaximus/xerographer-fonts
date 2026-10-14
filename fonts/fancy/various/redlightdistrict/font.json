@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "RedlightDistrict.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "RedlightDistrict.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "ComicChub.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ComicChub.woff2"
     }
   ],
   "notices": [],

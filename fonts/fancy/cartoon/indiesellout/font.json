@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "IndieSellout.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "IndieSellout.woff2"
     }
   ],
   "notices": [],

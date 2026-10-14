@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "ShatterWeb.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ShatterWeb.woff2"
     }
   ],
   "notices": [],

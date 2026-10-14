@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Batt Marber.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Batt Marber.woff2"
     }
   ],
   "notices": [],

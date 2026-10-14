@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "BoneKing.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "BoneKing.woff2"
     }
   ],
   "notices": [],

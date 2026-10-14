@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "DirtyShocker.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "DirtyShocker.woff2"
     }
   ],
   "notices": [],

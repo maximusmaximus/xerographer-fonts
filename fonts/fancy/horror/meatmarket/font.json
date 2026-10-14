@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "MeatMarket.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "MeatMarket.woff2"
     }
   ],
   "notices": [],

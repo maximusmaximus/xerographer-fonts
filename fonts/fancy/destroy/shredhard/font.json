@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "ShredHard.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ShredHard.woff2"
     }
   ],
   "notices": [],

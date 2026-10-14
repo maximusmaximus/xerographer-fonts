@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "LiquorMarket.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "LiquorMarket.woff2"
     }
   ],
   "notices": [],

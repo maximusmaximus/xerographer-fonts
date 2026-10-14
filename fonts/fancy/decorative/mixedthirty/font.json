@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "MixedThirty.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "MixedThirty.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Postructure.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Postructure.woff2"
     }
   ],
   "notices": [],

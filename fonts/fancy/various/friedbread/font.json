@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "FriedBread.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "FriedBread.woff2"
     }
   ],
   "notices": [],

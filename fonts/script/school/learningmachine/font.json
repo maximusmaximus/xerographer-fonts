@@ -9,11 +9,13 @@
   "files": [
     {
       "file": "LearningMachine.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "LearningMachine.woff2"
     },
     {
       "file": "LearningMachineItalic.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "LearningMachineItalic.woff2"
     }
   ],
   "notices": [

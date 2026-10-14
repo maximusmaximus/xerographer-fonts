@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "CollegeScribble.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "CollegeScribble.woff2"
     }
   ],
   "notices": [],

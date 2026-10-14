@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "WantedPirates.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "WantedPirates.woff2"
     }
   ],
   "notices": [],

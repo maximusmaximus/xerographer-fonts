@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "HipsterBike.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "HipsterBike.woff2"
     }
   ],
   "notices": [],

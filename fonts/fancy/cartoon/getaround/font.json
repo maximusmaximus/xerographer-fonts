@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "GetAround.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "GetAround.woff2"
     }
   ],
   "notices": [],

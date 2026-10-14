@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Double Studio.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Double Studio.woff2"
     }
   ],
   "notices": [],

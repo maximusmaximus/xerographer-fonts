@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "RockBait.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "RockBait.woff2"
     }
   ],
   "notices": [],

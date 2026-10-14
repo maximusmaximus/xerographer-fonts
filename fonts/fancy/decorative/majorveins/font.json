@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "MajorVeins.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "MajorVeins.woff2"
     }
   ],
   "notices": [],

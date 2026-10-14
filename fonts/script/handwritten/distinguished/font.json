@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Distinguished.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Distinguished.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Brisquet.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Brisquet.woff2"
     }
   ],
   "notices": [],

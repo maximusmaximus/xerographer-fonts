@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "StampedEnvelopes.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "StampedEnvelopes.woff2"
     }
   ],
   "notices": [],

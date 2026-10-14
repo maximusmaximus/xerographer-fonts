@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "FunHaus.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "FunHaus.woff2"
     }
   ],
   "notices": [],

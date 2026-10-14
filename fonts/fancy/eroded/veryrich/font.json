@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "VeryRich.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "VeryRich.woff2"
     }
   ],
   "notices": [],

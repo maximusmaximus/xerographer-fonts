@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "WarmShowers.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "WarmShowers.woff2"
     }
   ],
   "notices": [],

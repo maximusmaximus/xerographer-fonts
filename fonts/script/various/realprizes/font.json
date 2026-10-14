@@ -9,11 +9,13 @@
   "files": [
     {
       "file": "RealPrizes-Italic.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "RealPrizes-Italic.woff2"
     },
     {
       "file": "RealPrizes-VeryItalic.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "RealPrizes-VeryItalic.woff2"
     }
   ],
   "notices": [],

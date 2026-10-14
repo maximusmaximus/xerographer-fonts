@@ -9,19 +9,23 @@
   "files": [
     {
       "file": "CreatureBuilderEars.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "CreatureBuilderEars.woff2"
     },
     {
       "file": "CreatureBuilderEyes.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "CreatureBuilderEyes.woff2"
     },
     {
       "file": "CreatureBuilderMouths.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "CreatureBuilderMouths.woff2"
     },
     {
       "file": "CreatureBuilderNose.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "CreatureBuilderNose.woff2"
     }
   ],
   "notices": [

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "ScratchyFun.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ScratchyFun.woff2"
     }
   ],
   "notices": [],

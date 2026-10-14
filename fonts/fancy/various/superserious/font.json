@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "SuperSerious.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "SuperSerious.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "LastHand.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "LastHand.woff2"
     }
   ],
   "notices": [],

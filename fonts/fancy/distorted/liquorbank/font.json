@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "LiquorBank.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "LiquorBank.woff2"
     }
   ],
   "notices": [],

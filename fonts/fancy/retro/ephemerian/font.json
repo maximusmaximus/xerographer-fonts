@@ -9,27 +9,33 @@
   "files": [
     {
       "file": "Ephemerian.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Ephemerian.woff2"
     },
     {
       "file": "EphemerianBold.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "EphemerianBold.woff2"
     },
     {
       "file": "EphemerianBoldItalic.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "EphemerianBoldItalic.woff2"
     },
     {
       "file": "EphemerianItalic.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "EphemerianItalic.woff2"
     },
     {
       "file": "EphemerianThin.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "EphemerianThin.woff2"
     },
     {
       "file": "EphemerianThinItalic.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "EphemerianThinItalic.woff2"
     }
   ],
   "notices": [],

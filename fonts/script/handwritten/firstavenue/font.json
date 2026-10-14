@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "FirstAvenue.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "FirstAvenue.woff2"
     }
   ],
   "notices": [],

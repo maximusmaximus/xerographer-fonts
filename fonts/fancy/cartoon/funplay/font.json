@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Funplay.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Funplay.woff2"
     }
   ],
   "notices": [],

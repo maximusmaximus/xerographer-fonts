@@ -9,11 +9,13 @@
   "files": [
     {
       "file": "IceCreamParty.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "IceCreamParty.woff2"
     },
     {
       "file": "IceCreamPartySolid.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "IceCreamPartySolid.woff2"
     }
   ],
   "notices": [],

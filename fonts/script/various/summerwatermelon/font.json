@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "SummerWatermelon.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "SummerWatermelon.woff2"
     }
   ],
   "notices": [],

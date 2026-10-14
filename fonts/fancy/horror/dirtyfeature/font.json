@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "DirtyFeature.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "DirtyFeature.woff2"
     }
   ],
   "notices": [],

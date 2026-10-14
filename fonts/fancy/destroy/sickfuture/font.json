@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "sickfuture.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "sickfuture.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "DoctorScratch.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "DoctorScratch.woff2"
     }
   ],
   "notices": [],

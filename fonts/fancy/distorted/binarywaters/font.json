@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "BinaryWaters.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "BinaryWaters.woff2"
     }
   ],
   "notices": [],

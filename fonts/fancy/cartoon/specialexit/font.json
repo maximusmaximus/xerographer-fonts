@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "SpecialExit.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "SpecialExit.woff2"
     }
   ],
   "notices": [],

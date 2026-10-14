@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "BurgerHut.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "BurgerHut.woff2"
     }
   ],
   "notices": [],

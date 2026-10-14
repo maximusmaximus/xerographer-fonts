@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "GrapeBlaster.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "GrapeBlaster.woff2"
     }
   ],
   "notices": [],

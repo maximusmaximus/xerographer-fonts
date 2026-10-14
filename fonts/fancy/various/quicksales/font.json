@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "QuickSales.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "QuickSales.woff2"
     }
   ],
   "notices": [],

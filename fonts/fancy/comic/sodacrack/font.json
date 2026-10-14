@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "SodaCrack.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "SodaCrack.woff2"
     }
   ],
   "notices": [],

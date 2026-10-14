@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Boublies.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Boublies.woff2"
     }
   ],
   "notices": [],

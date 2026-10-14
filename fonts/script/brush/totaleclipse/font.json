@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "TotalEclipse.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "TotalEclipse.woff2"
     }
   ],
   "notices": [],

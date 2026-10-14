@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "negative.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "negative.woff2"
     }
   ],
   "notices": [],

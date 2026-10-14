@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "SlashThirty.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "SlashThirty.woff2"
     }
   ],
   "notices": [],

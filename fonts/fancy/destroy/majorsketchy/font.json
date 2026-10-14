@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "MajorSketchy.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "MajorSketchy.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "FreshWaters.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "FreshWaters.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "FallGreetings.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "FallGreetings.woff2"
     }
   ],
   "notices": [],

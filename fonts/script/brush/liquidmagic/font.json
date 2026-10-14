@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "LiquidMagic.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "LiquidMagic.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "PaintBalls.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "PaintBalls.woff2"
     }
   ],
   "notices": [],

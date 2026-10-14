@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "BlockWood.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "BlockWood.woff2"
     }
   ],
   "notices": [],

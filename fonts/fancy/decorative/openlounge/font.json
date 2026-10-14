@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "OpenLounge.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "OpenLounge.woff2"
     }
   ],
   "notices": [],

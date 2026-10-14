@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "AnimalPlanet.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "AnimalPlanet.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "ExtraFineScript2.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ExtraFineScript2.woff2"
     }
   ],
   "notices": [],

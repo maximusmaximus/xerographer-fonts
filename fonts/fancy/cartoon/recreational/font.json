@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Recreational.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Recreational.woff2"
     }
   ],
   "notices": [],

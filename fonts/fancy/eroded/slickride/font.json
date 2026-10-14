@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "SlickRide.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "SlickRide.woff2"
     }
   ],
   "notices": [],

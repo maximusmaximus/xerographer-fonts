@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "SlashKing.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "SlashKing.woff2"
     }
   ],
   "notices": [],

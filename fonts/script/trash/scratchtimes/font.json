@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "ScratchTimes.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ScratchTimes.woff2"
     }
   ],
   "notices": [],

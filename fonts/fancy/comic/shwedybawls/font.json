@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "ShwedyBawls.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ShwedyBawls.woff2"
     }
   ],
   "notices": [],

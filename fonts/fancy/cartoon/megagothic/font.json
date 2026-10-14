@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "MegaGothic.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "MegaGothic.woff2"
     }
   ],
   "notices": [],

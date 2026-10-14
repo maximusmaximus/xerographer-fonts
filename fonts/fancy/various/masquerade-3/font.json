@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Masquerade.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Masquerade.woff2"
     }
   ],
   "notices": [],

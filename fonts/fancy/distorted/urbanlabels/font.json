@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "UrbanLabels.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "UrbanLabels.woff2"
     }
   ],
   "notices": [],

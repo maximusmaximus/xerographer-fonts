@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "PrinceCharming.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "PrinceCharming.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Perceptual.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Perceptual.woff2"
     }
   ],
   "notices": [],

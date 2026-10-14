@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "DotTricks.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "DotTricks.woff2"
     }
   ],
   "notices": [],

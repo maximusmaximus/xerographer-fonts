@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "StripeDisco.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "StripeDisco.woff2"
     }
   ],
   "notices": [],

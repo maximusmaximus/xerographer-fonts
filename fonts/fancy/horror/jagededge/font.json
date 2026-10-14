@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "JagedEdge.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "JagedEdge.woff2"
     }
   ],
   "notices": [],

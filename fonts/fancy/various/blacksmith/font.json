@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "BlackSmith.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "BlackSmith.woff2"
     }
   ],
   "notices": [],

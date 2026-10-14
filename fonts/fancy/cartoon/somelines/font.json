@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "SomeLines.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "SomeLines.woff2"
     }
   ],
   "notices": [],

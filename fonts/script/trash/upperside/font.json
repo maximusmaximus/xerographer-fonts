@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "UpperSide.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "UpperSide.woff2"
     }
   ],
   "notices": [],

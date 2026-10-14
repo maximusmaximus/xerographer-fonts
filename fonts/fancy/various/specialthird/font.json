@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "SpecialThird.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "SpecialThird.woff2"
     }
   ],
   "notices": [],

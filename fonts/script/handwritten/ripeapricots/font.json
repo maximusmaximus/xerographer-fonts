@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "RipeApricots.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "RipeApricots.woff2"
     }
   ],
   "notices": [],

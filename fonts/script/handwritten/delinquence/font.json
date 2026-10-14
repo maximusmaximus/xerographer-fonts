@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Delinquence.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Delinquence.woff2"
     }
   ],
   "notices": [],

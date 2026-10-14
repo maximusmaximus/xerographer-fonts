@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "TotallyStraight.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "TotallyStraight.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Stick Tickle.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Stick Tickle.woff2"
     }
   ],
   "notices": [],

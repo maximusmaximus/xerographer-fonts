@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "FinalDays.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "FinalDays.woff2"
     }
   ],
   "notices": [],

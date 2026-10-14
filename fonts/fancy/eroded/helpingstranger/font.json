@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "HelpingStranger.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "HelpingStranger.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "QuitWork.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "QuitWork.woff2"
     }
   ],
   "notices": [],

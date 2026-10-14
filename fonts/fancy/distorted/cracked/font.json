@@ -9,15 +9,18 @@
   "files": [
     {
       "file": "Cracked-Narrow.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Cracked-Narrow.woff2"
     },
     {
       "file": "Cracked-NarrowItalic.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Cracked-NarrowItalic.woff2"
     },
     {
       "file": "Cracked-Wide.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Cracked-Wide.woff2"
     }
   ],
   "notices": [

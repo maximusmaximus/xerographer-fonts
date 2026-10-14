@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "SpotLights.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "SpotLights.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "HighFlight.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "HighFlight.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "CrackDeco.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "CrackDeco.woff2"
     }
   ],
   "notices": [],

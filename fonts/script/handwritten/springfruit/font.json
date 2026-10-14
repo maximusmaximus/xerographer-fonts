@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "SpringFruit.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "SpringFruit.woff2"
     }
   ],
   "notices": [],

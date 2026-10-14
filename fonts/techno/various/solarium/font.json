@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Solarium.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Solarium.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "MuskyDawn.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "MuskyDawn.woff2"
     }
   ],
   "notices": [],

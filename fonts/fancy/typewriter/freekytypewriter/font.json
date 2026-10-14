@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "FreekyTypewriter.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "FreekyTypewriter.woff2"
     }
   ],
   "notices": [],

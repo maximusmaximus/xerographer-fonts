@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "SurfPoint.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "SurfPoint.woff2"
     }
   ],
   "notices": [],

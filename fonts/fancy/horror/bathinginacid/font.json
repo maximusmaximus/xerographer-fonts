@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "bathinginacid.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "bathinginacid.woff2"
     }
   ],
   "notices": [],

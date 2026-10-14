@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "SpringRage.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "SpringRage.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "WindyMetro.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "WindyMetro.woff2"
     }
   ],
   "notices": [],

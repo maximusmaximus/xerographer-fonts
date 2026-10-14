@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "BakedTrains.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "BakedTrains.woff2"
     }
   ],
   "notices": [],

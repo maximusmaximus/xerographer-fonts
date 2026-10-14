@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "BernalHeights.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "BernalHeights.woff2"
     }
   ],
   "notices": [],

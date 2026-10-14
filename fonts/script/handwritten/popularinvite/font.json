@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "PopularInvite.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "PopularInvite.woff2"
     }
   ],
   "notices": [],

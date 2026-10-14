@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "DirtyLocals.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "DirtyLocals.woff2"
     }
   ],
   "notices": [],

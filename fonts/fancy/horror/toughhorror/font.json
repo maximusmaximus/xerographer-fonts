@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "ToughHorror.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ToughHorror.woff2"
     }
   ],
   "notices": [],

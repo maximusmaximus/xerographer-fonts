@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "EventMaker.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "EventMaker.woff2"
     }
   ],
   "notices": [],

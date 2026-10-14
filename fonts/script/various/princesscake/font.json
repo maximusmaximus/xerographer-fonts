@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "PrincessCake.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "PrincessCake.woff2"
     }
   ],
   "notices": [],

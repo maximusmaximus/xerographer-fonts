@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "CollegeBytes.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "CollegeBytes.woff2"
     }
   ],
   "notices": [],

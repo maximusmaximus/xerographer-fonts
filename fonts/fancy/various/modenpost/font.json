@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "ModernPost.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ModernPost.woff2"
     }
   ],
   "notices": [],

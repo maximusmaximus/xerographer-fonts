@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "GrapeSoda.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "GrapeSoda.woff2"
     }
   ],
   "notices": [],

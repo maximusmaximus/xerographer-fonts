@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "CollegeThrash.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "CollegeThrash.woff2"
     }
   ],
   "notices": [],

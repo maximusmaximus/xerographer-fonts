@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Prescribe.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Prescribe.woff2"
     }
   ],
   "notices": [],

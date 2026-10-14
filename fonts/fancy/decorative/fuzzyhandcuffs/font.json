@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Fuzzyhandcuffs.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Fuzzyhandcuffs.woff2"
     }
   ],
   "notices": [],

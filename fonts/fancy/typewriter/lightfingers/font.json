@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "LightFingers.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "LightFingers.woff2"
     }
   ],
   "notices": [],

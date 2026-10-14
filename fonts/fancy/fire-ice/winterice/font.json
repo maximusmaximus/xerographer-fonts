@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "WinterIce.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "WinterIce.woff2"
     }
   ],
   "notices": [],

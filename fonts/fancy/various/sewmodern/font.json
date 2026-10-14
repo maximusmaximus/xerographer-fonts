@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "SewModern.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "SewModern.woff2"
     }
   ],
   "notices": [],

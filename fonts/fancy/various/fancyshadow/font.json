@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "FancyShadow.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "FancyShadow.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "FreakyNight.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "FreakyNight.woff2"
     }
   ],
   "notices": [],

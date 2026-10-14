@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "ClubNight.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ClubNight.woff2"
     }
   ],
   "notices": [],

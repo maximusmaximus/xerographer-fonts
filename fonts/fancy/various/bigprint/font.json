@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "BigPrint.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "BigPrint.woff2"
     }
   ],
   "notices": [],

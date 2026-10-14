@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "TwinkleFingers.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "TwinkleFingers.woff2"
     }
   ],
   "notices": [],

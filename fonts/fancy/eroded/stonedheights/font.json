@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "StonedHeights.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "StonedHeights.woff2"
     }
   ],
   "notices": [],

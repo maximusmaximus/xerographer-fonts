@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "SpecialBrand.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "SpecialBrand.woff2"
     }
   ],
   "notices": [],

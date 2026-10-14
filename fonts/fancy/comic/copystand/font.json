@@ -9,11 +9,13 @@
   "files": [
     {
       "file": "CopyStand hollow.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "CopyStand hollow.woff2"
     },
     {
       "file": "CopyStand.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "CopyStand.woff2"
     }
   ],
   "notices": [],

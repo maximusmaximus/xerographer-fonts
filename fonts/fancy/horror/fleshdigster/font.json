@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "FleshDigster.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "FleshDigster.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "BrightSigns.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "BrightSigns.woff2"
     }
   ],
   "notices": [],

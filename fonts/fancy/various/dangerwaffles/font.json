@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "DangerWaffles.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "DangerWaffles.woff2"
     }
   ],
   "notices": [],

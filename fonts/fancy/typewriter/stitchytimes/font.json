@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "StitchyTimes.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "StitchyTimes.woff2"
     }
   ],
   "notices": [],

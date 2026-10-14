@@ -9,31 +9,38 @@
   "files": [
     {
       "file": "Mastum.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Mastum.woff2"
     },
     {
       "file": "MastumBold.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "MastumBold.woff2"
     },
     {
       "file": "MastumBoldItalic.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "MastumBoldItalic.woff2"
     },
     {
       "file": "MastumHollow.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "MastumHollow.woff2"
     },
     {
       "file": "MastumItalic.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "MastumItalic.woff2"
     },
     {
       "file": "MastumThin.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "MastumThin.woff2"
     },
     {
       "file": "MastumThinItalic.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "MastumThinItalic.woff2"
     }
   ],
   "notices": [],

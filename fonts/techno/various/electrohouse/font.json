@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "electrohouse.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "electrohouse.woff2"
     }
   ],
   "notices": [],

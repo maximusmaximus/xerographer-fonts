@@ -9,35 +9,43 @@
   "files": [
     {
       "file": "Fonderian-Black.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Fonderian-Black.woff2"
     },
     {
       "file": "Fonderian-BlackStencil.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Fonderian-BlackStencil.woff2"
     },
     {
       "file": "Fonderian-Bold.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Fonderian-Bold.woff2"
     },
     {
       "file": "Fonderian-Fineline.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Fonderian-Fineline.woff2"
     },
     {
       "file": "Fonderian-Hollow.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Fonderian-Hollow.woff2"
     },
     {
       "file": "Fonderian-Italic.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Fonderian-Italic.woff2"
     },
     {
       "file": "Fonderian-Skinny.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Fonderian-Skinny.woff2"
     },
     {
       "file": "Fonderian.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Fonderian.woff2"
     }
   ],
   "notices": [],

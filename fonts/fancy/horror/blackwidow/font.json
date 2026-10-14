@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "BlackWidow.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "BlackWidow.woff2"
     }
   ],
   "notices": [],

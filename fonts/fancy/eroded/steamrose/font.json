@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "SteamRose.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "SteamRose.woff2"
     }
   ],
   "notices": [],

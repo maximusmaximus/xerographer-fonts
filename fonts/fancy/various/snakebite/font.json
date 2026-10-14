@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "SnakeBite.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "SnakeBite.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "black spiral.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "black spiral.woff2"
     }
   ],
   "notices": [],

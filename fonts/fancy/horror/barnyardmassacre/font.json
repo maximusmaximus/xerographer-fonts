@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "BarnyardMassacre.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "BarnyardMassacre.woff2"
     }
   ],
   "notices": [],

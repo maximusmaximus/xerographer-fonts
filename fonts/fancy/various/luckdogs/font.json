@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "LuckyDogs.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "LuckyDogs.woff2"
     }
   ],
   "notices": [],

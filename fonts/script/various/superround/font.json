@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "SuperRound.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "SuperRound.woff2"
     }
   ],
   "notices": [],

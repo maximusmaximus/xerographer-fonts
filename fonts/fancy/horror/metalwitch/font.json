@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "MetalWitch.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "MetalWitch.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "RobustlyBrewing.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "RobustlyBrewing.woff2"
     }
   ],
   "notices": [],

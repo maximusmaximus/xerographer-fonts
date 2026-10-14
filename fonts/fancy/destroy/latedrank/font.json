@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "LateDrank.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "LateDrank.woff2"
     }
   ],
   "notices": [],

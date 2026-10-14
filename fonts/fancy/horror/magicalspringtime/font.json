@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "MagicalSpringtime.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "MagicalSpringtime.woff2"
     }
   ],
   "notices": [],

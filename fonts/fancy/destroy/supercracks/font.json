@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "SuperCracks.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "SuperCracks.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "ZombieTreats.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ZombieTreats.woff2"
     }
   ],
   "notices": [],

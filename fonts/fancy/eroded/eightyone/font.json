@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "EightyOne.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "EightyOne.woff2"
     }
   ],
   "notices": [],

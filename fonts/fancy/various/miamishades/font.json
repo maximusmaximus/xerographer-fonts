@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "MiamiShades.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "MiamiShades.woff2"
     }
   ],
   "notices": [],

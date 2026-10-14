@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "VisualMagnets.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "VisualMagnets.woff2"
     }
   ],
   "notices": [],

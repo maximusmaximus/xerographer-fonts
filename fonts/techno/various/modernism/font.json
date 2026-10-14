@@ -9,31 +9,38 @@
   "files": [
     {
       "file": "Modernism-Bold.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Modernism-Bold.woff2"
     },
     {
       "file": "Modernism-Disco.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Modernism-Disco.woff2"
     },
     {
       "file": "Modernism-Narrow.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Modernism-Narrow.woff2"
     },
     {
       "file": "Modernism-RoundedBold.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Modernism-RoundedBold.woff2"
     },
     {
       "file": "Modernism-Short.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Modernism-Short.woff2"
     },
     {
       "file": "Modernism-Stoke.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Modernism-Stoke.woff2"
     },
     {
       "file": "Modernism.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Modernism.woff2"
     }
   ],
   "notices": [

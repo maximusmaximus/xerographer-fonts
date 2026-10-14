@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Carve Your Table.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Carve Your Table.woff2"
     }
   ],
   "notices": [],

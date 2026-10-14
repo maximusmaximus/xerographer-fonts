@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "DigitalStream.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "DigitalStream.woff2"
     }
   ],
   "notices": [],

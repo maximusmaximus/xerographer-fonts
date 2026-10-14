@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "CrispyBones.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "CrispyBones.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "QuicklyWrite.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "QuicklyWrite.woff2"
     }
   ],
   "notices": [],

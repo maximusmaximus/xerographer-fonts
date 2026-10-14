@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "WasteFactory.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "WasteFactory.woff2"
     }
   ],
   "notices": [],

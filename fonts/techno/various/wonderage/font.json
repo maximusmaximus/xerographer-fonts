@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "WonderAge.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "WonderAge.woff2"
     }
   ],
   "notices": [],

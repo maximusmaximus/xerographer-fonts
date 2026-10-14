@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "LateNoise.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "LateNoise.woff2"
     }
   ],
   "notices": [],

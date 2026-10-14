@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "SolidMarker.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "SolidMarker.woff2"
     }
   ],
   "notices": [],

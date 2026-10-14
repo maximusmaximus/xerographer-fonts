@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "CaliforniaDelights.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "CaliforniaDelights.woff2"
     }
   ],
   "notices": [],

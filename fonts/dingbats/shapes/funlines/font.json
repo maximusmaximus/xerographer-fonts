@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "funlines.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "funlines.woff2"
     }
   ],
   "notices": [],

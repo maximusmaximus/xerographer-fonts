@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "DealMaker.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "DealMaker.woff2"
     }
   ],
   "notices": [],

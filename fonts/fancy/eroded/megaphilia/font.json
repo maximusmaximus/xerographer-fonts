@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Megaphilia.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Megaphilia.woff2"
     }
   ],
   "notices": [],

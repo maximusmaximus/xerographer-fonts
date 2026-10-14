@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "WalkingDead.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "WalkingDead.woff2"
     }
   ],
   "notices": [],

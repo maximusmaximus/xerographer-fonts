@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "PiratesBay.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "PiratesBay.woff2"
     }
   ],
   "notices": [],

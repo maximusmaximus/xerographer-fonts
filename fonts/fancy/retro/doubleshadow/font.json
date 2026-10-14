@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "DoubleShadow.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "DoubleShadow.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "GrungeShack.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "GrungeShack.woff2"
     }
   ],
   "notices": [],

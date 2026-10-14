@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "FairHouse.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "FairHouse.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "CouperBlaque.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "CouperBlaque.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "ForSale.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ForSale.woff2"
     }
   ],
   "notices": [],

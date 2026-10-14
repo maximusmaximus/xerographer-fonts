@@ -9,27 +9,33 @@
   "files": [
     {
       "file": "SwingarmYori-Light.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "SwingarmYori-Light.woff2"
     },
     {
       "file": "SwingarmYori-LightItalic.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "SwingarmYori-LightItalic.woff2"
     },
     {
       "file": "SwingarmYori-Medium.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "SwingarmYori-Medium.woff2"
     },
     {
       "file": "SwingarmYori-Thick.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "SwingarmYori-Thick.woff2"
     },
     {
       "file": "SwingarmYori-ThickHollow.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "SwingarmYori-ThickHollow.woff2"
     },
     {
       "file": "SwingarmYori-ThickItalic.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "SwingarmYori-ThickItalic.woff2"
     }
   ],
   "notices": [],

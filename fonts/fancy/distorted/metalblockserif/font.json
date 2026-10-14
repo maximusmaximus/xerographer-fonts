@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "MetalBlockSerif.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "MetalBlockSerif.woff2"
     }
   ],
   "notices": [],

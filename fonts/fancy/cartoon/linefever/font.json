@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "LineFever.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "LineFever.woff2"
     }
   ],
   "notices": [],

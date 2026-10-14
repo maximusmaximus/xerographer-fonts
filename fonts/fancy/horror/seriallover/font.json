@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "SerialLover.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "SerialLover.woff2"
     }
   ],
   "notices": [],

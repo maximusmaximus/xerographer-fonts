@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "RoughPath.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "RoughPath.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "BlockParty.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "BlockParty.woff2"
     }
   ],
   "notices": [],

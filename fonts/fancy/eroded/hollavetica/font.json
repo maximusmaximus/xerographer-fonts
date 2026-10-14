@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "hollavetica.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "hollavetica.woff2"
     }
   ],
   "notices": [],

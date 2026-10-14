@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "ThrashParty.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ThrashParty.woff2"
     }
   ],
   "notices": [],

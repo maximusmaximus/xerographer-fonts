@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "RightBrewV2.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "RightBrewV2.woff2"
     }
   ],
   "notices": [],

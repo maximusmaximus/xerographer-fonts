@@ -9,11 +9,13 @@
   "files": [
     {
       "file": "nighthour solid.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "nighthour solid.woff2"
     },
     {
       "file": "nighthour.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "nighthour.woff2"
     }
   ],
   "notices": [],

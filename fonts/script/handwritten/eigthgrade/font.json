@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "EigthGrade.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "EigthGrade.woff2"
     }
   ],
   "notices": [],

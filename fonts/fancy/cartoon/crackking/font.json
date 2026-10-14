@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "CrackKing.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "CrackKing.woff2"
     }
   ],
   "notices": [],

@@ -9,15 +9,18 @@
   "files": [
     {
       "file": "liner stencil bold.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "liner stencil bold.woff2"
     },
     {
       "file": "liner stencil thin.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "liner stencil thin.woff2"
     },
     {
       "file": "liner stencil.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "liner stencil.woff2"
     }
   ],
   "notices": [],

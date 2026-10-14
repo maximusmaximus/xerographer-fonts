@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "SurfShack.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "SurfShack.woff2"
     }
   ],
   "notices": [],

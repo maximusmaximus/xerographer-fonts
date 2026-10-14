@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "PushingSticks.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "PushingSticks.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "HugeParty.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "HugeParty.woff2"
     }
   ],
   "notices": [],

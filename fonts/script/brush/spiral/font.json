@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Spiral.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Spiral.woff2"
     }
   ],
   "notices": [],

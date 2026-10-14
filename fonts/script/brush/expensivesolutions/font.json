@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "ExpensiveSolutions.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "ExpensiveSolutions.woff2"
     }
   ],
   "notices": [],

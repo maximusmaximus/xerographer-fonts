@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "drunk tattoo.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "drunk tattoo.woff2"
     }
   ],
   "notices": [],

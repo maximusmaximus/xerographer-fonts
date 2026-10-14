@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "GotFaded.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "GotFaded.woff2"
     }
   ],
   "notices": [],

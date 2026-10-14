@@ -9,11 +9,13 @@
   "files": [
     {
       "file": "turds soft.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "turds soft.woff2"
     },
     {
       "file": "turds.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "turds.woff2"
     }
   ],
   "notices": [],

@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "StripeFun.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "StripeFun.woff2"
     }
   ],
   "notices": [],

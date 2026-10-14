@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "skinnyserifV2.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "skinnyserifV2.woff2"
     }
   ],
   "notices": [],

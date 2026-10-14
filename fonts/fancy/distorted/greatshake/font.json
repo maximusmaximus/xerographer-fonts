@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "GreatShake.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "GreatShake.woff2"
     }
   ],
   "notices": [],

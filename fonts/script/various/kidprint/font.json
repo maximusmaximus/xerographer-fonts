@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "KidPrint.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "KidPrint.woff2"
     }
   ],
   "notices": [],

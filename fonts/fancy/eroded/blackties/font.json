@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "BlackTies.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "BlackTies.woff2"
     }
   ],
   "notices": [],

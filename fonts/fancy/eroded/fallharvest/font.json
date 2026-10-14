@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "FallHarvest.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "FallHarvest.woff2"
     }
   ],
   "notices": [],

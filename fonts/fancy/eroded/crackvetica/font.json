@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "Crackvetica.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "Crackvetica.woff2"
     }
   ],
   "notices": [],

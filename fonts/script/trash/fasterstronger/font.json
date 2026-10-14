@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "FasterStonger.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "FasterStonger.woff2"
     }
   ],
   "notices": [],

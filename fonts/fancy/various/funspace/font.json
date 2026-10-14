@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "FunSpace.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "FunSpace.woff2"
     }
   ],
   "notices": [],

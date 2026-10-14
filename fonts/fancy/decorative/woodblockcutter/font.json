@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "WoodblockCutter.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "WoodblockCutter.woff2"
     }
   ],
   "notices": [],

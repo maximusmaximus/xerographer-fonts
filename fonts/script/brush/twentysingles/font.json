@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "TwentySingles.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "TwentySingles.woff2"
     }
   ],
   "notices": [],

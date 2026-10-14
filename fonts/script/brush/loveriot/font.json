@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "LoveRiot.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "LoveRiot.woff2"
     }
   ],
   "notices": [],

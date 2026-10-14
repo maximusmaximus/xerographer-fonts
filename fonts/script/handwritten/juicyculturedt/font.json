@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "JuicyCultureDT.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "JuicyCultureDT.woff2"
     }
   ],
   "notices": [],

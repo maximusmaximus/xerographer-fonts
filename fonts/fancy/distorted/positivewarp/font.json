@@ -9,7 +9,8 @@
   "files": [
     {
       "file": "PositiveWarp.ttf",
-      "format": "ttf"
+      "format": "ttf",
+      "woff2": "PositiveWarp.woff2"
     }
   ],
   "notices": [],
