@@ -23,6 +23,36 @@ const records = files.map((file) => ({
 }));
 records.sort((a, b) => a.font.category.localeCompare(b.font.category) || a.font.subcategory.localeCompare(b.font.subcategory) || a.font.name.localeCompare(b.font.name));
 
+// Coverage block written by the glyph-expansion batches (font.json "coverage").
+function pct(value) {
+  const n = parseFloat(String(value ?? "").replace("%", ""));
+  return Number.isFinite(n) ? n : null;
+}
+function coverageSummary(cov) {
+  const latin1 = pct(cov.latin1);
+  const latinExtendedA = pct(cov.latinExtendedA);
+  const languages = [];
+  if (latin1 !== null && latin1 >= 90) languages.push("Latin-1");
+  if (latinExtendedA !== null && latinExtendedA >= 95) languages.push("Central European");
+  return {
+    latin1,
+    latinExtendedA,
+    glyphs: cov.glyphs ?? null,
+    languages,
+    supportsAccents: languages.length > 0,
+    updated: cov.updated ?? null,
+  };
+}
+function badges(cov) {
+  if (!cov) return "";
+  const s = coverageSummary(cov);
+  const parts = [];
+  if (s.latin1 !== null) parts.push(s.latin1 >= 100 ? "Latin-1" : `Latin-1 ${s.latin1}%`);
+  if (s.latinExtendedA !== null) parts.push(s.latinExtendedA >= 100 ? "Central European" : `Central European ${s.latinExtendedA}%`);
+  if (s.glyphs) parts.push(`${s.glyphs} glyphs`);
+  return parts.length ? ` · ${parts.map((p) => `\`${p}\``).join(" ")}` : "";
+}
+
 const existing = JSON.parse(fs.readFileSync(path.join(ROOT, "catalog.json"), "utf8"));
 existing.stats.typefaces = records.length;
 existing.stats.fontFiles = records.reduce((n, row) => n + row.font.files.length, 0);
@@ -35,7 +65,9 @@ existing.fonts = records.map((row) => ({
   files: row.font.files.map((file) => file.file),
   catalog: row.font.catalog || `${CATALOG}/font/${row.font.slug}`,
   path: row.rel,
+  ...(row.font.coverage ? { coverage: coverageSummary(row.font.coverage) } : {}),
 }));
+existing.stats.facesWithAccents = records.filter((row) => row.font.coverage).length;
 fs.writeFileSync(path.join(ROOT, "catalog.json"), JSON.stringify(existing, null, 2) + "\n");
 
 let md = `# Every typeface\n\n${records.length.toLocaleString("en-US")} faces. ${existing.stats.fontFiles.toLocaleString("en-US")} font files. Each name opens the files in this repository. Each catalog link opens that face on [fonts.grok.me](${CATALOG}).\n\nCopyright © Max Infeld. Commercial licensing: [${CONTACT}](mailto:${CONTACT}).\n\n`;
@@ -43,12 +75,14 @@ let current = "";
 for (const row of records) {
   const heading = `${row.font.category} · ${row.font.subcategory}`;
   if (heading !== current) {
+    // Blank line before every heading after the first, matching the committed FONTS.md.
+    if (current !== "") md += "\n";
     current = heading;
     md += `## ${heading}\n\n`;
   }
   const extra = row.font.files.length > 1 ? ` · ${row.font.files.length} files` : "";
   const catalog = row.font.catalog || `${CATALOG}/font/${row.font.slug}`;
-  md += `- [${row.font.name}](${row.rel}) — [catalog](${catalog})${extra}\n`;
+  md += `- [${row.font.name}](${row.rel}) — [catalog](${catalog})${extra}${badges(row.font.coverage)}\n`;
 }
 fs.writeFileSync(path.join(ROOT, "FONTS.md"), md + "\n");
 console.log(`indexed ${records.length} faces (${existing.stats.fontFiles} files)`);
