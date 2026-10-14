@@ -61,5 +61,12 @@
     "personal": "Donationware",
     "commercial": "Contact maxinfeld@gmail.com — US$95 per typeface, or US$65,000 for the entire catalog, one licensee.",
     "contact": "maxinfeld@gmail.com"
+  },
+  "coverage": {
+    "latin1": "100%",
+    "punctuation": "100%",
+    "glyphs": 206,
+    "updated": "2026-10-13",
+    "note": "Pilot batch 2: full Latin-1 plus common punctuation/currency synthesized from existing glyphs (all 11 cuts). Designer review recommended."
   }
 }
