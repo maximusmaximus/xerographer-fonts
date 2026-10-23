@@ -39,6 +39,23 @@ Every face has a page on the Xerographer Fonts catalog, where you can set type, 
 - A face: https://fonts.grok.me/font/funsized
 - Every face: [FONTS.md](FONTS.md)
 
+## Agentic font licensing
+
+AI agents can find, preview and license Xerographer faces for commercial use on their own: https://fonts.grok.me/agents
+
+## The Specimen Ledger (book)
+
+The **Xerographer Specimen Ledger** sets all 1,376 typefaces in one 530-page hardcover, 11.75 × 11.75 in, printed in full color on 100# gloss. It is a numbered limited edition of 500 copies at $250, plus shipping and sales tax, and it ships to the continental US. Details and ordering: https://fonts.grok.me/book
+
+### Free poster: the full book cover
+
+[![Specimen Ledger wraparound cover](https://pub-fc606df28da84dbabc0f8782d8ab944e.r2.dev/xerographer-fonts/specimen-ledger-cover-poster-preview.jpg)](https://pub-fc606df28da84dbabc0f8782d8ab944e.r2.dev/xerographer-fonts/specimen-ledger-cover-poster.pdf)
+
+The approved wraparound cover (back, spine and front, 27 × 13.5 in) is free to download and print as a poster:
+
+- Print-ready PDF (13.5 MB): https://pub-fc606df28da84dbabc0f8782d8ab944e.r2.dev/xerographer-fonts/specimen-ledger-cover-poster.pdf
+- High-res JPG, 300 ppi, 8102 × 4050 px (9.4 MB): https://pub-fc606df28da84dbabc0f8782d8ab944e.r2.dev/xerographer-fonts/specimen-ledger-cover-poster-300ppi.jpg
+
 ## Sources
 
 The same library is listed, in whole or in part, on:
