@@ -26,6 +26,12 @@
     "latinExtendedA": "100%",
     "glyphs": 314,
     "updated": "2026-10-14",
-    "note": "Batch 4 (top downloads): Latin-1, punctuation/currency and Latin Extended-A, built from the font's own parts plus drafted generic geometric marks/punctuation where the font had none. Designer review recommended."
+    "note": "Batch 4 (top downloads): Latin-1, punctuation/currency and Latin Extended-A, built from the font's own parts plus drafted generic geometric marks/punctuation where the font had none. Designer review recommended.",
+    "version": "1.12",
+    "glyphFixes": {
+      "version": "1.12",
+      "updated": "2026-10-27",
+      "note": "v1.12: dieresis and dot-above accents rebuilt from the font's own period; ß = the font's S S pair; ð = the font's crossed D."
+    }
   }
 }
