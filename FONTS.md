@@ -239,7 +239,7 @@ Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxi
 - [Forgivable Sin](fonts/fancy/curly/forgivablesin) — [catalog](https://fonts.grok.me/font/forgivablesin)
 - [French Sugar](fonts/fancy/curly/frenchsugar) — [catalog](https://fonts.grok.me/font/frenchsugar)
 - [Spring Tyme](fonts/fancy/curly/springtyme) — [catalog](https://fonts.grok.me/font/springtyme)
-- [Swirl Insertion](fonts/fancy/curly/swirlinsertion) — [catalog](https://fonts.grok.me/font/swirlinsertion) · `Latin-1 92.7%` `Central European` `305 glyphs`
+- [Swirl Insertion](fonts/fancy/curly/swirlinsertion) — [catalog](https://fonts.grok.me/font/swirlinsertion) · `Latin-1 93.8%` `Central European` `306 glyphs`
 - [Wine Tasting](fonts/fancy/curly/winetasting) — [catalog](https://fonts.grok.me/font/winetasting)
 
 ## Fancy · Decorative
