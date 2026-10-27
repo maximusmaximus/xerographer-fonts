@@ -27,7 +27,7 @@
     "glyphs": 329,
     "updated": "2026-10-14",
     "note": "Batch 4 (top downloads): Latin-1, punctuation/currency and Latin Extended-A, built from the font's own parts plus drafted generic geometric marks/punctuation where the font had none. Designer review recommended.",
-    "version": "1.11",
+    "version": "1.12",
     "opentype": {
       "mark": true,
       "mkmk": true,
@@ -36,6 +36,11 @@
       "legacyKernTable": true,
       "updated": "2026-10-14",
       "note": "v1.11: GPOS mark/mkmk anchors derived from the accented glyph placements, combining marks U+0300–U+0328 added, conservative auto class kerning (accented letters inherit their base's class), flat legacy kern table kept for DaFont/GD previews."
+    },
+    "glyphFixes": {
+      "version": "1.12",
+      "updated": "2026-10-27",
+      "note": "v1.12: ß = the font's own s s pair (the previous ß read as B / I3)."
     }
   }
 }
