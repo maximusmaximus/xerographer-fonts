@@ -2605,9 +2605,9 @@
       "catalog": "https://fonts.grok.me/font/swirlinsertion",
       "path": "fonts/fancy/curly/swirlinsertion",
       "coverage": {
-        "latin1": 92.7,
+        "latin1": 93.8,
         "latinExtendedA": 100,
-        "glyphs": 305,
+        "glyphs": 306,
         "languages": [
           "Latin-1",
           "Central European"
