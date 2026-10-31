@@ -14,7 +14,7 @@ Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxi
 - [Pony Maker](fonts/basic/various/ponymaker) — [catalog](https://fonts.grok.me/font/ponymaker) · `Latin-1` `Central European` `323 glyphs`
 - [Quagent](fonts/basic/various/quagent) — [catalog](https://fonts.grok.me/font/quagent) · 2 files · `Latin-1` `Central European` `346 glyphs`
 - [Serifvetika](fonts/basic/various/serifvetika) — [catalog](https://fonts.grok.me/font/serifvetika) · `Latin-1` `Central European` `314 glyphs`
-- [Xelita](fonts/basic/various/xelita) — [catalog](https://fonts.grok.me/font/xelita) · 3 files · `Latin-1 75%` `Central European` `332 glyphs`
+- [Xelita](fonts/basic/various/xelita) — [catalog](https://fonts.grok.me/font/xelita) · 3 files · `Latin-1` `Central European` `356 glyphs`
 
 ## Dingbats · Animals
 
