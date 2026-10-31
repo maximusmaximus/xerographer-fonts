@@ -216,10 +216,11 @@
       "catalog": "https://fonts.grok.me/font/xelita",
       "path": "fonts/basic/various/xelita",
       "coverage": {
-        "latin1": 75,
+        "latin1": 100,
         "latinExtendedA": 100,
-        "glyphs": 332,
+        "glyphs": 356,
         "languages": [
+          "Latin-1",
           "Central European"
         ],
         "supportsAccents": true,

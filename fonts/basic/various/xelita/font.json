@@ -32,12 +32,12 @@
     "contact": "maxinfeld@gmail.com"
   },
   "coverage": {
-    "latin1": "75.0%",
+    "latin1": "100%",
     "latinExtendedA": "100%",
-    "glyphs": 332,
+    "glyphs": 356,
     "updated": "2026-10-13",
     "note": "Pilot batch 1: full Latin Extended-A (composites from the font's own marks plus drafted new marks and special letters). Designer review recommended.",
-    "version": "1.11",
+    "version": "1.12",
     "opentype": {
       "mark": true,
       "mkmk": true,
@@ -46,6 +46,11 @@
       "legacyKernTable": true,
       "updated": "2026-10-14",
       "note": "v1.11: GPOS mark/mkmk anchors derived from the accented glyph placements, combining marks U+0300–U+0328 added, conservative auto class kerning (accented letters inherit their base's class), flat legacy kern table kept for DaFont/GD previews."
+    },
+    "glyphFixes": {
+      "version": "1.12",
+      "updated": "2026-10-31",
+      "note": "v1.12: ō ŏ ő œ ð rebuilt on the font's round accented-o bowl; added ¢ ¤ ¦ § © ª « ¬ ® ° ± ² ³ µ ¶ · ¹ º » ¼ ½ ¾ Þ ß (ß = the font's s s pair), built from the font's own glyphs."
     }
   }
 }
