@@ -27,7 +27,7 @@
     "glyphs": 218,
     "updated": "2026-10-13",
     "note": "Pilot batch 2: full Latin-1 plus common punctuation/currency synthesized from existing glyphs. Designer review recommended.",
-    "version": "1.11",
+    "version": "1.12",
     "opentype": {
       "mark": true,
       "mkmk": true,
@@ -36,6 +36,11 @@
       "legacyKernTable": false,
       "updated": "2026-10-14",
       "note": "v1.11: GPOS mark/mkmk anchors derived from the accented glyph placements, combining marks U+0300–U+0328 added, conservative auto class kerning (accented letters inherit their base's class), flat legacy kern table kept for DaFont/GD previews. Kerning skipped: script face (connected strokes); auto-kerning skipped"
+    },
+    "glyphFixes": {
+      "version": "1.12",
+      "updated": "2026-11-04",
+      "note": "v1.12: ß rebuilt as the font's own S S pair (caps face)."
     }
   }
 }
