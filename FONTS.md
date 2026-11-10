@@ -1,6 +1,6 @@
 # Every typeface
 
-1,376 faces. 1,516 font files. Each name opens the files in this repository. Each catalog link opens that face on [fonts.grok.me](https://fonts.grok.me).
+1,381 faces. 1,522 font files. Each name opens the files in this repository. Each catalog link opens that face on [fonts.grok.me](https://fonts.grok.me).
 
 Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxinfeld@gmail.com).
 
@@ -539,6 +539,7 @@ Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxi
 - [Fridge Letters](fonts/fancy/eroded/fridgeletters) — [catalog](https://fonts.grok.me/font/fridgeletters)
 - [Futuremoon](fonts/fancy/eroded/futuremoon) — [catalog](https://fonts.grok.me/font/futuremoon) · `Latin-1` `Central European` `318 glyphs`
 - [Gaslighter](fonts/fancy/eroded/gaslighter) — [catalog](https://fonts.grok.me/font/gaslighter)
+- [Glitchmonger](fonts/fancy/eroded/glitchmonger) — [catalog](https://fonts.grok.me/font/glitchmonger) · `Latin-1` `Central European` `366 glyphs`
 - [Golden Lights](fonts/fancy/eroded/goldenlights) — [catalog](https://fonts.grok.me/font/goldenlights)
 - [Gotfaded](fonts/fancy/eroded/gotfaded) — [catalog](https://fonts.grok.me/font/gotfaded)
 - [Grassevent](fonts/fancy/eroded/grassevent) — [catalog](https://fonts.grok.me/font/grassevent)
@@ -575,6 +576,7 @@ Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxi
 - [Major Label](fonts/fancy/eroded/majorlabel) — [catalog](https://fonts.grok.me/font/majorlabel)
 - [Megaphilia](fonts/fancy/eroded/megaphilia) — [catalog](https://fonts.grok.me/font/megaphilia)
 - [Melt Factory](fonts/fancy/eroded/meltfactory) — [catalog](https://fonts.grok.me/font/meltfactory)
+- [Meltquake](fonts/fancy/eroded/meltquake) — [catalog](https://fonts.grok.me/font/meltquake) · `Latin-1` `Central European` `366 glyphs`
 - [Metal Atlas](fonts/fancy/eroded/metalatlas) — [catalog](https://fonts.grok.me/font/metalatlas)
 - [Metal Block Three](fonts/fancy/eroded/metalblockthree) — [catalog](https://fonts.grok.me/font/metalblockthree)
 - [Metal Block Two](fonts/fancy/eroded/metalblocktwo) — [catalog](https://fonts.grok.me/font/metalblocktwo)
@@ -616,6 +618,7 @@ Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxi
 - [Sky Limit](fonts/fancy/eroded/skylimit) — [catalog](https://fonts.grok.me/font/skylimit)
 - [Slate](fonts/fancy/eroded/slate) — [catalog](https://fonts.grok.me/font/slate)
 - [Slick Ride](fonts/fancy/eroded/slickride) — [catalog](https://fonts.grok.me/font/slickride)
+- [Smearquake](fonts/fancy/eroded/smearquake) — [catalog](https://fonts.grok.me/font/smearquake) · `Latin-1` `Central European` `366 glyphs`
 - [Smoking Cracks](fonts/fancy/eroded/smokingcracks) — [catalog](https://fonts.grok.me/font/smokingcracks)
 - [Snake Stitch](fonts/fancy/eroded/snakestitch) — [catalog](https://fonts.grok.me/font/snakestitch)
 - [Soda Water](fonts/fancy/eroded/sodawater) — [catalog](https://fonts.grok.me/font/sodawater)
@@ -641,9 +644,11 @@ Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxi
 - [Ten Fresh](fonts/fancy/eroded/tenfresh) — [catalog](https://fonts.grok.me/font/tenfresh)
 - [Thunder Crack](fonts/fancy/eroded/thundercrack) — [catalog](https://fonts.grok.me/font/thundercrack)
 - [Tiger Nuts](fonts/fancy/eroded/tigernuts) — [catalog](https://fonts.grok.me/font/tigernuts)
+- [Tonerwraith](fonts/fancy/eroded/tonerwraith) — [catalog](https://fonts.grok.me/font/tonerwraith) · `Latin-1` `Central European` `366 glyphs`
 - [Total Freak](fonts/fancy/eroded/totalfreak) — [catalog](https://fonts.grok.me/font/totalfreak)
 - [Twisty Pixel](fonts/fancy/eroded/twistypixel) — [catalog](https://fonts.grok.me/font/twistypixel)
 - [Urban Paints](fonts/fancy/eroded/urbanpaints) — [catalog](https://fonts.grok.me/font/urbanpaints)
+- [Vaporbully](fonts/fancy/eroded/vaporbully) — [catalog](https://fonts.grok.me/font/vaporbully) · 2 files · `Latin-1` `Central European` `366 glyphs`
 - [Vegas Neon](fonts/fancy/eroded/vegasneon) — [catalog](https://fonts.grok.me/font/vegasneon)
 - [Very Rich](fonts/fancy/eroded/veryrich) — [catalog](https://fonts.grok.me/font/veryrich)
 - [Wet Razors](fonts/fancy/eroded/wetrazors) — [catalog](https://fonts.grok.me/font/wetrazors)

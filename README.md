@@ -10,9 +10,9 @@ Personal use is donationware. Commercial use is not included — write to [maxin
 
 | | |
 | --- | --- |
-| Typefaces | 1,376 |
-| Font files | 1,516 |
-| Faces with more than one file | 46 |
+| Typefaces | 1,381 |
+| Font files | 1,522 |
+| Faces with more than one file | 47 |
 | DaFont downloads | 44,200,610 |
 | FontSpace downloads | 924,199 |
 | WebFontFree downloads | 466,709 |
@@ -22,7 +22,7 @@ Drawn since 2012: eroded, cartoon, script, horror, stencil, and the rest of the 
 
 - **Basic** — 6
 - **Dingbats** — 8
-- **Fancy** — 958
+- **Fancy** — 963
 - **Foreign look** — 4
 - **Gothic** — 7
 - **Holiday** — 10

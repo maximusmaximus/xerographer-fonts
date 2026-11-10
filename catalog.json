@@ -13,16 +13,16 @@
     "note": "Unlimited commercial use of the named typeface, or of the entire catalog, for one licensee. Font files may not be resold or redistributed. Typefaces may not be edited or used to create derivative fonts without written permission."
   },
   "stats": {
-    "typefaces": 1376,
-    "fontFiles": 1516,
-    "facesWithVariations": 46,
+    "typefaces": 1381,
+    "fontFiles": 1522,
+    "facesWithVariations": 47,
     "downloads": {
       "dafont": 44200610,
       "fontspace": 924199,
       "webfontfree": 466709,
       "listed": 45591518
     },
-    "facesWithAccents": 101
+    "facesWithAccents": 106
   },
   "sources": [
     {
@@ -5996,6 +5996,28 @@
       "path": "fonts/fancy/eroded/gaslighter"
     },
     {
+      "name": "Glitchmonger",
+      "slug": "glitchmonger",
+      "category": "Fancy",
+      "subcategory": "Eroded",
+      "files": [
+        "Glitchmonger-Regular.ttf"
+      ],
+      "catalog": "https://fonts.grok.me/font/glitchmonger",
+      "path": "fonts/fancy/eroded/glitchmonger",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 366,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-11-10"
+      }
+    },
+    {
       "name": "Golden Lights",
       "slug": "goldenlights",
       "category": "Fancy",
@@ -6401,6 +6423,28 @@
       ],
       "catalog": "https://fonts.grok.me/font/meltfactory",
       "path": "fonts/fancy/eroded/meltfactory"
+    },
+    {
+      "name": "Meltquake",
+      "slug": "meltquake",
+      "category": "Fancy",
+      "subcategory": "Eroded",
+      "files": [
+        "Meltquake-Regular.ttf"
+      ],
+      "catalog": "https://fonts.grok.me/font/meltquake",
+      "path": "fonts/fancy/eroded/meltquake",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 366,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-11-10"
+      }
     },
     {
       "name": "Metal Atlas",
@@ -6898,6 +6942,28 @@
       "path": "fonts/fancy/eroded/slickride"
     },
     {
+      "name": "Smearquake",
+      "slug": "smearquake",
+      "category": "Fancy",
+      "subcategory": "Eroded",
+      "files": [
+        "Smearquake-Regular.ttf"
+      ],
+      "catalog": "https://fonts.grok.me/font/smearquake",
+      "path": "fonts/fancy/eroded/smearquake",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 366,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-11-10"
+      }
+    },
+    {
       "name": "Smoking Cracks",
       "slug": "smokingcracks",
       "category": "Fancy",
@@ -7184,6 +7250,28 @@
       "path": "fonts/fancy/eroded/tigernuts"
     },
     {
+      "name": "Tonerwraith",
+      "slug": "tonerwraith",
+      "category": "Fancy",
+      "subcategory": "Eroded",
+      "files": [
+        "Tonerwraith-Regular.ttf"
+      ],
+      "catalog": "https://fonts.grok.me/font/tonerwraith",
+      "path": "fonts/fancy/eroded/tonerwraith",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 366,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-11-10"
+      }
+    },
+    {
       "name": "Total Freak",
       "slug": "totalfreak",
       "category": "Fancy",
@@ -7215,6 +7303,29 @@
       ],
       "catalog": "https://fonts.grok.me/font/urbanpaints",
       "path": "fonts/fancy/eroded/urbanpaints"
+    },
+    {
+      "name": "Vaporbully",
+      "slug": "vaporbully",
+      "category": "Fancy",
+      "subcategory": "Eroded",
+      "files": [
+        "Vaporbully-Vapor.ttf",
+        "Vaporbully-ClearBold.ttf"
+      ],
+      "catalog": "https://fonts.grok.me/font/vaporbully",
+      "path": "fonts/fancy/eroded/vaporbully",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 366,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-11-10"
+      }
     },
     {
       "name": "Vegas Neon",
