@@ -22,7 +22,7 @@
   "catalog": "https://fonts.grok.me/font/vaporbully",
   "licensing": {
     "personal": "Donationware",
-    "commercial": "Contact maxinfeld@gmail.com — US$95 per typeface, or US$65,000 for the entire catalog, one licensee.",
+    "commercial": "Contact maxinfeld@gmail.com \u2014 US$95 per typeface, or US$65,000 for the entire catalog, one licensee.",
     "contact": "maxinfeld@gmail.com"
   },
   "coverage": {
@@ -31,7 +31,7 @@
     "glyphs": 366,
     "mappedCodepoints": 363,
     "updated": "2026-11-10",
-    "version": "1.120",
+    "version": "1.121",
     "note": "True designed mixed case; own-part accents; lowercase sharp-s is own ss; capital sharp-s own SS.",
     "opentype": {
       "mark": true,
@@ -41,9 +41,9 @@
       "legacyKernTable": true
     },
     "glyphFixes": {
-      "version": "1.120",
+      "version": "1.121",
       "updated": "2026-11-10",
-      "note": "Own-letter ss/SS, robust marks and proportional dashes."
+      "note": "Own-style digits, punctuation and symbols; snug accents; own ss/SS."
     }
   },
   "styleFamily": "Distress & motion",
