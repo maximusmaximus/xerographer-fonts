@@ -1,0 +1,40 @@
+{
+  "name": "Tonerwraith",
+  "slug": "tonerwraith",
+  "copyright": "Copyright \u00a9 2026 Max Infeld",
+  "designer": "Max Infeld",
+  "foundry": "Xerographer Fonts",
+  "category": "Fancy",
+  "subcategory": "Eroded",
+  "files": [
+    {
+      "file": "Tonerwraith-Regular.ttf",
+      "format": "ttf",
+      "woff2": "Tonerwraith-Regular.woff2"
+    }
+  ],
+  "notices": [],
+  "catalog": "https://fonts.grok.me/font/tonerwraith",
+  "licensing": {
+    "personal": "Donationware",
+    "commercial": "Contact maxinfeld@gmail.com \u2014 US$95 per typeface, or US$65,000 for the entire catalog, one licensee.",
+    "contact": "maxinfeld@gmail.com"
+  },
+  "coverage": {
+    "latin1": "100%",
+    "latinExtendedA": "100%",
+    "glyphs": 366,
+    "mappedCodepoints": 363,
+    "updated": "2026-11-09",
+    "version": "1.000",
+    "note": "True designed mixed case; own-part accents; lowercase sharp-s is own ss; capital sharp-s own SS.",
+    "opentype": {
+      "mark": true,
+      "mkmk": true,
+      "kern": "procedural class kerning",
+      "kernPairs": 3890,
+      "legacyKernTable": true
+    }
+  },
+  "styleFamily": "Distress & motion"
+}
