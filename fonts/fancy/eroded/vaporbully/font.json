@@ -30,8 +30,8 @@
     "latinExtendedA": "100%",
     "glyphs": 366,
     "mappedCodepoints": 363,
-    "updated": "2026-11-09",
-    "version": "1.000",
+    "updated": "2026-11-10",
+    "version": "1.120",
     "note": "True designed mixed case; own-part accents; lowercase sharp-s is own ss; capital sharp-s own SS.",
     "opentype": {
       "mark": true,
@@ -39,6 +39,11 @@
       "kern": "class kerning",
       "kernPairs": 3890,
       "legacyKernTable": true
+    },
+    "glyphFixes": {
+      "version": "1.120",
+      "updated": "2026-11-10",
+      "note": "Own-letter ss/SS, robust marks and proportional dashes."
     }
   },
   "styleFamily": "Distress & motion",
