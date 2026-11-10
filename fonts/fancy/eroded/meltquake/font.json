@@ -1,7 +1,7 @@
 {
   "name": "Meltquake",
   "slug": "meltquake",
-  "copyright": "Copyright \u00a9 2026 Max Infeld",
+  "copyright": "Copyright (c) 2026 Max Infeld / Xerographer Fonts. All rights reserved.",
   "designer": "Max Infeld",
   "foundry": "Xerographer Fonts",
   "category": "Fancy",
@@ -17,7 +17,7 @@
   "catalog": "https://fonts.grok.me/font/meltquake",
   "licensing": {
     "personal": "Donationware",
-    "commercial": "Contact maxinfeld@gmail.com \u2014 US$95 per typeface, or US$65,000 for the entire catalog, one licensee.",
+    "commercial": "Contact maxinfeld@gmail.com — US$95 per typeface, or US$65,000 for the entire catalog, one licensee.",
     "contact": "maxinfeld@gmail.com"
   },
   "coverage": {
@@ -31,10 +31,16 @@
     "opentype": {
       "mark": true,
       "mkmk": true,
-      "kern": "procedural class kerning",
+      "kern": "class kerning",
       "kernPairs": 3890,
       "legacyKernTable": true
     }
   },
-  "styleFamily": "Distress & motion"
+  "styleFamily": "Distress & motion",
+  "manufacturer": "Xerographer Fonts",
+  "vendorID": "XERO",
+  "designerURL": "https://fonts.grok.me",
+  "manufacturerURL": "https://fonts.grok.me",
+  "licenseDescription": "Personal, non-commercial use is donationware. A donation to the designer is appreciated and not required. Commercial use requires a license. Commercial licensing / contact: maxinfeld@gmail.com. You may not resell, redistribute, sublicense or share the font files, or modify the typeface or create derivative fonts, without written permission.",
+  "licenseURL": "mailto:maxinfeld@gmail.com"
 }
