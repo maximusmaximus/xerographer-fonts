@@ -13,8 +13,8 @@
     "note": "Unlimited commercial use of the named typeface, or of the entire catalog, for one licensee. Font files may not be resold or redistributed. Typefaces may not be edited or used to create derivative fonts without written permission."
   },
   "stats": {
-    "typefaces": 1376,
-    "fontFiles": 1516,
+    "typefaces": 1379,
+    "fontFiles": 1519,
     "facesWithVariations": 46,
     "downloads": {
       "dafont": 44200610,
@@ -22,7 +22,7 @@
       "webfontfree": 466709,
       "listed": 45591518
     },
-    "facesWithAccents": 101
+    "facesWithAccents": 104
   },
   "sources": [
     {
@@ -82,6 +82,28 @@
     }
   ],
   "fonts": [
+    {
+      "name": "CoolShift",
+      "slug": "coolshift",
+      "category": "Basic",
+      "subcategory": "Sans serif",
+      "files": [
+        "CoolShift-Regular.ttf"
+      ],
+      "catalog": "https://fonts.grok.me/font/coolshift",
+      "path": "fonts/basic/sans-serif/coolshift",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 1393,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-11-10"
+      }
+    },
     {
       "name": "Train Station",
       "slug": "trainstation",
@@ -10276,6 +10298,28 @@
       "path": "fonts/fancy/various/midcentury"
     },
     {
+      "name": "MilesPunch",
+      "slug": "milespunch",
+      "category": "Fancy",
+      "subcategory": "Various",
+      "files": [
+        "MilesPunch-Regular.ttf"
+      ],
+      "catalog": "https://fonts.grok.me/font/milespunch",
+      "path": "fonts/fancy/various/milespunch",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 364,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-11-10"
+      }
+    },
+    {
       "name": "Mintcoin",
       "slug": "mintcoin",
       "category": "Fancy",
@@ -10741,6 +10785,28 @@
       ],
       "catalog": "https://fonts.grok.me/font/sewmodern",
       "path": "fonts/fancy/various/sewmodern"
+    },
+    {
+      "name": "SharpHouse",
+      "slug": "sharphouse",
+      "category": "Fancy",
+      "subcategory": "Various",
+      "files": [
+        "SharpHouse-Regular.ttf"
+      ],
+      "catalog": "https://fonts.grok.me/font/sharphouse",
+      "path": "fonts/fancy/various/sharphouse",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 364,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-11-10"
+      }
     },
     {
       "name": "Skinny Serif",
