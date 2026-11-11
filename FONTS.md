@@ -1,6 +1,6 @@
 # Every typeface
 
-1,379 faces. 1,519 font files. Each name opens the files in this repository. Each catalog link opens that face on [fonts.grok.me](https://fonts.grok.me).
+1,381 faces. 1,521 font files. Each name opens the files in this repository. Each catalog link opens that face on [fonts.grok.me](https://fonts.grok.me).
 
 Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxinfeld@gmail.com).
 
@@ -1084,6 +1084,7 @@ Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxi
 
 ## Holiday · Various
 
+- [GravyBoard](fonts/holiday/various/gravyboard) — [catalog](https://fonts.grok.me/font/gravyboard) · `Latin-1` `Central European` `364 glyphs`
 - [Huge Party](fonts/holiday/various/hugeparty) — [catalog](https://fonts.grok.me/font/hugeparty)
 - [Mucho Fiesta](fonts/holiday/various/muchofiesta) — [catalog](https://fonts.grok.me/font/muchofiesta)
 
@@ -1284,6 +1285,7 @@ Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxi
 - [Think Light](fonts/script/handwritten/thinklight) — [catalog](https://fonts.grok.me/font/thinklight)
 - [Think Plan](fonts/script/handwritten/thinkplan) — [catalog](https://fonts.grok.me/font/thinkplan)
 - [Thinking Academic DT](fonts/script/handwritten/thinkingacademicdt) — [catalog](https://fonts.grok.me/font/thinkingacademicdt)
+- [TideLoop](fonts/script/handwritten/tideloop) — [catalog](https://fonts.grok.me/font/tideloop) · `Latin-1` `Central European` `364 glyphs`
 - [Totally Straight](fonts/script/handwritten/totallystraight) — [catalog](https://fonts.grok.me/font/totallystraight)
 - [Twerking Nasty](fonts/script/handwritten/twerkingnasty) — [catalog](https://fonts.grok.me/font/twerkingnasty)
 - [Warm Showers](fonts/script/handwritten/warmshowers) — [catalog](https://fonts.grok.me/font/warmshowers)

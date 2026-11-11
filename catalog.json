@@ -13,8 +13,8 @@
     "note": "Unlimited commercial use of the named typeface, or of the entire catalog, for one licensee. Font files may not be resold or redistributed. Typefaces may not be edited or used to create derivative fonts without written permission."
   },
   "stats": {
-    "typefaces": 1379,
-    "fontFiles": 1519,
+    "typefaces": 1381,
+    "fontFiles": 1521,
     "facesWithVariations": 46,
     "downloads": {
       "dafont": 44200610,
@@ -22,7 +22,7 @@
       "webfontfree": 466709,
       "listed": 45591518
     },
-    "facesWithAccents": 104
+    "facesWithAccents": 106
   },
   "sources": [
     {
@@ -11831,6 +11831,28 @@
       "path": "fonts/holiday/valentine/lovemarks"
     },
     {
+      "name": "GravyBoard",
+      "slug": "gravyboard",
+      "category": "Holiday",
+      "subcategory": "Various",
+      "files": [
+        "GravyBoard-Regular.ttf"
+      ],
+      "catalog": "https://fonts.grok.me/font/gravyboard",
+      "path": "fonts/holiday/various/gravyboard",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 364,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-11-10"
+      }
+    },
+    {
       "name": "Huge Party",
       "slug": "hugeparty",
       "category": "Holiday",
@@ -13996,6 +14018,28 @@
       ],
       "catalog": "https://fonts.grok.me/font/thinkingacademicdt",
       "path": "fonts/script/handwritten/thinkingacademicdt"
+    },
+    {
+      "name": "TideLoop",
+      "slug": "tideloop",
+      "category": "Script",
+      "subcategory": "Handwritten",
+      "files": [
+        "TideLoop-Regular.ttf"
+      ],
+      "catalog": "https://fonts.grok.me/font/tideloop",
+      "path": "fonts/script/handwritten/tideloop",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 364,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-11-10"
+      }
     },
     {
       "name": "Totally Straight",
