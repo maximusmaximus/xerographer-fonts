@@ -22,14 +22,14 @@
       "mark": true,
       "mkmk": true
     },
-    "version": "1.121",
-    "updated": "2026-11-10",
+    "version": "1.122",
+    "updated": "2026-11-11",
     "glyphs": 364,
     "mappedCodepoints": 363,
     "glyphFixes": {
-      "version": "1.121",
-      "updated": "2026-11-10",
-      "note": "Own-style numbers, punctuation and symbols; snug accents; own ss/SS."
+      "version": "1.122",
+      "updated": "2026-11-11",
+      "note": "v1.122: opening and closing parentheses face the correct way; square and curly brackets are drawn in the family's own style."
     }
   },
   "copyright": "Copyright (c) 2026 Max Infeld / Xerographer Fonts. All rights reserved.",
