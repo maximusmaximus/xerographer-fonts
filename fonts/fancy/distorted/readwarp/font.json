@@ -1,0 +1,49 @@
+{
+  "name": "ReadWarp",
+  "slug": "readwarp",
+  "category": "Fancy",
+  "subcategory": "Distorted",
+  "files": [
+    {
+      "file": "ReadWarp-Regular.ttf",
+      "format": "ttf",
+      "woff2": "ReadWarp-Regular.woff2"
+    }
+  ],
+  "notices": [],
+  "catalog": "https://fonts.grok.me/font/readwarp",
+  "coverage": {
+    "latin1": "100%",
+    "latinExtendedA": "100%",
+    "opentype": {
+      "kern": "class kerning",
+      "kernPairs": 2689,
+      "legacyKernTable": true,
+      "mark": true,
+      "mkmk": true
+    },
+    "version": "1.122",
+    "updated": "2026-11-11",
+    "glyphs": 364,
+    "mappedCodepoints": 363,
+    "glyphFixes": {
+      "version": "1.122",
+      "updated": "2026-11-11",
+      "note": "v1.122: opening and closing parentheses face the correct way; square and curly brackets are drawn in the family's own style."
+    }
+  },
+  "copyright": "Copyright (c) 2026 Max Infeld / Xerographer Fonts. All rights reserved.",
+  "designer": "Max Infeld",
+  "foundry": "Xerographer Fonts",
+  "manufacturer": "Xerographer Fonts",
+  "vendorID": "XERO",
+  "designerURL": "https://fonts.grok.me",
+  "manufacturerURL": "https://fonts.grok.me",
+  "licenseDescription": "Personal, non-commercial use is donationware. A donation to the designer is appreciated and not required. Commercial use requires a license. Commercial licensing / contact: maxinfeld@gmail.com. You may not resell, redistribute, sublicense or share the font files, or modify the typeface or create derivative fonts, without written permission.",
+  "licenseURL": "mailto:maxinfeld@gmail.com",
+  "licensing": {
+    "personal": "Donationware",
+    "contact": "maxinfeld@gmail.com",
+    "commercial": "Commercial use requires a license. Contact maxinfeld@gmail.com."
+  }
+}
