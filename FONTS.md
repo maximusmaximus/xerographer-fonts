@@ -1,6 +1,6 @@
 # Every typeface
 
-1,382 faces. 1,522 font files. Each name opens the files in this repository. Each catalog link opens that face on [fonts.grok.me](https://fonts.grok.me).
+1,386 faces. 1,529 font files. Each name opens the files in this repository. Each catalog link opens that face on [fonts.grok.me](https://fonts.grok.me).
 
 Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxinfeld@gmail.com).
 
@@ -218,6 +218,7 @@ Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxi
 - [Comic Tans](fonts/fancy/comic/comictans) — [catalog](https://fonts.grok.me/font/comictans)
 - [CopyStand](fonts/fancy/comic/copystand) — [catalog](https://fonts.grok.me/font/copystand) · 2 files
 - [Craycray For You](fonts/fancy/comic/craycray-for-you) — [catalog](https://fonts.grok.me/font/craycray-for-you)
+- [DotPulp](fonts/fancy/comic/dotpulp) — [catalog](https://fonts.grok.me/font/dotpulp) · `97 glyphs`
 - [Fantastic Party](fonts/fancy/comic/fantasticparty) — [catalog](https://fonts.grok.me/font/fantasticparty) · `Latin-1` `Central European` `329 glyphs`
 - [Feed The Bears](fonts/fancy/comic/feed-the-bears) — [catalog](https://fonts.grok.me/font/feed-the-bears)
 - [Fun Bear](fonts/fancy/comic/funbear) — [catalog](https://fonts.grok.me/font/funbear)
@@ -779,6 +780,7 @@ Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxi
 - [Banquetier](fonts/fancy/retro/banquetier) — [catalog](https://fonts.grok.me/font/banquetier) · 3 files
 - [Broadway Event](fonts/fancy/retro/broadwayevent) — [catalog](https://fonts.grok.me/font/broadwayevent) · `Latin-1` `Central European` `378 glyphs`
 - [Cryptographic](fonts/fancy/retro/cryptographic) — [catalog](https://fonts.grok.me/font/cryptographic)
+- [DecoBar](fonts/fancy/retro/decobar) — [catalog](https://fonts.grok.me/font/decobar) · 3 files · `Latin-1` `Central European` `364 glyphs`
 - [DecoRated](fonts/fancy/retro/decorated) — [catalog](https://fonts.grok.me/font/decorated)
 - [Denominator](fonts/fancy/retro/denominator) — [catalog](https://fonts.grok.me/font/denominator)
 - [Double Shadow](fonts/fancy/retro/doubleshadow) — [catalog](https://fonts.grok.me/font/doubleshadow)
@@ -1139,6 +1141,7 @@ Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxi
 
 - [California Delights](fonts/script/calligraphy/californiadelights) — [catalog](https://fonts.grok.me/font/californiadelights)
 - [Dead Tasty](fonts/script/calligraphy/deadtasty) — [catalog](https://fonts.grok.me/font/deadtasty)
+- [EngraverOx](fonts/script/calligraphy/engraverox) — [catalog](https://fonts.grok.me/font/engraverox) · `Latin-1` `Central European` `364 glyphs`
 - [Faux Antique](fonts/script/calligraphy/fauxantique) — [catalog](https://fonts.grok.me/font/fauxantique)
 - [GreatSails](fonts/script/calligraphy/greatsails) — [catalog](https://fonts.grok.me/font/greatsails)
 - [NuevoYork](fonts/script/calligraphy/nuevoyork) — [catalog](https://fonts.grok.me/font/nuevoyork) · `Latin-1` `Central European` `348 glyphs`
@@ -1243,6 +1246,7 @@ Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxi
 - [Manufactured Consent](fonts/script/handwritten/manufacturedconsent) — [catalog](https://fonts.grok.me/font/manufacturedconsent)
 - [Mighty Roping](fonts/script/handwritten/mightyroping) — [catalog](https://fonts.grok.me/font/mightyroping)
 - [Musky Dawn](fonts/script/handwritten/muskydawn) — [catalog](https://fonts.grok.me/font/muskydawn)
+- [NoelHand](fonts/script/handwritten/noelhand) — [catalog](https://fonts.grok.me/font/noelhand) · 2 files · `Latin-1` `Central European` `364 glyphs`
 - [North Cowboy](fonts/script/handwritten/northcowboy) — [catalog](https://fonts.grok.me/font/northcowboy)
 - [Open Hatch](fonts/script/handwritten/openhatch) — [catalog](https://fonts.grok.me/font/openhatch)
 - [Paris Label](fonts/script/handwritten/parislabel) — [catalog](https://fonts.grok.me/font/parislabel)
