@@ -1,0 +1,50 @@
+{
+  "name": "DotPulp",
+  "slug": "dotpulp",
+  "category": "Fancy",
+  "subcategory": "Comic",
+  "files": [
+    {
+      "file": "DotPulp-Regular.ttf",
+      "format": "ttf",
+      "woff2": "DotPulp-Regular.woff2"
+    }
+  ],
+  "notices": [],
+  "catalog": "https://fonts.grok.me/font/dotpulp",
+  "coverage": {
+    "basicAscii": "100%",
+    "latin1": "basic printable ASCII (U+0020-U+007E)",
+    "latinExtendedA": "outside this face (basic ASCII coverage)",
+    "opentype": {
+      "kern": "class kerning",
+      "kernPairs": 4968,
+      "legacyKernTable": true,
+      "mark": false,
+      "mkmk": false
+    },
+    "version": "1.122",
+    "updated": "2026-11-14",
+    "glyphs": 97,
+    "mappedCodepoints": 96,
+    "glyphFixes": {
+      "version": "1.122",
+      "updated": "2026-11-14",
+      "note": "Approved v3 comic-screen halftone; own-style digits and punctuation; basic ASCII only."
+    }
+  },
+  "copyright": "Copyright (c) 2026 Max Infeld / Xerographer Fonts. All rights reserved.",
+  "designer": "Max Infeld",
+  "foundry": "Xerographer Fonts",
+  "manufacturer": "Xerographer Fonts",
+  "vendorID": "XERO",
+  "designerURL": "https://fonts.grok.me",
+  "manufacturerURL": "https://fonts.grok.me",
+  "licenseDescription": "Personal, non-commercial use is donationware. A donation to the designer is appreciated and not required. Commercial use requires a license. Commercial licensing / contact: maxinfeld@gmail.com. You may not resell, redistribute, sublicense or share the font files, or modify the typeface or create derivative fonts, without written permission.",
+  "licenseURL": "mailto:maxinfeld@gmail.com",
+  "licensing": {
+    "personal": "Donationware",
+    "contact": "maxinfeld@gmail.com",
+    "commercial": "Commercial use requires a license. Contact maxinfeld@gmail.com."
+  }
+}

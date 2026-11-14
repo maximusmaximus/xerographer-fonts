@@ -13,16 +13,16 @@
     "note": "Unlimited commercial use of the named typeface, or of the entire catalog, for one licensee. Font files may not be resold or redistributed. Typefaces may not be edited or used to create derivative fonts without written permission."
   },
   "stats": {
-    "typefaces": 1382,
-    "fontFiles": 1522,
-    "facesWithVariations": 46,
+    "typefaces": 1386,
+    "fontFiles": 1529,
+    "facesWithVariations": 48,
     "downloads": {
       "dafont": 44200610,
       "fontspace": 924199,
       "webfontfree": 466709,
       "listed": 45591518
     },
-    "facesWithAccents": 107
+    "facesWithAccents": 111
   },
   "sources": [
     {
@@ -101,7 +101,7 @@
           "Central European"
         ],
         "supportsAccents": true,
-        "updated": "2026-11-10"
+        "updated": "2026-11-11"
       }
     },
     {
@@ -2373,6 +2373,25 @@
       ],
       "catalog": "https://fonts.grok.me/font/craycray-for-you",
       "path": "fonts/fancy/comic/craycray-for-you"
+    },
+    {
+      "name": "DotPulp",
+      "slug": "dotpulp",
+      "category": "Fancy",
+      "subcategory": "Comic",
+      "files": [
+        "DotPulp-Regular.ttf"
+      ],
+      "catalog": "https://fonts.grok.me/font/dotpulp",
+      "path": "fonts/fancy/comic/dotpulp",
+      "coverage": {
+        "latin1": null,
+        "latinExtendedA": null,
+        "glyphs": 97,
+        "languages": [],
+        "supportsAccents": false,
+        "updated": "2026-11-14"
+      }
     },
     {
       "name": "Fantastic Party",
@@ -5091,7 +5110,7 @@
           "Central European"
         ],
         "supportsAccents": true,
-        "updated": "2026-11-10"
+        "updated": "2026-11-11"
       }
     },
     {
@@ -8709,6 +8728,30 @@
       "path": "fonts/fancy/retro/cryptographic"
     },
     {
+      "name": "DecoBar",
+      "slug": "decobar",
+      "category": "Fancy",
+      "subcategory": "Retro",
+      "files": [
+        "DecoBar-Regular.ttf",
+        "DecoBar-Open.ttf",
+        "DecoBar-Shadow.ttf"
+      ],
+      "catalog": "https://fonts.grok.me/font/decobar",
+      "path": "fonts/fancy/retro/decobar",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 364,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-11-14"
+      }
+    },
+    {
       "name": "DecoRated",
       "slug": "decorated",
       "category": "Fancy",
@@ -10338,7 +10381,7 @@
           "Central European"
         ],
         "supportsAccents": true,
-        "updated": "2026-11-10"
+        "updated": "2026-11-11"
       }
     },
     {
@@ -10827,7 +10870,7 @@
           "Central European"
         ],
         "supportsAccents": true,
-        "updated": "2026-11-10"
+        "updated": "2026-11-11"
       }
     },
     {
@@ -11871,7 +11914,7 @@
           "Central European"
         ],
         "supportsAccents": true,
-        "updated": "2026-11-10"
+        "updated": "2026-11-11"
       }
     },
     {
@@ -12434,6 +12477,28 @@
       ],
       "catalog": "https://fonts.grok.me/font/deadtasty",
       "path": "fonts/script/calligraphy/deadtasty"
+    },
+    {
+      "name": "EngraverOx",
+      "slug": "engraverox",
+      "category": "Script",
+      "subcategory": "Calligraphy",
+      "files": [
+        "EngraverOx-Regular.ttf"
+      ],
+      "catalog": "https://fonts.grok.me/font/engraverox",
+      "path": "fonts/script/calligraphy/engraverox",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 364,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-11-14"
+      }
     },
     {
       "name": "Faux Antique",
@@ -13569,6 +13634,29 @@
       "path": "fonts/script/handwritten/muskydawn"
     },
     {
+      "name": "NoelHand",
+      "slug": "noelhand",
+      "category": "Script",
+      "subcategory": "Handwritten",
+      "files": [
+        "NoelHand-Regular.ttf",
+        "NoelHand-Bold.ttf"
+      ],
+      "catalog": "https://fonts.grok.me/font/noelhand",
+      "path": "fonts/script/handwritten/noelhand",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 364,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-11-14"
+      }
+    },
+    {
       "name": "North Cowboy",
       "slug": "northcowboy",
       "category": "Script",
@@ -14060,7 +14148,7 @@
           "Central European"
         ],
         "supportsAccents": true,
-        "updated": "2026-11-10"
+        "updated": "2026-11-11"
       }
     },
     {
