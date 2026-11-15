@@ -1,6 +1,6 @@
 # Every typeface
 
-1,386 faces. 1,529 font files. Each name opens the files in this repository. Each catalog link opens that face on [fonts.grok.me](https://fonts.grok.me).
+1,387 faces. 1,531 font files. Each name opens the files in this repository. Each catalog link opens that face on [fonts.grok.me](https://fonts.grok.me).
 
 Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxinfeld@gmail.com).
 
@@ -1074,6 +1074,7 @@ Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxi
 ## Holiday · Christmas
 
 - [Ice Cold](fonts/holiday/christmas/icecold) — [catalog](https://fonts.grok.me/font/icecold)
+- [NoelBlock](fonts/holiday/christmas/noelblock) — [catalog](https://fonts.grok.me/font/noelblock) · 2 files · `Latin-1` `Central European` `364 glyphs`
 - [Snow Flakes](fonts/holiday/christmas/snowflakes) — [catalog](https://fonts.grok.me/font/snowflakes) · `Latin-1` `Central European` `323 glyphs`
 - [Xmas Lite](fonts/holiday/christmas/xmaslite) — [catalog](https://fonts.grok.me/font/xmaslite)
 

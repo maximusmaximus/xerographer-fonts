@@ -13,16 +13,16 @@
     "note": "Unlimited commercial use of the named typeface, or of the entire catalog, for one licensee. Font files may not be resold or redistributed. Typefaces may not be edited or used to create derivative fonts without written permission."
   },
   "stats": {
-    "typefaces": 1386,
-    "fontFiles": 1529,
-    "facesWithVariations": 48,
+    "typefaces": 1387,
+    "fontFiles": 1531,
+    "facesWithVariations": 49,
     "downloads": {
       "dafont": 44200610,
       "fontspace": 924199,
       "webfontfree": 466709,
       "listed": 45591518
     },
-    "facesWithAccents": 111
+    "facesWithAccents": 112
   },
   "sources": [
     {
@@ -11806,6 +11806,29 @@
       ],
       "catalog": "https://fonts.grok.me/font/icecold",
       "path": "fonts/holiday/christmas/icecold"
+    },
+    {
+      "name": "NoelBlock",
+      "slug": "noelblock",
+      "category": "Holiday",
+      "subcategory": "Christmas",
+      "files": [
+        "NoelBlock-Regular.ttf",
+        "NoelBlock-Snow.ttf"
+      ],
+      "catalog": "https://fonts.grok.me/font/noelblock",
+      "path": "fonts/holiday/christmas/noelblock",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 364,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-11-14"
+      }
     },
     {
       "name": "Snow Flakes",
