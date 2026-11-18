@@ -1,6 +1,6 @@
 # Every typeface
 
-1,387 faces. 1,531 font files. Each name opens the files in this repository. Each catalog link opens that face on [fonts.grok.me](https://fonts.grok.me).
+1,390 faces. 1,538 font files. Each name opens the files in this repository. Each catalog link opens that face on [fonts.grok.me](https://fonts.grok.me).
 
 Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxinfeld@gmail.com).
 
@@ -8,6 +8,10 @@ Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxi
 
 - [CoolShift](fonts/basic/sans-serif/coolshift) — [catalog](https://fonts.grok.me/font/coolshift) · `Latin-1` `Central European` `1393 glyphs`
 - [Train Station](fonts/basic/sans-serif/trainstation) — [catalog](https://fonts.grok.me/font/trainstation) · `Latin-1` `Central European` `329 glyphs`
+
+## Basic · Serif
+
+- [AnvilEgyptian](fonts/basic/serif/anvilegyptian) — [catalog](https://fonts.grok.me/font/anvilegyptian) · 2 files · `Latin-1` `Central European` `364 glyphs`
 
 ## Basic · Various
 
@@ -772,6 +776,7 @@ Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxi
 - [College Thrash](fonts/fancy/old-school/collegethrash) — [catalog](https://fonts.grok.me/font/collegethrash)
 - [Education](fonts/fancy/old-school/education) — [catalog](https://fonts.grok.me/font/education)
 - [Prized Study](fonts/fancy/old-school/prizedstudy) — [catalog](https://fonts.grok.me/font/prizedstudy)
+- [StadiumCrest](fonts/fancy/old-school/stadiumcrest) — [catalog](https://fonts.grok.me/font/stadiumcrest) · 3 files · `Latin-1` `Central European` `364 glyphs`
 - [Zero College](fonts/fancy/old-school/zerocollege) — [catalog](https://fonts.grok.me/font/zerocollege) · `Latin-1 92.7%` `Central European` `311 glyphs`
 
 ## Fancy · Retro
@@ -1298,6 +1303,10 @@ Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxi
 - [Wild Thang](fonts/script/handwritten/wildthang) — [catalog](https://fonts.grok.me/font/wildthang)
 - [Wonderful Phonograph](fonts/script/handwritten/wonderfulphonograph) — [catalog](https://fonts.grok.me/font/wonderfulphonograph)
 - [Yarden Tawns](fonts/script/handwritten/yardentawns) — [catalog](https://fonts.grok.me/font/yardentawns)
+
+## Script · Old School
+
+- [SignCasual](fonts/script/old-school/signcasual) — [catalog](https://fonts.grok.me/font/signcasual) · 2 files · `Latin-1` `Central European` `364 glyphs`
 
 ## Script · School
 

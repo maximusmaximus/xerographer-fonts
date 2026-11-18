@@ -1,0 +1,60 @@
+{
+  "name": "StadiumCrest",
+  "slug": "stadiumcrest",
+  "category": "Fancy",
+  "subcategory": "Old School",
+  "files": [
+    {
+      "file": "StadiumCrest-Regular.ttf",
+      "format": "ttf",
+      "woff2": "StadiumCrest-Regular.woff2"
+    },
+    {
+      "file": "StadiumCrest-Condensed.ttf",
+      "format": "ttf",
+      "woff2": "StadiumCrest-Condensed.woff2"
+    },
+    {
+      "file": "StadiumCrest-Outline.ttf",
+      "format": "ttf",
+      "woff2": "StadiumCrest-Outline.woff2"
+    }
+  ],
+  "notices": [],
+  "catalog": "https://fonts.grok.me/font/stadiumcrest",
+  "coverage": {
+    "latin1": "100%",
+    "latinExtendedA": "100%",
+    "opentype": {
+      "kern": "class kerning",
+      "kernPairs": 2812,
+      "legacyKernTable": true,
+      "mark": true,
+      "mkmk": true,
+      "ccmp": true
+    },
+    "version": "1.122",
+    "updated": "2026-11-17",
+    "glyphs": 364,
+    "mappedCodepoints": 363,
+    "glyphFixes": {
+      "version": "1.122",
+      "updated": "2026-11-17",
+      "note": "True straight flats and clean corners on every serif, stem and terminal; smaller @ in the family weight; open G, flush T and Z beak serifs; own-pen numbers, punctuation and symbols; own ss/SS; robust marks; proportional dashes."
+    }
+  },
+  "copyright": "Copyright (c) 2026 Max Infeld / Xerographer Fonts. All rights reserved.",
+  "designer": "Max Infeld",
+  "foundry": "Xerographer Fonts",
+  "manufacturer": "Xerographer Fonts",
+  "vendorID": "XERO",
+  "designerURL": "https://fonts.grok.me",
+  "manufacturerURL": "https://fonts.grok.me",
+  "licenseDescription": "Personal, non-commercial use is donationware. A donation to the designer is appreciated and not required. Commercial use requires a license. Commercial licensing / contact: maxinfeld@gmail.com. You may not resell, redistribute, sublicense or share the font files, or modify the typeface or create derivative fonts, without written permission.",
+  "licenseURL": "mailto:maxinfeld@gmail.com",
+  "licensing": {
+    "personal": "Donationware",
+    "contact": "maxinfeld@gmail.com",
+    "commercial": "Commercial use requires a license. Contact maxinfeld@gmail.com."
+  }
+}
