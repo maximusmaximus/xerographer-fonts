@@ -1,6 +1,6 @@
 # Every typeface
 
-1,387 faces. 1,531 font files. Each name opens the files in this repository. Each catalog link opens that face on [fonts.grok.me](https://fonts.grok.me).
+1,389 faces. 1,535 font files. Each name opens the files in this repository. Each catalog link opens that face on [fonts.grok.me](https://fonts.grok.me).
 
 Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxinfeld@gmail.com).
 
@@ -8,6 +8,10 @@ Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxi
 
 - [CoolShift](fonts/basic/sans-serif/coolshift) — [catalog](https://fonts.grok.me/font/coolshift) · `Latin-1` `Central European` `1393 glyphs`
 - [Train Station](fonts/basic/sans-serif/trainstation) — [catalog](https://fonts.grok.me/font/trainstation) · `Latin-1` `Central European` `329 glyphs`
+
+## Basic · Serif
+
+- [AnvilEgyptian](fonts/basic/serif/anvilegyptian) — [catalog](https://fonts.grok.me/font/anvilegyptian) · 2 files · `Latin-1` `Central European` `364 glyphs`
 
 ## Basic · Various
 
@@ -1298,6 +1302,10 @@ Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxi
 - [Wild Thang](fonts/script/handwritten/wildthang) — [catalog](https://fonts.grok.me/font/wildthang)
 - [Wonderful Phonograph](fonts/script/handwritten/wonderfulphonograph) — [catalog](https://fonts.grok.me/font/wonderfulphonograph)
 - [Yarden Tawns](fonts/script/handwritten/yardentawns) — [catalog](https://fonts.grok.me/font/yardentawns)
+
+## Script · Old School
+
+- [SignCasual](fonts/script/old-school/signcasual) — [catalog](https://fonts.grok.me/font/signcasual) · 2 files · `Latin-1` `Central European` `364 glyphs`
 
 ## Script · School
 

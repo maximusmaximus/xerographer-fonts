@@ -13,16 +13,16 @@
     "note": "Unlimited commercial use of the named typeface, or of the entire catalog, for one licensee. Font files may not be resold or redistributed. Typefaces may not be edited or used to create derivative fonts without written permission."
   },
   "stats": {
-    "typefaces": 1387,
-    "fontFiles": 1531,
-    "facesWithVariations": 49,
+    "typefaces": 1389,
+    "fontFiles": 1535,
+    "facesWithVariations": 51,
     "downloads": {
       "dafont": 44200610,
       "fontspace": 924199,
       "webfontfree": 466709,
       "listed": 45591518
     },
-    "facesWithAccents": 112
+    "facesWithAccents": 114
   },
   "sources": [
     {
@@ -124,6 +124,29 @@
         ],
         "supportsAccents": true,
         "updated": "2026-10-14"
+      }
+    },
+    {
+      "name": "AnvilEgyptian",
+      "slug": "anvilegyptian",
+      "category": "Basic",
+      "subcategory": "Serif",
+      "files": [
+        "AnvilEgyptian-Regular.ttf",
+        "AnvilEgyptian-Bold.ttf"
+      ],
+      "catalog": "https://fonts.grok.me/font/anvilegyptian",
+      "path": "fonts/basic/serif/anvilegyptian",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 364,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-11-17"
       }
     },
     {
@@ -14239,6 +14262,29 @@
       ],
       "catalog": "https://fonts.grok.me/font/yardentawns",
       "path": "fonts/script/handwritten/yardentawns"
+    },
+    {
+      "name": "SignCasual",
+      "slug": "signcasual",
+      "category": "Script",
+      "subcategory": "Old School",
+      "files": [
+        "SignCasual-Regular.ttf",
+        "SignCasual-Bold.ttf"
+      ],
+      "catalog": "https://fonts.grok.me/font/signcasual",
+      "path": "fonts/script/old-school/signcasual",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 364,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-11-17"
+      }
     },
     {
       "name": "Learning Machine",
