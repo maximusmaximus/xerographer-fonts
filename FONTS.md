@@ -1,17 +1,20 @@
 # Every typeface
 
-1,391 faces. 1,539 font files. Each name opens the files in this repository. Each catalog link opens that face on [fonts.grok.me](https://fonts.grok.me).
+1,396 faces. 1,550 font files. Each name opens the files in this repository. Each catalog link opens that face on [fonts.grok.me](https://fonts.grok.me).
 
 Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxinfeld@gmail.com).
 
 ## Basic · Sans serif
 
 - [CoolShift](fonts/basic/sans-serif/coolshift) — [catalog](https://fonts.grok.me/font/coolshift) · `Latin-1` `Central European` `1393 glyphs`
+- [PebbleLoft](fonts/basic/sans-serif/pebbleloft) — [catalog](https://fonts.grok.me/font/pebbleloft) · 3 files · `Latin-1` `Central European` `364 glyphs`
 - [Train Station](fonts/basic/sans-serif/trainstation) — [catalog](https://fonts.grok.me/font/trainstation) · `Latin-1` `Central European` `329 glyphs`
+- [WedgeStack](fonts/basic/sans-serif/wedgestack) — [catalog](https://fonts.grok.me/font/wedgestack) · 2 files · `Latin-1` `Central European` `364 glyphs`
 
 ## Basic · Serif
 
 - [AnvilEgyptian](fonts/basic/serif/anvilegyptian) — [catalog](https://fonts.grok.me/font/anvilegyptian) · 2 files · `Latin-1` `Central European` `364 glyphs`
+- [CrestRoman](fonts/basic/serif/crestroman) — [catalog](https://fonts.grok.me/font/crestroman) · 2 files · `Latin-1` `Central European` `364 glyphs`
 
 ## Basic · Various
 
@@ -1123,6 +1126,7 @@ Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxi
 - [Liquid Magic](fonts/script/brush/liquidmagic) — [catalog](https://fonts.grok.me/font/liquidmagic)
 - [Love Riot](fonts/script/brush/loveriot) — [catalog](https://fonts.grok.me/font/loveriot)
 - [Mad Zombies](fonts/script/brush/madzombies) — [catalog](https://fonts.grok.me/font/madzombies)
+- [MaisonInk](fonts/script/brush/maisonink) — [catalog](https://fonts.grok.me/font/maisonink) · 2 files · `Latin-1` `Central European` `364 glyphs`
 - [More Candy](fonts/script/brush/morecandy) — [catalog](https://fonts.grok.me/font/morecandy)
 - [Paper Scraps](fonts/script/brush/paperscraps) — [catalog](https://fonts.grok.me/font/paperscraps)
 - [Precious Moments](fonts/script/brush/preciousmoments) — [catalog](https://fonts.grok.me/font/preciousmoments)
@@ -1211,6 +1215,7 @@ Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxi
 - [ExtraFine Script](fonts/script/handwritten/extrafinescript) — [catalog](https://fonts.grok.me/font/extrafinescript)
 - [Fantastic Sunset](fonts/script/handwritten/fantasticsunset) — [catalog](https://fonts.grok.me/font/fantasticsunset)
 - [Fault Line DT](fonts/script/handwritten/faultlinedt) — [catalog](https://fonts.grok.me/font/faultlinedt)
+- [FeltNote](fonts/script/handwritten/feltnote) — [catalog](https://fonts.grok.me/font/feltnote) · 2 files · `Latin-1` `Central European` `364 glyphs`
 - [Fifty Hours](fonts/script/handwritten/fiftyhours) — [catalog](https://fonts.grok.me/font/fiftyhours)
 - [Fifty Shadows DT](fonts/script/handwritten/fiftyshadowsdt) — [catalog](https://fonts.grok.me/font/fiftyshadowsdt)
 - [First Avenue](fonts/script/handwritten/firstavenue) — [catalog](https://fonts.grok.me/font/firstavenue)

@@ -13,16 +13,16 @@
     "note": "Unlimited commercial use of the named typeface, or of the entire catalog, for one licensee. Font files may not be resold or redistributed. Typefaces may not be edited or used to create derivative fonts without written permission."
   },
   "stats": {
-    "typefaces": 1391,
-    "fontFiles": 1539,
-    "facesWithVariations": 52,
+    "typefaces": 1396,
+    "fontFiles": 1550,
+    "facesWithVariations": 57,
     "downloads": {
       "dafont": 44200610,
       "fontspace": 924199,
       "webfontfree": 466709,
       "listed": 45591518
     },
-    "facesWithAccents": 116
+    "facesWithAccents": 121
   },
   "sources": [
     {
@@ -105,6 +105,30 @@
       }
     },
     {
+      "name": "PebbleLoft",
+      "slug": "pebbleloft",
+      "category": "Basic",
+      "subcategory": "Sans serif",
+      "files": [
+        "PebbleLoft-Regular.ttf",
+        "PebbleLoft-Bold.ttf",
+        "PebbleLoft-Black.ttf"
+      ],
+      "catalog": "https://fonts.grok.me/font/pebbleloft",
+      "path": "fonts/basic/sans-serif/pebbleloft",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 364,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-11-18"
+      }
+    },
+    {
       "name": "Train Station",
       "slug": "trainstation",
       "category": "Basic",
@@ -124,6 +148,29 @@
         ],
         "supportsAccents": true,
         "updated": "2026-10-14"
+      }
+    },
+    {
+      "name": "WedgeStack",
+      "slug": "wedgestack",
+      "category": "Basic",
+      "subcategory": "Sans serif",
+      "files": [
+        "WedgeStack-Regular.ttf",
+        "WedgeStack-Outline.ttf"
+      ],
+      "catalog": "https://fonts.grok.me/font/wedgestack",
+      "path": "fonts/basic/sans-serif/wedgestack",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 364,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-11-18"
       }
     },
     {
@@ -147,6 +194,29 @@
         ],
         "supportsAccents": true,
         "updated": "2026-11-17"
+      }
+    },
+    {
+      "name": "CrestRoman",
+      "slug": "crestroman",
+      "category": "Basic",
+      "subcategory": "Serif",
+      "files": [
+        "CrestRoman-Regular.ttf",
+        "CrestRoman-Bold.ttf"
+      ],
+      "catalog": "https://fonts.grok.me/font/crestroman",
+      "path": "fonts/basic/serif/crestroman",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 364,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-11-18"
       }
     },
     {
@@ -12285,6 +12355,29 @@
       "path": "fonts/script/brush/madzombies"
     },
     {
+      "name": "MaisonInk",
+      "slug": "maisonink",
+      "category": "Script",
+      "subcategory": "Brush",
+      "files": [
+        "MaisonInk-Regular.ttf",
+        "MaisonInk-Bold.ttf"
+      ],
+      "catalog": "https://fonts.grok.me/font/maisonink",
+      "path": "fonts/script/brush/maisonink",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 364,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-11-18"
+      }
+    },
+    {
       "name": "More Candy",
       "slug": "morecandy",
       "category": "Script",
@@ -13262,6 +13355,29 @@
       ],
       "catalog": "https://fonts.grok.me/font/faultlinedt",
       "path": "fonts/script/handwritten/faultlinedt"
+    },
+    {
+      "name": "FeltNote",
+      "slug": "feltnote",
+      "category": "Script",
+      "subcategory": "Handwritten",
+      "files": [
+        "FeltNote-Regular.ttf",
+        "FeltNote-Bold.ttf"
+      ],
+      "catalog": "https://fonts.grok.me/font/feltnote",
+      "path": "fonts/script/handwritten/feltnote",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 364,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-11-18"
+      }
     },
     {
       "name": "Fifty Hours",
