@@ -13,8 +13,8 @@
     "note": "Unlimited commercial use of the named typeface, or of the entire catalog, for one licensee. Font files may not be resold or redistributed. Typefaces may not be edited or used to create derivative fonts without written permission."
   },
   "stats": {
-    "typefaces": 1390,
-    "fontFiles": 1538,
+    "typefaces": 1391,
+    "fontFiles": 1539,
     "facesWithVariations": 52,
     "downloads": {
       "dafont": 44200610,
@@ -22,7 +22,7 @@
       "webfontfree": 466709,
       "listed": 45591518
     },
-    "facesWithAccents": 115
+    "facesWithAccents": 116
   },
   "sources": [
     {
@@ -12536,6 +12536,28 @@
       ],
       "catalog": "https://fonts.grok.me/font/californiadelights",
       "path": "fonts/script/calligraphy/californiadelights"
+    },
+    {
+      "name": "CarolFormal",
+      "slug": "carolformal",
+      "category": "Script",
+      "subcategory": "Calligraphy",
+      "files": [
+        "CarolFormal-Regular.ttf"
+      ],
+      "catalog": "https://fonts.grok.me/font/carolformal",
+      "path": "fonts/script/calligraphy/carolformal",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 364,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-11-18"
+      }
     },
     {
       "name": "Dead Tasty",

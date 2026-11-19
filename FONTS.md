@@ -1,6 +1,6 @@
 # Every typeface
 
-1,390 faces. 1,538 font files. Each name opens the files in this repository. Each catalog link opens that face on [fonts.grok.me](https://fonts.grok.me).
+1,391 faces. 1,539 font files. Each name opens the files in this repository. Each catalog link opens that face on [fonts.grok.me](https://fonts.grok.me).
 
 Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxinfeld@gmail.com).
 
@@ -1146,6 +1146,7 @@ Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxi
 ## Script · Calligraphy
 
 - [California Delights](fonts/script/calligraphy/californiadelights) — [catalog](https://fonts.grok.me/font/californiadelights)
+- [CarolFormal](fonts/script/calligraphy/carolformal) — [catalog](https://fonts.grok.me/font/carolformal) · `Latin-1` `Central European` `364 glyphs`
 - [Dead Tasty](fonts/script/calligraphy/deadtasty) — [catalog](https://fonts.grok.me/font/deadtasty)
 - [EngraverOx](fonts/script/calligraphy/engraverox) — [catalog](https://fonts.grok.me/font/engraverox) · `Latin-1` `Central European` `364 glyphs`
 - [Faux Antique](fonts/script/calligraphy/fauxantique) — [catalog](https://fonts.grok.me/font/fauxantique)
