@@ -13,16 +13,16 @@
     "note": "Unlimited commercial use of the named typeface, or of the entire catalog, for one licensee. Font files may not be resold or redistributed. Typefaces may not be edited or used to create derivative fonts without written permission."
   },
   "stats": {
-    "typefaces": 1389,
-    "fontFiles": 1535,
-    "facesWithVariations": 51,
+    "typefaces": 1390,
+    "fontFiles": 1538,
+    "facesWithVariations": 52,
     "downloads": {
       "dafont": 44200610,
       "fontspace": 924199,
       "webfontfree": 466709,
       "listed": 45591518
     },
-    "facesWithAccents": 114
+    "facesWithAccents": 115
   },
   "sources": [
     {
@@ -8662,6 +8662,30 @@
       ],
       "catalog": "https://fonts.grok.me/font/prizedstudy",
       "path": "fonts/fancy/old-school/prizedstudy"
+    },
+    {
+      "name": "StadiumCrest",
+      "slug": "stadiumcrest",
+      "category": "Fancy",
+      "subcategory": "Old School",
+      "files": [
+        "StadiumCrest-Regular.ttf",
+        "StadiumCrest-Condensed.ttf",
+        "StadiumCrest-Outline.ttf"
+      ],
+      "catalog": "https://fonts.grok.me/font/stadiumcrest",
+      "path": "fonts/fancy/old-school/stadiumcrest",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 364,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-11-18"
+      }
     },
     {
       "name": "Zero College",
