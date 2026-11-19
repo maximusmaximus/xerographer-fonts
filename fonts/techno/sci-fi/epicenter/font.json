@@ -95,9 +95,9 @@
       "note": "v1.11: GPOS mark/mkmk anchors derived from the accented glyph placements, combining marks U+0300–U+0328 added, conservative auto class kerning (accented letters inherit their base's class), flat legacy kern table kept for DaFont/GD previews."
     },
     "glyphFixes": {
-      "version": "1.12",
-      "updated": "2026-11-04",
-      "note": "v1.12: Thin macrons (Ā ā Ē ē Ī Ō ō Ū ū), the ď caron and – — rebuilt so they no longer drop out at text sizes; Disco and Disco Italic Ş ş get the font's own Ç cedilla."
+      "version": "Epicenter-Disco.ttf 1.121, Epicenter-DiscoItalic.ttf 1.121, Epicenter-Thin.ttf 1.121",
+      "updated": "2026-11-18",
+      "note": "v1.121: Flat surfaces (stems, crossbars, serifs, terminals) straightened: bumps, dents and end spikes removed. Earlier (1.12): v1.12: Thin macrons (Ā ā Ē ē Ī Ō ō Ū ū), the ď caron and – — rebuilt so they no longer drop out at text sizes; Disco and Disco Italic Ş ş get the font's own Ç cedilla."
     }
   }
 }
