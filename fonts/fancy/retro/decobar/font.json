@@ -32,14 +32,14 @@
       "mark": true,
       "mkmk": true
     },
-    "version": "1.122",
-    "updated": "2026-11-14",
+    "version": "1.123",
+    "updated": "2026-11-18",
     "glyphs": 364,
     "mappedCodepoints": 363,
     "glyphFixes": {
-      "version": "1.122",
-      "updated": "2026-11-14",
-      "note": "Own-pen numbers, punctuation and symbols; even stroke throughout; snug accents; own ss/SS."
+      "version": "1.123",
+      "updated": "2026-11-18",
+      "note": "v1.123: Flat surfaces (stems, crossbars, serifs, terminals) straightened: bumps, dents and end spikes removed. Earlier (1.122): Own-pen numbers, punctuation and symbols; even stroke throughout; snug accents; own ss/SS."
     }
   },
   "copyright": "Copyright (c) 2026 Max Infeld / Xerographer Fonts. All rights reserved.",

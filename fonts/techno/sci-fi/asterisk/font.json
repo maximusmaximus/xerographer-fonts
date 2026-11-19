@@ -75,9 +75,9 @@
       "note": "v1.11: GPOS mark/mkmk anchors derived from the accented glyph placements, combining marks U+0300–U+0328 added, conservative auto class kerning (accented letters inherit their base's class), flat legacy kern table kept for DaFont/GD previews."
     },
     "glyphFixes": {
-      "version": "1.12",
-      "updated": "2026-11-04",
-      "note": "v1.12 (FineLine): every free-standing hairline stroke that dropped out at text sizes (macrons, the bottom bars of I and i, the E e F f middle bars, hyphen, en dash, = | ¦ _ ! ¡ quotes, ¯ ± ÷ ª º, Þ þ stems and more) is redrawn at 20 units; ı and ī rebuilt as one inverted-T outline."
+      "version": "Asterisk-FineLine.ttf 1.121",
+      "updated": "2026-11-18",
+      "note": "v1.121: Flat surfaces (stems, crossbars, serifs, terminals) straightened: bumps, dents and end spikes removed. Earlier (1.12): v1.12 (FineLine): every free-standing hairline stroke that dropped out at text sizes (macrons, the bottom bars of I and i, the E e F f middle bars, hyphen, en dash, = | ¦ _ ! ¡ quotes, ¯ ± ÷ ª º, Þ þ stems and more) is redrawn at 20 units; ı and ī rebuilt as one inverted-T outline."
     }
   }
 }
