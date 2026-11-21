@@ -1,12 +1,13 @@
 # Every typeface
 
-1,396 faces. 1,550 font files. Each name opens the files in this repository. Each catalog link opens that face on [fonts.grok.me](https://fonts.grok.me).
+1,397 faces. 1,554 font files. Each name opens the files in this repository. Each catalog link opens that face on [fonts.grok.me](https://fonts.grok.me).
 
 Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxinfeld@gmail.com).
 
 ## Basic · Sans serif
 
 - [CoolShift](fonts/basic/sans-serif/coolshift) — [catalog](https://fonts.grok.me/font/coolshift) · `Latin-1` `Central European` `1393 glyphs`
+- [HarborPrime](fonts/basic/sans-serif/harborprime) — [catalog](https://fonts.grok.me/font/harborprime) · 4 files · `Latin-1` `Central European` `364 glyphs`
 - [PebbleLoft](fonts/basic/sans-serif/pebbleloft) — [catalog](https://fonts.grok.me/font/pebbleloft) · 3 files · `Latin-1` `Central European` `364 glyphs`
 - [Train Station](fonts/basic/sans-serif/trainstation) — [catalog](https://fonts.grok.me/font/trainstation) · `Latin-1` `Central European` `329 glyphs`
 - [WedgeStack](fonts/basic/sans-serif/wedgestack) — [catalog](https://fonts.grok.me/font/wedgestack) · 2 files · `Latin-1` `Central European` `364 glyphs`
