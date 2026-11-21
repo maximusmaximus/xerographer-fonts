@@ -13,16 +13,16 @@
     "note": "Unlimited commercial use of the named typeface, or of the entire catalog, for one licensee. Font files may not be resold or redistributed. Typefaces may not be edited or used to create derivative fonts without written permission."
   },
   "stats": {
-    "typefaces": 1396,
-    "fontFiles": 1550,
-    "facesWithVariations": 57,
+    "typefaces": 1397,
+    "fontFiles": 1554,
+    "facesWithVariations": 58,
     "downloads": {
       "dafont": 44200610,
       "fontspace": 924199,
       "webfontfree": 466709,
       "listed": 45591518
     },
-    "facesWithAccents": 121
+    "facesWithAccents": 122
   },
   "sources": [
     {
@@ -102,6 +102,31 @@
         ],
         "supportsAccents": true,
         "updated": "2026-11-18"
+      }
+    },
+    {
+      "name": "HarborPrime",
+      "slug": "harborprime",
+      "category": "Basic",
+      "subcategory": "Sans serif",
+      "files": [
+        "HarborPrime-Regular.ttf",
+        "HarborPrime-Medium.ttf",
+        "HarborPrime-Bold.ttf",
+        "HarborPrime-Black.ttf"
+      ],
+      "catalog": "https://fonts.grok.me/font/harborprime",
+      "path": "fonts/basic/sans-serif/harborprime",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 364,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-11-20"
       }
     },
     {

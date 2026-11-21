@@ -1,0 +1,65 @@
+{
+  "name": "HarborPrime",
+  "slug": "harborprime",
+  "category": "Basic",
+  "subcategory": "Sans serif",
+  "files": [
+    {
+      "file": "HarborPrime-Regular.ttf",
+      "format": "ttf",
+      "woff2": "HarborPrime-Regular.woff2"
+    },
+    {
+      "file": "HarborPrime-Medium.ttf",
+      "format": "ttf",
+      "woff2": "HarborPrime-Medium.woff2"
+    },
+    {
+      "file": "HarborPrime-Bold.ttf",
+      "format": "ttf",
+      "woff2": "HarborPrime-Bold.woff2"
+    },
+    {
+      "file": "HarborPrime-Black.ttf",
+      "format": "ttf",
+      "woff2": "HarborPrime-Black.woff2"
+    }
+  ],
+  "notices": [],
+  "catalog": "https://fonts.grok.me/font/harborprime",
+  "coverage": {
+    "latin1": "100%",
+    "latinExtendedA": "100%",
+    "opentype": {
+      "kern": "class kerning",
+      "kernPairs": 636,
+      "legacyKernTable": true,
+      "mark": true,
+      "mkmk": true,
+      "ccmp": true
+    },
+    "version": "1.122",
+    "updated": "2026-11-20",
+    "glyphs": 364,
+    "mappedCodepoints": 363,
+    "glyphFixes": {
+      "version": "1.122",
+      "updated": "2026-11-20",
+      "note": "Even-colour neo-grotesk drawn with one constant pen: squarish bowls, square-cut terminals, tailed l, flat-top t; own-pen numbers, punctuation and symbols; own ss/SS; robust marks; proportional dashes."
+    }
+  },
+  "copyright": "Copyright (c) 2026 Max Infeld / Xerographer Fonts. All rights reserved.",
+  "designer": "Max Infeld",
+  "foundry": "Xerographer Fonts",
+  "manufacturer": "Xerographer Fonts",
+  "vendorID": "XERO",
+  "designerURL": "https://fonts.grok.me",
+  "manufacturerURL": "https://fonts.grok.me",
+  "licenseDescription": "Personal, non-commercial use is donationware. A donation to the designer is appreciated and not required. Commercial use requires a license. Commercial licensing / contact: maxinfeld@gmail.com. You may not resell, redistribute, sublicense or share the font files, or modify the typeface or create derivative fonts, without written permission.",
+  "licenseURL": "mailto:maxinfeld@gmail.com",
+  "licensing": {
+    "personal": "Donationware",
+    "contact": "maxinfeld@gmail.com",
+    "commercial": "Commercial use requires a license. Contact maxinfeld@gmail.com."
+  }
+}
