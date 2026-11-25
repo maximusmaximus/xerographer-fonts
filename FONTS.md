@@ -1,6 +1,6 @@
 # Every typeface
 
-1,397 faces. 1,554 font files. Each name opens the files in this repository. Each catalog link opens that face on [fonts.grok.me](https://fonts.grok.me).
+1,398 faces. 1,557 font files. Each name opens the files in this repository. Each catalog link opens that face on [fonts.grok.me](https://fonts.grok.me).
 
 Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxinfeld@gmail.com).
 
@@ -779,6 +779,7 @@ Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxi
 
 - [College Thrash](fonts/fancy/old-school/collegethrash) — [catalog](https://fonts.grok.me/font/collegethrash)
 - [Education](fonts/fancy/old-school/education) — [catalog](https://fonts.grok.me/font/education)
+- [FieldJersey](fonts/fancy/old-school/fieldjersey) — [catalog](https://fonts.grok.me/font/fieldjersey) · 3 files · `Latin-1` `Central European` `364 glyphs`
 - [Prized Study](fonts/fancy/old-school/prizedstudy) — [catalog](https://fonts.grok.me/font/prizedstudy)
 - [StadiumCrest](fonts/fancy/old-school/stadiumcrest) — [catalog](https://fonts.grok.me/font/stadiumcrest) · 3 files · `Latin-1` `Central European` `364 glyphs`
 - [Zero College](fonts/fancy/old-school/zerocollege) — [catalog](https://fonts.grok.me/font/zerocollege) · `Latin-1 92.7%` `Central European` `311 glyphs`
