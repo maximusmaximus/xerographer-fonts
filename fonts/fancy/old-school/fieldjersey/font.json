@@ -1,0 +1,60 @@
+{
+  "name": "FieldJersey",
+  "slug": "fieldjersey",
+  "category": "Fancy",
+  "subcategory": "Old School",
+  "files": [
+    {
+      "file": "FieldJersey-Regular.ttf",
+      "format": "ttf",
+      "woff2": "FieldJersey-Regular.woff2"
+    },
+    {
+      "file": "FieldJersey-Italic.ttf",
+      "format": "ttf",
+      "woff2": "FieldJersey-Italic.woff2"
+    },
+    {
+      "file": "FieldJersey-Outline.ttf",
+      "format": "ttf",
+      "woff2": "FieldJersey-Outline.woff2"
+    }
+  ],
+  "notices": [],
+  "catalog": "https://fonts.grok.me/font/fieldjersey",
+  "coverage": {
+    "latin1": "100%",
+    "latinExtendedA": "100%",
+    "opentype": {
+      "kern": "class kerning",
+      "kernPairs": 872,
+      "legacyKernTable": true,
+      "mark": true,
+      "mkmk": true,
+      "ccmp": true
+    },
+    "version": "1.122",
+    "updated": "2026-11-22",
+    "glyphs": 364,
+    "mappedCodepoints": 363,
+    "glyphFixes": {
+      "version": "1.122",
+      "updated": "2026-11-22",
+      "note": "Own-pen numbers, punctuation and symbols in the family construction; own ss/SS; robust marks with a 24-unit gap; proportional dashes."
+    }
+  },
+  "copyright": "Copyright (c) 2026 Max Infeld / Xerographer Fonts. All rights reserved.",
+  "designer": "Max Infeld",
+  "foundry": "Xerographer Fonts",
+  "manufacturer": "Xerographer Fonts",
+  "vendorID": "XERO",
+  "designerURL": "https://fonts.grok.me",
+  "manufacturerURL": "https://fonts.grok.me",
+  "licenseDescription": "Licensed under CC BY-NC 4.0 for non-commercial use. For commercial licensing, contact maxinfeld@gmail.com",
+  "licenseURL": "mailto:maxinfeld@gmail.com",
+  "licensing": {
+    "personal": "CC BY-NC 4.0",
+    "contact": "maxinfeld@gmail.com",
+    "commercial": "Commercial use requires a license. Contact maxinfeld@gmail.com."
+  }
+}

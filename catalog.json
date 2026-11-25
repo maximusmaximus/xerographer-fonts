@@ -13,16 +13,16 @@
     "note": "Unlimited commercial use of the named typeface, or of the entire catalog, for one licensee. Font files may not be resold or redistributed. Typefaces may not be edited or used to create derivative fonts without written permission."
   },
   "stats": {
-    "typefaces": 1397,
-    "fontFiles": 1554,
-    "facesWithVariations": 58,
+    "typefaces": 1398,
+    "fontFiles": 1557,
+    "facesWithVariations": 59,
     "downloads": {
       "dafont": 44200610,
       "fontspace": 924199,
       "webfontfree": 466709,
       "listed": 45591518
     },
-    "facesWithAccents": 122
+    "facesWithAccents": 123
   },
   "sources": [
     {
@@ -8746,6 +8746,30 @@
       ],
       "catalog": "https://fonts.grok.me/font/education",
       "path": "fonts/fancy/old-school/education"
+    },
+    {
+      "name": "FieldJersey",
+      "slug": "fieldjersey",
+      "category": "Fancy",
+      "subcategory": "Old School",
+      "files": [
+        "FieldJersey-Regular.ttf",
+        "FieldJersey-Italic.ttf",
+        "FieldJersey-Outline.ttf"
+      ],
+      "catalog": "https://fonts.grok.me/font/fieldjersey",
+      "path": "fonts/fancy/old-school/fieldjersey",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 364,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-11-22"
+      }
     },
     {
       "name": "Prized Study",
