@@ -13,16 +13,16 @@
     "note": "Unlimited commercial use of the named typeface, or of the entire catalog, for one licensee. Font files may not be resold or redistributed. Typefaces may not be edited or used to create derivative fonts without written permission."
   },
   "stats": {
-    "typefaces": 1398,
-    "fontFiles": 1557,
-    "facesWithVariations": 59,
+    "typefaces": 1401,
+    "fontFiles": 1562,
+    "facesWithVariations": 61,
     "downloads": {
       "dafont": 44200610,
       "fontspace": 924199,
       "webfontfree": 466709,
       "listed": 45591518
     },
-    "facesWithAccents": 123
+    "facesWithAccents": 126
   },
   "sources": [
     {
@@ -3886,6 +3886,28 @@
       ],
       "catalog": "https://fonts.grok.me/font/tightbox",
       "path": "fonts/fancy/decorative/tightbox"
+    },
+    {
+      "name": "ToneColumn",
+      "slug": "tonecolumn",
+      "category": "Fancy",
+      "subcategory": "Decorative",
+      "files": [
+        "ToneColumn-Regular.ttf"
+      ],
+      "catalog": "https://fonts.grok.me/font/tonecolumn",
+      "path": "fonts/fancy/decorative/tonecolumn",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 364,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-11-27"
+      }
     },
     {
       "name": "Trap Music",
@@ -12250,6 +12272,29 @@
       "path": "fonts/script/brush/chronicmethodmb"
     },
     {
+      "name": "CrateInk",
+      "slug": "crateink",
+      "category": "Script",
+      "subcategory": "Brush",
+      "files": [
+        "CrateInk-Regular.ttf",
+        "CrateInk-Bold.ttf"
+      ],
+      "catalog": "https://fonts.grok.me/font/crateink",
+      "path": "fonts/script/brush/crateink",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 364,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-11-25"
+      }
+    },
+    {
       "name": "Defy Logic",
       "slug": "defylogic",
       "category": "Script",
@@ -14495,6 +14540,29 @@
         ],
         "supportsAccents": true,
         "updated": "2026-11-17"
+      }
+    },
+    {
+      "name": "SignFacia",
+      "slug": "signfacia",
+      "category": "Script",
+      "subcategory": "Old School",
+      "files": [
+        "SignFacia-Regular.ttf",
+        "SignFacia-Tight.ttf"
+      ],
+      "catalog": "https://fonts.grok.me/font/signfacia",
+      "path": "fonts/script/old-school/signfacia",
+      "coverage": {
+        "latin1": 100,
+        "latinExtendedA": 100,
+        "glyphs": 375,
+        "languages": [
+          "Latin-1",
+          "Central European"
+        ],
+        "supportsAccents": true,
+        "updated": "2026-11-25"
       }
     },
     {

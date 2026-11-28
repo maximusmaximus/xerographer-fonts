@@ -1,6 +1,6 @@
 # Every typeface
 
-1,398 faces. 1,557 font files. Each name opens the files in this repository. Each catalog link opens that face on [fonts.grok.me](https://fonts.grok.me).
+1,401 faces. 1,562 font files. Each name opens the files in this repository. Each catalog link opens that face on [fonts.grok.me](https://fonts.grok.me).
 
 Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxinfeld@gmail.com).
 
@@ -349,6 +349,7 @@ Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxi
 - [Thunder Head](fonts/fancy/decorative/thunderhead) — [catalog](https://fonts.grok.me/font/thunderhead)
 - [Tigerian](fonts/fancy/decorative/tigerian) — [catalog](https://fonts.grok.me/font/tigerian)
 - [TightBox](fonts/fancy/decorative/tightbox) — [catalog](https://fonts.grok.me/font/tightbox)
+- [ToneColumn](fonts/fancy/decorative/tonecolumn) — [catalog](https://fonts.grok.me/font/tonecolumn) · `Latin-1` `Central European` `364 glyphs`
 - [Trap Music](fonts/fancy/decorative/trapmusic) — [catalog](https://fonts.grok.me/font/trapmusic)
 - [Woodblock Cutter](fonts/fancy/decorative/woodblockcutter) — [catalog](https://fonts.grok.me/font/woodblockcutter)
 - [World Peace](fonts/fancy/decorative/worldpeace) — [catalog](https://fonts.grok.me/font/worldpeace)
@@ -1114,6 +1115,7 @@ Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxi
 - [Brush Some](fonts/script/brush/brushsome) — [catalog](https://fonts.grok.me/font/brushsome)
 - [Brushingtons](fonts/script/brush/brushingtons) — [catalog](https://fonts.grok.me/font/brushingtons)
 - [Chronic Method MB](fonts/script/brush/chronicmethodmb) — [catalog](https://fonts.grok.me/font/chronicmethodmb)
+- [CrateInk](fonts/script/brush/crateink) — [catalog](https://fonts.grok.me/font/crateink) · 2 files · `Latin-1` `Central European` `364 glyphs`
 - [Defy Logic](fonts/script/brush/defylogic) — [catalog](https://fonts.grok.me/font/defylogic)
 - [Dirty Locals](fonts/script/brush/dirtylocals) — [catalog](https://fonts.grok.me/font/dirtylocals)
 - [Divide Conquer](fonts/script/brush/divideconquer) — [catalog](https://fonts.grok.me/font/divideconquer)
@@ -1315,6 +1317,7 @@ Copyright © Max Infeld. Commercial licensing: [maxinfeld@gmail.com](mailto:maxi
 ## Script · Old School
 
 - [SignCasual](fonts/script/old-school/signcasual) — [catalog](https://fonts.grok.me/font/signcasual) · 2 files · `Latin-1` `Central European` `364 glyphs`
+- [SignFacia](fonts/script/old-school/signfacia) — [catalog](https://fonts.grok.me/font/signfacia) · 2 files · `Latin-1` `Central European` `375 glyphs`
 
 ## Script · School
 
