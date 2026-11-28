@@ -1,0 +1,55 @@
+{
+  "name": "CrateInk",
+  "slug": "crateink",
+  "category": "Script",
+  "subcategory": "Brush",
+  "files": [
+    {
+      "file": "CrateInk-Regular.ttf",
+      "format": "ttf",
+      "woff2": "CrateInk-Regular.woff2"
+    },
+    {
+      "file": "CrateInk-Bold.ttf",
+      "format": "ttf",
+      "woff2": "CrateInk-Bold.woff2"
+    }
+  ],
+  "notices": [],
+  "catalog": "https://fonts.grok.me/font/crateink",
+  "coverage": {
+    "latin1": "100%",
+    "latinExtendedA": "100%",
+    "opentype": {
+      "kern": "class kerning",
+      "kernPairs": 1091,
+      "legacyKernTable": true,
+      "mark": true,
+      "mkmk": true,
+      "ccmp": true
+    },
+    "version": "1.121",
+    "updated": "2026-11-25",
+    "glyphs": 364,
+    "mappedCodepoints": 363,
+    "glyphFixes": {
+      "version": "1.121",
+      "updated": "2026-11-25",
+      "note": "Own-pen numbers, punctuation and symbols in the family construction; own ss/SS; robust marks with a 24-unit gap; proportional dashes."
+    }
+  },
+  "copyright": "Copyright (c) 2026 Max Infeld / Xerographer Fonts. All rights reserved.",
+  "designer": "Max Infeld",
+  "foundry": "Xerographer Fonts",
+  "manufacturer": "Xerographer Fonts",
+  "vendorID": "XERO",
+  "designerURL": "https://fonts.grok.me",
+  "manufacturerURL": "https://fonts.grok.me",
+  "licenseDescription": "Personal use is donationware. Commercial use is not included — write to maxinfeld@gmail.com",
+  "licenseURL": "mailto:maxinfeld@gmail.com",
+  "licensing": {
+    "personal": "Donationware",
+    "contact": "maxinfeld@gmail.com",
+    "commercial": "Commercial use is not included — write to maxinfeld@gmail.com"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "name": "ToneColumn",
+  "slug": "tonecolumn",
+  "category": "Fancy",
+  "subcategory": "Decorative",
+  "files": [
+    {
+      "file": "ToneColumn-Regular.ttf",
+      "format": "ttf",
+      "woff2": "ToneColumn-Regular.woff2"
+    }
+  ],
+  "notices": [],
+  "catalog": "https://fonts.grok.me/font/tonecolumn",
+  "coverage": {
+    "version": "1.121",
+    "updated": "2026-11-27",
+    "glyphs": 364,
+    "mappedCodepoints": 363,
+    "profile": "latin-363",
+    "opentype": {
+      "kern": "pair kerning",
+      "kernPairs": 3196,
+      "legacyKernTable": true
+    },
+    "glyphFixes": {
+      "version": "1.121",
+      "updated": "2026-11-27",
+      "note": "Own-letter ss/SS, 363-cp halftone, hairline floor 20/1000, counters opened."
+    },
+    "latin1": "100%",
+    "latinExtendedA": "100%"
+  },
+  "copyright": "Copyright (c) 2026 Max Infeld / Xerographer Fonts. All rights reserved.",
+  "designer": "Max Infeld",
+  "foundry": "Xerographer Fonts",
+  "manufacturer": "Xerographer Fonts",
+  "vendorID": "XERO",
+  "designerURL": "https://fonts.grok.me",
+  "manufacturerURL": "https://fonts.grok.me",
+  "licenseDescription": "Personal use is donationware. Commercial use is not included — write to maxinfeld@gmail.com",
+  "licenseURL": "mailto:maxinfeld@gmail.com",
+  "licensing": {
+    "personal": "Donationware",
+    "contact": "maxinfeld@gmail.com",
+    "commercial": "Commercial use is not included — write to maxinfeld@gmail.com"
+  }
+}
